@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (45, CTX-ROLE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-45.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (46, CTX-STATUS, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2007,6 +2007,22 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 | UG_KII_RadioPacis_RC2_27Aug | L7-L8, L10-L11, L12, L16-L17 (Amule Daniel, producer of Otita Agrikicani; run sheet; guest and presenter transport; producer for all Radio Pacis 90.9 programmes) | Accept all CTX-ROLE (flagged in 15.1) |
 | same | L17 (in charge of field activities, community voices) | Accept CTX-ROLE (FUNC-CONTENT optional for field recording) |
 | UG_KII_RadioPacis_SM_27Aug | L6 (Gaetano Apamako, station manager; coordinating officer for the FRI partnership) | Accept CTX-ROLE |
+
+---
+
+## 46. Session 10 continued (5 Oct 2026): CTX-STATUS
+
+CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-accepted). CTX-STATUS (all countries): **24 of 95 decided (18 accepted, 6 rejected), 71 left**, 24 safe rows; bulk accept off for Ghana.
+
+### 46.0 Checks for CTX-STATUS
+- Whether a **named element** is fully active, partially active, changed or lapsed: production, airtime, hub meetings, extension officer participation, feedback handling, Uliza. Coded per element; never one status for the whole hub ("the program is fully active" with no element → still fine if the element is the programme/broadcast itself).
+- Siblings: element running **with payer named** → SUST-CONTINUE; ceased or shrunk **because support diminished** → SUST-LAPSE; "we continue" with no payer → CTX-STATUS (21.1 L303 convention); hypothetical → SUST-RESTART; never existed → not coded.
+- Uliza on/off cycles, thresholds, number changes → CTX-STATUS (34.1).
+- Calls already made: Ateker RC L88 (Uliza low use), Radio Savannah SM L352-L354, EO L229-L231, Garden City EPC L83-L84, Ateker RC L24-L25 (laptop broken), Pacis RC2 L46, L75, L79, Pacis EO L34-L35.
+
+### 46.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
