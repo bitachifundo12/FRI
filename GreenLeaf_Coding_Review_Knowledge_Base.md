@@ -2048,6 +2048,21 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | same | L49-L50, L52 (attended only one hub meeting, ~two years ago) | Accept CTX-STATUS (meetings not reaching him); keep L52 with L49-L50 as one row: Reject L52 as duplicate |
 | same | L56-L58 ("It has diminished") | Reject as duplicate: same element accepted as SUST-LAPSE + CTX-STATUS on L60-L61 (23.1) |
 | same | L60-L61 (+FUNC-CONTENT: not involved in content development now) | Reject as duplicate: same span already SUST-LAPSE + CTX-STATUS (23.1) |
+| UG_KII_BBSRadio_HC_25Aug | L29 (BBS rarely misses programmes unless the radio is faulty) | Accept CTX-STATUS (broadcast active). "Steven": FRI staff? John |
+| same | L31-L32 (officers now interested, respond when told) | Reject as duplicate: same lines accepted as CTX-HUB in L30-L32 (43.1) |
+| same | L78 (Uliza "at times it goes off, then it is put back") | Accept CTX-STATUS (Uliza intermittent) |
+| UG_KII_BBSRadio_RC1_24Aug | L56 ("It is fully active, sir") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L74 (production "still the same") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L76 (airtime "still the same") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L78 (meetings "not too much"; enterprise cycles) | Accept CTX-STATUS (meetings infrequent) |
+| same | L80 (crop officers good, livestock disturb; no fuel; improved lately) | Accept CTX-STATUS (participation partial, recently better) |
+| same | L86-L87 (other stations less active since rankings stopped) | Reject as duplicate: inside the L89 SUST-LAPSE note on rankings ceasing (34.1); add there |
+| same | L93 ("a decrease in reluctance when it comes to Uliza") | Accept CTX-STATUS (~70%: means a decrease in Uliza use; "reluctance" likely mis-said) |
+| same | L133-L135 (Uliza on ~two months then off; farmers forget) | Accept CTX-STATUS (flagged in 34.1) |
+| same | L139-L140 (morale falling, Uliza switched on ~two months) | Reject as duplicate (~70%): same on/off point as L133-L135; extend that span |
+| UG_KII_BBSRadio_SM_25Aug | L33 (don't miss programmes; upload, guests, field) | Accept CTX-STATUS |
+| same | L35 ("It is currently active") | Reject as duplicate (~70%): same status as L33 |
+| same | L37 ("Not fully funded") | Accept CTX-STATUS (~70%: funding partial; the drop itself is SUST-LAPSE L41-L48) |
 
 ---
 
