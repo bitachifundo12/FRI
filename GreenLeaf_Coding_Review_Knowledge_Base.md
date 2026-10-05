@@ -1857,6 +1857,18 @@ COST-VOLUNTEER: all 18 rows decided (41.1). CTX-HIST (all countries): **20 of 38
 ### 42.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L36 (FRI call for expressions of interest to radio stations; ministry launching a radio programme) | Accept CTX-HIST (how Ateker joined; flagged in 30.1) |
+| same | L37 (both passes: ministry with IKEA support decided to use radio stations) | Accept CTX-HIST (IKEA named funder) |
+| same | L37 (pass B only, same span) | Reject as duplicate of the both-passes L37 row |
+| same | L74 (original package "about seven million per quarter? I'm not very sure") | Reject as duplicate: same span recoded SUST-LAPSE with CTX-HIST optional in the note (15.1) |
+| UG_KII_BBSRadio_HC_25Aug | L77-L78 (Uliza used before for Yellow Flesh sweet potatoes, Fall Armyworm projects) | Accept CTX-HIST (earlier projects using the platform). "Yellow Flesh" probably orange-fleshed, "Full Army worm" = Fall Armyworm |
+| same | L84 (programme on Radio Kitara, revived on BBS) | Accept CTX-HIST (flagged in 19.1). Dates from FRI |
+| UG_KII_BBSRadio_RC1_24Aug | L158-L159 (Farm Radio from the start; IKEA Foundation funds Uliza) | Accept CTX-HIST (~70%: funding lineage; hedged "I think") |
+| UG_KII_BBSRadio_SM_25Aug | L46 (first contract "an estimate of 8 million") | Reject as duplicate: inside the L44-L48 span accepted as SUST-LAPSE (23.1); CTX-HIST as second code in that note |
+| UG_KII_Ecosystem_EPC_11Sep | L25 ("we are actually in phase two of this engagement") | Accept CTX-HIST (~70%: an earlier phase of GAYO's FRI engagement; phase-one dates and funder from FRI) |
+| UG_KII_RadioPacis_RC1_27Aug | L20-L21 (Farm Radio at Pacis "more than 15 years") | Accept CTX-HIST (~70%: hedged; HC/SM give 2014 or ~2010, record both) |
+| same | L25 ("when I joined it was 100% funded by farm radio… finances also kept dropping") | Reject as duplicate: same span accepted as SUST-LAPSE (23.1); CTX-HIST optional there |
+| same | L92 ("when we started using Uliza effectively from 2022") | Accept CTX-HIST (dated start of effective Uliza use) |
 
 ---
 
