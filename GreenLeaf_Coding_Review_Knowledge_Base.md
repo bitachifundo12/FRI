@@ -1981,6 +1981,12 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 ### 45.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L6, L8 (+FUNC-CONTENT), L10, L13-L17 (name and post; weekly radio role since 2022; IPM/advisory duties) | Accept all as CTX-ROLE (own role, remit, tenure). L8 FUNC-CONTENT second code fine |
+| UG_KII_AtekerFM_HC_01Sep | L7-L8, L10 (focal person coordinating the hub; veterinary officer, district) | Accept CTX-ROLE |
+| UG_KII_AtekerFM_RC_31Aug | L7 (Innocent Kodet, host/producer, presenter, news anchor, translator) | Accept CTX-ROLE |
+| same | L95-L96 ("who manages Uliza?" — "Myself") | Accept CTX-ROLE (Q+A span, Don't quote) |
+| UG_KII_AtekerFM_SM_31Aug | L6 (James Tweny, station manager), L6 (oversees operation of the radio) | Accept both CTX-ROLE (name/post vs remit, separate rows fine) |
+| UG_KII_BBSRadio_EO_25Aug | L6, L8, L10 (district animal husbandry officer, livestock trainer, ~3 years; livestock advisory service provider) | Accept all CTX-ROLE. L8 one-word answer, Don't quote |
 
 ---
 
