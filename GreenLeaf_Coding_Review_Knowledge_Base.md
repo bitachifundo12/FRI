@@ -1798,6 +1798,16 @@ COST-OTHER: all 8 rows decided (39.1); lead queue 4 decided (39.2). COST-SETUP (
 ### 40.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L24-L25 ("The program laptop is down since it got spoiled… not been taken for repair… I don't know of its whereabouts") | Recode CTX-STATUS (~70%: element status, programme laptop broken, no cost or year). Repair need is the SUST-RESTART row on L102 (19.1) |
+| same | L25 (FRI recorder, "batteries are weak… unless we buy more batteries") | Reject as duplicate: same span recoded SUST-RESTART (37.1) |
+| same | L102 (laptop repaired or replaced; rechargeable batteries) | Reject as duplicate: same lines accepted twice as SUST-RESTART (19.1). Don't verify the "24 hours" block (time to upload, not a cost) |
+| UG_KII_AtekerFM_SM_31Aug | L104 (station's own recorder ~300,000, computer ~3m, microphones "50,0000", generator >30m) | Accept COST-SETUP (station-bought equipment, one-off; years not given). Recorder and computer are programme-used; the generator serves the whole station, so COST-BOUNDARY in the note. "50,0000" ambiguous (50,000 or 500,000): John. The donated FRI recorder is the separate COST-INKIND row (38.1) |
+| UG_KII_BBSRadio_SM_25Aug | L97-L98 ("Rough estimate 1.5 Million") | Accept COST-SETUP (~70%: value of the field laptop, which L95 says FRI donated; replacement-cost basis for that in-kind item). Whether 1.5m is the donated laptop or the station's own computer (L96): John |
+| same | L104-L106 (phone bought for YouTube streaming, 750,000) | Accept COST-SETUP (station-bought, one-off, 750,000 UGX). Fix the figure block: it is a phone, station-paid, not a donated recorder. Year not given |
+| same | L262-L265 (if they had money, a camera and a recorder, "it wears quickly") | Recode SUST-RESTART (~70%: equipment wanted, nothing bought; same as the other equipment-need rows) |
+| UG_KII_RadioPacis_SM_27Aug | L50 (zoom recorder from FRI, ~two years ago) | Reject as duplicate: same span accepted as COST-INKIND + COST-SETUP (38.1) |
+| same | L52 (zoom recorder "can go up to 700,000") | Reject as duplicate: same span accepted as COST-INKIND with the value (38.1); don't verify the block again |
+| same | L76 (equipment "from Austria, Germany or Italy… a whole thing that will be about 100 million") | Recode COST-BOUNDARY (~70%: station-wide transmitter/rack replacement, not programme equipment and not incurred; a replacement cost). 100m UGX, Estimate |
 
 ---
 
