@@ -1694,6 +1694,14 @@ KNOW-OTHER: all 10 rows given verdicts (36.1; Tilevu_02 L23 Pending). COST-CASH 
 | same | L32 (COST-CASH: "Yeah every week… he prefers going on Saturdays") | Reject as duplicate: only the frequency for L30; put "weekly" in L30's block |
 | same | L34 (COST-CASH, both passes, high: presenter ~700,000, producer ~900,000) | Accept COST-CASH (staff pay, station-paid, hedged "I think"). Period (monthly?) and share attributable to the programme unknown: John. Station salaries are normally COST-BOUNDARY (17.1), but these two staff run the programme, so keep as programme cost with the share noted |
 | same | L38 (COST-CASH, both passes: scripting 150,000, translation 150,000, editing ~100,000, quoted as 300,000 package) | Reject as duplicate: same span accepted as SUST-DEMAND-STATED (22.1, the station's price to clients, not money paid out). Don't verify the blocks. L40 producer internet ~20,000 per one-two weeks = COST-CASH, add if not coded |
+| same | L40 (COST-CASH, both passes, high: producer data "20,000… for a week I think two weeks… a Lyca of like 20 gb") | Accept COST-CASH (producer's data bundle, FRI retainer-funded per L18). One figure: 20,000 UGX per one to two weeks; don't verify the restated block |
+| same | L42 (COST-CASH, both passes, high: within the 70,000, "some 5,000 there for the presenter… to call the farmers ahead of time") | Reject as duplicate (~70%): a component of the 70,000 field-trip figure on L30; note "includes ~5,000 phone airtime" there |
+| same | L46 (COST-CASH, both passes, high: hub coordinator or extension worker on the Friday show "we usually give them… boda boda 20,000") | Reject as duplicate: same 20,000-per-guest, station-paid payment already accepted on L46 as SUST-CONTINUE + COST-CASH (21.1). Don't verify the six blocks; the 50,000 is a request, not paid |
+| same | L46 ("so he wants 50,000… I told him… this one is really at our own level") | Reject: a request for a higher rate, not money paid; same L46 row covers it. Don't verify blocks |
+| same | L60 (COST-CASH, both passes: "we pay license to UCC. Farm radio really doesn't contribute anything to that") | Recode COST-BOUNDARY (station licence, as Ateker L144). Amount on L64 |
+| same | L62 (COST-CASH, both passes, high: website hosting "about 300 dollars for a year") | Recode COST-BOUNDARY (station website hosting, overhead). Fix the block label: it is hosting, not the UCC licence. Keep USD as stated (Uganda, so no cedi issue) |
+| same | L64 (COST-CASH, both passes, high: "Ucc license for 90.9 is eight Million") | Recode COST-BOUNDARY (station licence; flagged in 32.1). 8m UGX, period not stated (annual?), John |
+| same | L78 (COST-CASH, both passes, medium: electricity "about 10 million" a month, station runs 24/7, studios, offices, transmission site) | Recode COST-BOUNDARY (whole-station energy, no programme share given). 10m UGX/month, Estimate |
 
 ---
 
