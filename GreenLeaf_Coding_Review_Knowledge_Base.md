@@ -2513,6 +2513,18 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 | same | L17 (programme fits peasant farmers, taught crop care, inputs) | Accept KNOW-VALUE |
 | same | L21 ("We like this program… insights… use available resources") | Accept KNOW-VALUE |
 | same | L22 (improves knowledge; knew less about fertilisers before) | Accept KNOW-VALUE |
+| same | L29 (all topics beneficial, reassurance, love farming again) | Accept KNOW-VALUE |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L15 (+ADOPT-BARRIER: appreciate the programme, no funds to lease land) | Accept KNOW-VALUE + ADOPT-BARRIER |
+| same | L21 (trust 50%, short of funds) | Accept KNOW-VALUE (~70%: trust level, no basis; funds point = ADOPT-BARRIER, same as L15) |
+| same | L36 (practices easy to put into practice if followed) | Accept KNOW-VALUE (~70%; answer drifts off the gender probe, no GESI) |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L11 (improved my farming skills, maize and tomato) | Accept KNOW-VALUE (flagged in 12.4) |
+| same | L17 (learn about value chains; attractive to farmers) | Accept KNOW-VALUE |
+| same | L21 (love it, presenter impressive and funny) | Accept KNOW-VALUE |
+| same | L30 (advice doesn't integrate agroforestry enough) | Accept KNOW-VALUE (negative appraisal, content gap; flagged in 35.1/36.1) |
+| same | L50 (general view positive) | Accept KNOW-VALUE (tension with L29/L30 noted) |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L10, L23, L41 | Pending: Tilevu_02 integrity hold (L23 = Olevu L30; L41 likely = Olevu L50) |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L17 (courage and morale from kitchen-garden lessons) | Accept KNOW-VALUE (ADOPT-TRIAL kitchen garden flagged in 11.5; don't quote the husband's arrest) |
+| same | L23 (listened especially to topics like kitchen gardens and watering) | Reject (~70%): listening habit and topic list, already ACC-DIRECT (12.4); no appraisal |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
