@@ -1987,6 +1987,12 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 | same | L95-L96 ("who manages Uliza?" — "Myself") | Accept CTX-ROLE (Q+A span, Don't quote) |
 | UG_KII_AtekerFM_SM_31Aug | L6 (James Tweny, station manager), L6 (oversees operation of the radio) | Accept both CTX-ROLE (name/post vs remit, separate rows fine) |
 | UG_KII_BBSRadio_EO_25Aug | L6, L8, L10 (district animal husbandry officer, livestock trainer, ~3 years; livestock advisory service provider) | Accept all CTX-ROLE. L8 one-word answer, Don't quote |
+| UG_KII_BBSRadio_EO_25Aug | L14 (livestock training, clinical services, minor surgeries) | Accept CTX-ROLE (own remit; no comparison in view here) |
+| UG_KII_BBSRadio_HC_25Aug | L6, L8-L9 (Job Byaruhanga, hub coordinator; district agriculture officer, production department) | Accept CTX-ROLE |
+| same | L16 (+FUNC-GOV: coordinates officers and broadcasters, reports monthly to Farm Radio) | Accept CTX-ROLE + FUNC-GOV (reporting line) |
+| UG_KII_BBSRadio_RC1_24Aug | L8-L13, L19-L20, L23, L27, L32 (Charity Atuhura, BBS broadcaster since 2023; uploads to Uliza, presents, gets scripts, coordinates officers) | Accept all CTX-ROLE |
+| same | L58 ("I'm not in that position to ask. I am a junior staff member") | Accept CTX-ROLE (her place in the station hierarchy) |
+| UG_KII_BBSRadio_SM_25Aug | L6, L8-L9, L11, L13 (Margaret Barungi, manager; monitoring, approving field facilitation; since 2023; oversees the station) | Accept all CTX-ROLE. Respondent category: actual station manager (5.7 decision 1) |
 
 ---
 
