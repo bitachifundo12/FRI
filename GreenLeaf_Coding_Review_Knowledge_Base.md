@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (29, REACH-ABSENT, as of 5 Oct; GESI-ACCESS has 17 rows left, see 28.1)**; conventions also in 18.0-29.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (30, REACH-AUDIENCE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-30.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1326,6 +1326,25 @@ GESI-ACCESS left with 17 rows (13 unseen + 4 Pending, see 28.1, 3 Oct). REACH-AB
 | UG_KII_RadioPacis_SM_27Aug | L80 (REACH-ABSENT + FUNC-FEEDBACK, both passes, high: "We need to do a survey… you can tell farmers are active through calls… the Uliza polls… sms… but now to talk about how many will need a survey") | Accept REACH-ABSENT + FUNC-FEEDBACK (no farmer-reach figure held; calls, Uliza polls and SMS are the feedback channels). Same absence as L93 (15.1): count once. Missed: L82 about 10 callers in a five-minute window per episode = REACH-ENGAGE (recall), add if not coded |
 | same | L86 (REACH-ABSENT, pass A only, medium: Uliza activity? "that one needed to be explained by the producer and the presenter") | Accept REACH-ABSENT (holds no Uliza figures, defers to the producer and presenter; platform measure, separate from L80). Rest of L86, Uliza poll announced across other shows, farmers' voices recorded and aired = FUNC-FEEDBACK, add if not coded. L84 UCC 200 sq km coverage = coverage-area note for the Arua denominator, no population |
 | same | L93 (REACH-ABSENT, pass A only, low: "It's an assumption so it needed a survey") | Accept REACH-ABSENT (the 2.7m on L92 is an assumption, no survey held; the row flagged in 15.1). Same absence as L80: count once. L93 is tagged "M" but reads as the respondent continuing: John to fix the speaker tag before quoting. L92 2.7m = REACH-AUDIENCE, basis "assumption", add if not coded. L94-L95 IPSOS asked ~3m UGX per region for data = note for the denominator (a measured figure is buyable) |
+
+---
+
+## 30. Session 10 continued (5 Oct 2026): REACH-AUDIENCE
+
+REACH-ABSENT: 31 distinct rows given verdicts in 29.1 (L187 shown twice), so about 1 of 32 may be left; check the app. REACH-AUDIENCE started (all countries): **0 of 10 decided**, 2 safe rows offered (only 10 rows, read each).
+
+### 30.0 Checks for REACH-AUDIENCE (Appendix A + 5.3 + 29.1)
+- **Any estimate of how many people hear the programme** (per episode, per week, total), with its basis. The passage is coded even when the basis is missing (the frame's own example, 8,000 farmers at Radio Savannah, has no stated method), but the figure block then says basis "not stated" and the figure **cannot enter the workbook** until it has a denominator note (5.3 rule 2; Section 11 decision 3: no cost-per-farmer figure until the per-country reach definition exists).
+- **Say what the figure is of:** programme listeners vs station listenership vs coverage-area population (Ateker SM L120 "potential reach" 2m; BBS SM L139 IPSOS 10m+ station-level, 2024). Station figures are still this code (frame's Uganda example) but labelled station-level.
+- **Not this code:** a hypothetical or illustrative number (EPC2 L187 "10,000" → no); coverage in square kilometres or districts with no people count (Pacis SM L84) → denominator note only; callers or attendees → REACH-ENGAGE; Uliza figures → REACH-PLATFORM (Uganda only); no figure held → REACH-ABSENT.
+- **Never average a disagreement** (5.3 rule 1): each respondent's figure keeps its own row, respondent attached. The same figure repeated across rows is entered once.
+- **Figure block:** value as stated, unit (farmers/people), basis (per broadcast/episode/total), confidence (Estimate/Recalled/Measured), verified No until someone presses Verify (Ahmed Ghana, John Uganda). Sex split usually missing: say so (client commitment).
+- **Expected rows:** Radio Savannah RP L16 (~500 per airing); Pacis SM L92 (2.7m of ~4m West Nile, "assumption"); BBS SM L139 (IPSOS 10m+); Ateker SM L120 (2m potential); the 8,000 Radio Savannah field-note figure if it appears in a transcript (flagged, no method).
+
+### 30.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| GH_KII_RadioSavannah_RP_10Aug | L16 (REACH-AUDIENCE, both passes, medium: "but almost 500 farmers are reached when we air") | Accept REACH-AUDIENCE (a per-broadcast audience estimate; flagged in 15.1). Figure block: 500 farmers per broadcast, basis not stated, Estimate, verified No; cannot enter the workbook without a denominator note. Conflicts with the 8,000-per-broadcast figure in the Radio Savannah field notes: record both with respondents, never average. Not recorded, TRN from notes: Ahmed to check the notes for any basis given |
 
 ---
 
