@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (35, KNOW-CONFUSE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-35.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (36, KNOW-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-36.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1585,6 +1585,23 @@ REACH-PLATFORM: all 17 rows given verdicts (34.1). The REACH family is now done 
 | UG_IDI_RadioPacis_Andifeku_07_28Aug | L31 (KNOW-CONFUSE, both passes, medium: Aniku Moses, "I have not found any of the advice confusing or difficult to believe… clear, practical, and relevant") | Accept KNOW-CONFUSE as recorded absence. L28 invested in 100+ coffee and banana plants after farmers' success stories on the programme = ADOPT-TRIAL, add if not coded |
 | UG_IDI_RadioPacis_Rondo_01_28Aug | L31 (KNOW-CONFUSE, both passes, medium: Eyotia Anthony, "Sometimes I find the advice challenging when guests, such as agro-input dealers, talk about using inorganic fertilizers… difficult for me because I mainly use organic") | Accept KNOW-CONFUSE (~70%: guests on the programme contradict its organic line, so the advice doesn't fit his practice; same pattern as Olevu L29, here inside the programme). Not ADOPT-BARRIER (no cost or input lacking) |
 | UG_IDI_RadioPacis_Rondo_02_28Aug | L32 (KNOW-CONFUSE, both passes, high: Sharon Asereru, "No, I have not found anything confusing or difficult to believe… clear, practical, and easy for me to understand") | Accept KNOW-CONFUSE as recorded absence (broadcast content). Her L75 Uliza difficulty (KNOW-CONFUSE, 11.4) is a different channel: record both. L35 discussed poultry with mother-in-law and husband, started small = DIFF-KIN + ADOPT-TRIAL, add if not coded |
+
+---
+
+## 36. Session 10 continued (5 Oct 2026): KNOW-OTHER
+
+KNOW-CONFUSE: all 49 rows given verdicts (35.1; Have Ando L130, Tilevu_02 L13 and L22 Pending). KNOW-OTHER started (all countries): **0 of 10 decided**.
+
+### 36.0 Checks for KNOW-OTHER (Appendix A + earlier KNOW conventions)
+- **Last resort.** Try each KNOW code first: a named, checkable piece of advice → KNOW-RECALL (topic names alone, e.g. intercropping, line planting, vaccination, are too general, 11.3/12.2); trust from how the programme is made (experts, research, two-way format) → KNOW-TRUST-PROCESS; trust from results or reliability → KNOW-TRUST-OUTCOME (incl. distrust from failed forecasts, 35.1 Rupa_06 L32); appraisal with no content ("improved our knowledge", "very helpful") → KNOW-VALUE, never evidence of knowledge gain; couldn't act on, understand, or believe, or "nothing confusing" → KNOW-CONFUSE.
+- Then other families: practice started/kept/dropped → ADOPT; passing it on → DIFF; how they hear it → ACC; other sources compared → ECO-COMPARATOR (both sets now).
+- **Accept KNOW-OTHER only** for knowledge-and-trust material no code holds (e.g. mixed trust with no stated basis, trust in a person rather than the programme), with the reason; recurring content → Frame note.
+- A plain topic list describing the programme, with no appraisal or recall detail → not KNOW-VALUE (12.2); not KNOW-OTHER either unless the team wants topic awareness tracked: Reject by default.
+- Community set; facilitator-led or leading probes weigh lightly; RA reconstructions paraphrase only; Tilevu_02 hold.
+
+### 36.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
