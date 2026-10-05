@@ -2290,6 +2290,19 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L78 (extension contact helpful for off-air follow-up) | Recode ACC-OTHER (~70%: flagged in 12.4 as ACC-OTHER, the programme's extension contact used for follow-up; if an independent officer → keep ECO-COMPARATOR) |
 | UG_KII_AtekerFM_EO_01Sep | L23 (ratio of extension workers 1:1000 or 2000, radio reaches many) | Accept, **Quantified Yes** (flagged in 33.1). Figure: 1:1000-2000, Estimate |
 | same | L33 (motorbike, ~10 farmers a day in town, two days to round) | Accept, Quantified Yes (reach per day of face-to-face extension; with L34-L39 costs, count once) |
+| same | L34, L37, L39 (boda ~1,000; SDA 12,000; fuel 7,000/litre) | Reject as duplicates: same spans already recoded ECO-COMPARATOR Yes from COST-CASH (37.1) |
+| same | L44 (ratio 1:1000+) | Reject as duplicate (~70%): same ratio as L23; enter once there |
+| same | L47-L49 (radio vs going to the field, "this one of the radio is okay") | Accept, No (stated preference) |
+| same | L51 (+GESI-ACCESS: radio reaches those with radios; those without must be reached physically) | Accept ECO-COMPARATOR No + GESI-ACCESS (~70%: households without radios as a group) |
+| same | L58 (facilitate extension workers to reach those unreached by radio) | Accept, No (~70%: recommendation setting physical extension against the radio) |
+| UG_KII_AtekerFM_HC_01Sep | L110 (no other source; extension ratio unbalanced) | Accept, No |
+| same | L112-L113 (one extension worker per ~500 farmers) | Accept, Yes. Figure 1:500 (vs EO's 1:1000-2000: record both) |
+| same | L124 ("1:500… not very different from the actual truth") | Reject as duplicate (~70%): same ratio as L112-L113, his basis (field observation) goes in that note |
+| same | L130 (5 litres of fuel to a parish) | Accept, Yes (mid-range per L132) |
+| same | L135 (mobilisation, sometimes a day before) | Accept, No |
+| same | L141 (airtime 20,000 + fuel 30,000 ≈ 50,000) | Accept, Yes |
+| same | L143 (roughly 65,000) | Accept, Yes (revised average; enter 65,000 as the central figure) |
+| same | L145 (extreme 150,000) | Accept, Yes (upper bound; low 50,000 at L147, record range 50,000-150,000) |
 
 ---
 
