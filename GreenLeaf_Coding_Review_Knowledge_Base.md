@@ -1928,6 +1928,12 @@ CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decide
 | same | L15-L16 (members committed, ask for radio time) | Accept CTX-HUB (~70%: roster engagement) |
 | same | L82 (producer, broadcaster, hub chairperson who checks Pacis performance) | Accept CTX-HUB. L84 no woman on the team = GESI-OTHER, add if not coded |
 | UG_KII_RadioPacis_RC2_27Aug | L11 (+FUNC-PARTNER: hub = production, agriculture, farmers association; partners Syova, ARUDIFA) | Accept CTX-HUB + FUNC-PARTNER (hub departments; Syova and ARUDIFA as partners, as elsewhere) |
+| UG_KII_RadioPacis_RC2_27Aug | L56 (when a guest can't come, the hub coordinator steps in) | Accept CTX-HUB (stand-in) |
+| same | L62 (thanks to district hub coordinator Adile Nelson) | Accept CTX-HUB (names the coordinator; flagged in 15.1) |
+| UG_KII_RadioPacis_SM_27Aug | L8 (hub = district technical team, mainly the agriculture officer, plus producer and presenter) | Accept CTX-HUB (flagged in 30.1) |
+| same | L10 (female presenter's contract not renewed) | Accept CTX-HUB (turnover) |
+| same | L10 (+GESI-OTHER: no woman left on the station side; coordinator wants a female voice) | Accept CTX-HUB + GESI-OTHER (gender gap on air; GESI-ROLE Ghana only). Overlaps the previous row: CTX-HUB once, keep for the GESI point. Whether she was replaced: John |
+| same | L46 (agriculture officer, extension worker, commercial officer as technical guests) | Accept CTX-HUB (named roster roles; the 20k is the COST-CASH/SUST-CONTINUE row) |
 
 ---
 
