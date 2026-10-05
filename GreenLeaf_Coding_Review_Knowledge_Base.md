@@ -2480,6 +2480,15 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 ### 54.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| GH_FGD_GardenCityRadio_AtwimaNerebihi_01_18Aug | L24 opening ("there to help them and give them information") | Accept KNOW-VALUE (the rest of L24 is the KNOW-CONFUSE rows, 35.1). RA reconstruction |
+| GH_FGD_GardenCityRadio_Jamasi_01_19Aug | L18 (enjoys the debate section, Mr Kyiwa) | Pending (Akuafo Mrre identity check, 14.1: if Green Leaf → Accept KNOW-VALUE; if the separate Friday programme → Recode ECO-COMPARATOR No) |
+| same | L38 (cocoyam woman gets some of the teachings, would improve harvest if timely) | Accept KNOW-VALUE (decided in 14.1 on the ACC-SCHED row; same call) |
+| GH_FGD_RadioSavannah_Sakogu_01_13Aug | L25 ("would be very helpful… market prices") | Reject (~70%): answer to a hypothetical about guaranteed coverage, already ACC-OTHER (13.1); not an appraisal of the programme as heard |
+| GH_FGD_RadioSavannah_Sankpagla_01_14Aug | L29 ("We benefit so much from these radio programmes") | Accept KNOW-VALUE (the maize-to-beans advice after it is KNOW-RECALL/ADOPT, add if not coded) |
+| GH_FGD_VoltaStar_FodomeXelu_01_25Aug | L44 ("it's enriching their knowledge") | Accept KNOW-VALUE (the frame's own example, from this session) |
+| GH_FGD_VoltaStar_HaveAndoNo1_01_25Aug | L219-L220 (taught how to care for produce on the field and after harvest) | Accept KNOW-VALUE (topic area, not checkable advice). Interpreter relay |
+| same | L222-L223 (same, not only women) | Reject as duplicate (~70%): restates L220 |
+| GH_IDI_GardenCityRadio_Bekwai_01_31Aug | L14 (a lot of advice: crop management, how to plant) | Accept KNOW-VALUE (topics too general for KNOW-RECALL) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
