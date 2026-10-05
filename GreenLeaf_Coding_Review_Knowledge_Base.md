@@ -2005,6 +2005,8 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 | UG_KII_RadioPacis_HC_28Aug | L6, L8-L9, L65 (Nelson Adile, district hub coordinator and agricultural officer; quality assurance and coordinating hub members) | Accept all CTX-ROLE |
 | UG_KII_RadioPacis_RC1_27Aug | L7, L9, L21 (Joel Eyoti, broadcaster and host of Otita Agrikicani, Fridays 4-5pm; research, guests, coordination; fifth year at Pacis) | Accept all CTX-ROLE |
 | UG_KII_RadioPacis_RC2_27Aug | L7-L8, L10-L11, L12, L16-L17 (Amule Daniel, producer of Otita Agrikicani; run sheet; guest and presenter transport; producer for all Radio Pacis 90.9 programmes) | Accept all CTX-ROLE (flagged in 15.1) |
+| same | L17 (in charge of field activities, community voices) | Accept CTX-ROLE (FUNC-CONTENT optional for field recording) |
+| UG_KII_RadioPacis_SM_27Aug | L6 (Gaetano Apamako, station manager; coordinating officer for the FRI partnership) | Accept CTX-ROLE |
 
 ---
 
