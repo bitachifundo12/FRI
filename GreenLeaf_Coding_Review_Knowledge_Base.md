@@ -2103,6 +2103,14 @@ CTX-STATUS: rows in 46.1 decided (check remaining). DIFF-FORMAL (all countries):
 ### 47.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L21 (VSLA sentence; earlier note Pending) | Still Pending (27.1): integrity hold with Tilevu_02 L19 and the content-at-meetings question; no new note |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L19 (both rows), L26 | Still Pending: Tilevu_02 integrity hold (27.1); no new notes |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L57 ("move with the chairperson deep in the villages, I advise the farmers… they take it up") | Recode DIFF-INFORMAL (~70%: village visits, not meetings of a named group). Practice is from L54 (animal dung, Green Leaf advice). Caveat: whether he listens (12.6) |
+| same | L71 (AGM, discuss with MADFA coffee coordinator) | Accept DIFF-FORMAL (~70%: cooperative AGM, a standing group's meeting). Whether Green Leaf content is discussed there: John. MADFA = MADIFA? (17.2) |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L37 ("discuss with my groupmates being a group chairperson") | Accept DIFF-FORMAL (~70%: a group he chairs; unnamed, meetings implied) |
+| same | L44 (group members tried manure "there are some that have tried it") | Accept DIFF-FORMAL (~70%: uptake through the group; leading facilitator prompt at L43, weigh lightly) |
+| UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L18 ("Yega Okole group?" — "yes, I am") | Reject (~70%): membership only, she doesn't listen and nothing passes to her (L16, L21) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L46 (group of 30, some interested, "good followers of the program") | Accept DIFF-FORMAL (~70%: a 30-member group following the programme; unnamed, meetings not stated) |
 
 ---
 
