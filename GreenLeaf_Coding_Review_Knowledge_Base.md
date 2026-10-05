@@ -2223,6 +2223,9 @@ DIFF-OTHER: rows in 50.1 decided. ECO-ACTOR (all countries, both sets): **14 of 
 | same | L48 (+SUST-REVENUE: IJM, GBV talk show) | Reject as ECO-ACTOR (IJM not agricultural, 15.1); SUST-REVENUE already accepted on L48 |
 | UG_KII_Ecosystem_EPC2_21Aug | L114 (OpenGate FM covers Kapchorwa from Mbale/Nimbali) | Accept ECO-ACTOR (another station in AID Environment's area) |
 | same | L218 (input dealers promote synthetic products, contradicting organic messaging) | Accept ECO-ACTOR (~70%: agro-dealers as actors; flagged in 22.1) |
+| UG_KII_RadioPacis_HC_28Aug | L12 ("we have so many radio stations here in West Nile") | Reject (~70%): no station named; the coverage point is the REACH-OTHER/CTX-OTHER rows |
+| UG_KII_RadioPacis_RC2_27Aug | L32 (Mega, Unity, Radio Maria Kabale, Voice of Teso use the same signature tune, different language) | Recode FUNC-PARTNER (~70%: fellow FRI Green Leaf hub stations sharing the format, part of the network, not independent actors). CTX-HUB is the alternative if the lead treats the network as one hub set |
+| UG_KII_RadioPacis_SM_27Aug | L95 (+COST-CASH: IPSOS sells regional data ~3m) | Reject as duplicate: same span recoded COST-BOUNDARY (37.1). IPSOS is a research supplier, not in the extension space |
 
 ---
 
