@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (46, CTX-STATUS, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (47, DIFF-FORMAL resumed, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2093,6 +2093,16 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | same | L79 (rice series on ~two months) | Reject as duplicate: same, 32.1 |
 | UG_KII_RadioPacis_SM_27Aug | L12 (after every show they sit 15 minutes to evaluate) | Accept CTX-STATUS (post-show review active; agrees with EO L10) |
 | same | L16 ("Yes it is fully active") | Accept CTX-STATUS (slot already REACH-EPISODE, 32.1) |
+
+---
+
+## 47. Session 10 continued (5 Oct 2026): DIFF-FORMAL resumed
+
+CTX-STATUS: rows in 46.1 decided (check remaining). DIFF-FORMAL (all countries): **16 of 30 decided (15 accepted, 1 rejected), 14 left**. Checks: 27.0 (named standing group with meetings; Guide test vs ACC-SHARED; programme content, not the group's other business), lead rulings 39.2 (one answer naming two routes → one code per route). Tilevu_02 hold still applies.
+
+### 47.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
