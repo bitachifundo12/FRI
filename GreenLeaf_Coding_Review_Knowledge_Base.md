@@ -2084,6 +2084,15 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | same | L27 (hub meetings after the programme "have not really been affected") | Accept CTX-STATUS (flagged in 23.1) |
 | same | L60 (Uliza works two to three days, then off) | Accept CTX-STATUS (Uliza partial) |
 | UG_KII_RadioPacis_RC2_27Aug | L31 ("actively fully done") | Accept CTX-STATUS |
+| same | L36 (all segments done; farmers news sometimes drops for staff sickness) | Accept CTX-STATUS (per segment) |
+| same | L46 ("a lot of great improvement… shows very consistent… experts… even with the diminished support") | Reject as duplicate: same span recoded CTX-STATUS from SUST-LAPSE (23.1) |
+| same | L64 (experts come for the shows, credible) | Recode FUNC-CONTENT (flagged in 15.1: extension officers make the shows credible); not a status statement |
+| same | L71 (Uliza activated for every programme) | Accept CTX-STATUS (flagged in 15.1). Conflicts with L77 (off June-July): record both |
+| same | L75 (deactivated when traffic too high or thresholds hit) | Reject as duplicate: same span recoded CTX-STATUS from REACH-PLATFORM (34.1) |
+| same | L77 (Uliza on in August, off June and July) | Reject as duplicate (~70%): inside the L77-L79 span accepted as REACH-EPISODE + CTX-STATUS (32.1) |
+| same | L79 (rice series on ~two months) | Reject as duplicate: same, 32.1 |
+| UG_KII_RadioPacis_SM_27Aug | L12 (after every show they sit 15 minutes to evaluate) | Accept CTX-STATUS (post-show review active; agrees with EO L10) |
+| same | L16 ("Yes it is fully active") | Accept CTX-STATUS (slot already REACH-EPISODE, 32.1) |
 
 ---
 
