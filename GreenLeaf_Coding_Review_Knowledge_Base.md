@@ -2444,6 +2444,18 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | same | L69 (expects better yield on manured trees) | Reject as duplicate (~70%): anticipated gain, same as L53 |
 | UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L87-L88 (organic fertiliser, more coffee fruit, more income) | Accept INC-CHANGE |
 | same | L91 (yield up; input use and labour also up) | Accept INC-CHANGE (cost side, distinct from L88) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L57 (larger scale since Green Leaf advice; beans 2 → ≥5 bags, groundnuts 1 → ≥20 expected) | Accept INC-CHANGE. Figure: current-season expectations, not realised, Recalled |
+| same | L73 (same figures restated) | Reject as duplicate of L57 |
+| same | L76 (more inputs and time than before) | Accept INC-CHANGE (cost side, distinct) |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L81 (early planting, certified seed, harvests drastically increased) | Accept INC-CHANGE |
+| same | L97 (more income from higher harvests vs late planting) | Accept INC-CHANGE (~70%: income outcome, separate from L81 yield) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L56-L57 (maize ~12 bags, cassava 4 → >30 bags) | Accept INC-CHANGE. Figure: bag size, base year unknown; L81 (maize <10 bags) runs the other way, record both |
+| same | L75 (manure: better crops, less spent on fertiliser, extra labour) | Accept INC-CHANGE (yield and cost) |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L43 (line planting: <2 bags → >3 bags, fewer seeds) | Accept INC-CHANGE |
+| same | L57 (line planting improved yield) | Reject as duplicate (~70%): same gain as L43 |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L43 (improvements in harvest and income) | Accept INC-CHANGE |
+| same | L57 (circular regenerative agriculture, yields up) | Reject as duplicate (~70%): same gain as L43, practice named here; carry in L43 note |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L40 (ridges make weeding easier) | Recode ADOPT-TRIAL (~70%: labour ease, not yield, income or cost figure; practice tried with programme attribution L37). Yield gain is L43, add if not coded |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
