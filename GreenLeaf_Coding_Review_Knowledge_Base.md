@@ -1294,6 +1294,9 @@ GESI-ACCESS left with 17 rows (13 unseen + 4 Pending, see 28.1, 3 Oct). REACH-AB
 ### 29.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| GH_KII_GardenCityRadio_EPC_17Aug | L190 (REACH-ABSENT: "we may not be able to give you quantitative figures, but… we get messages, phone calls from farmers") | Accept REACH-ABSENT (explicit: no quantitative figures held, only qualitative contact). L187-L189 feedback through districts, extension agents and farmers reaching the officer = FUNC-FEEDBACK, add if not coded |
+| same | L196-L202 (REACH-ABSENT, pass B only, medium: "that app is not with us… the recording, the feedback is with them [the radio]… we can request from them") | Accept REACH-ABSENT (~70%: the regional department holds no platform or feedback records, the station does; separate statement from L190, which is about figures in general). "Ueliza" at a Ghana hub contradicts the record that no Ghana station uses Uliza (known doubtful point; L204 "concrete feedback… they are questioning it"): Ahmed, audio 15:06-15:35, what system is meant. Not REACH-PLATFORM. Span L194-L202; interviewer "Okay"s inside it; Don't quote. Follow-up: request the station's records |
+| GH_KII_GardenCityRadio_SM_17Aug | L152 (REACH-ABSENT, both passes, high: "It should be difficult… they used to do… listenership sampling and research") | Reject as duplicate (~70%): L152-L153 are one answer to L151, and the L153 row was already recoded to REACH-ABSENT (23.1). If that recode did not save, Accept this one instead with span L151-L153 (L153 carries the reason: sampling stopped over financial issues). L154 he doesn't base listenership on call-ins = basis note |
 
 ---
 
