@@ -1734,6 +1734,18 @@ COST-CASH: rows from 37.1 decided (check the remaining count; Ateker SM L93 Pend
 | same | L34 ("we normally use the funds we have at the department… salary and allowances") | Reject as duplicate: same span accepted as SUST-CONTINUE + COST-INKIND (21.1) |
 | same | L90 (officers "using their own budget for their extension… not been operating on any budget") | Accept COST-INKIND (~70%: officers' participation drawn from the district extension budget, no programme budget). Wording is self-contradictory: John |
 | same | L105-L107 (750,000-1 million per individual extension worker) | Reject as duplicate: same span accepted as SUST-CONTINUE with the figure block (21.1) |
+| UG_KII_BBSRadio_SM_25Aug | L95 ("The laptop. It was donated to us by Farm Radio") | Accept COST-INKIND (donated equipment; COST-SETUP second code, year unknown). L98 "1.5 million" may be the station's own computer, not this laptop: John |
+| same | L99 ("The recorder was also donated to us.") | Accept COST-INKIND (donated recorder, FRI implied by L95; COST-SETUP second code). No value |
+| same | L108 (airtime "donated by the station?" — "The station.") | Accept COST-INKIND (station-borne airtime; leading Q, one word, Don't quote). Same as L78 SUST-CONTINUE + COST-INKIND and HC L13: one in-kind airtime line |
+| same | L137 ("Definitely all… the Laptop and the Recorder" would need buying) | Reject as duplicate: same span accepted as SUST-RESTART with COST-INKIND in the note (19.1) |
+| same | L247 ("We didn't remove… the radio is also putting in… costs remain") | Reject as duplicate: same span accepted as SUST-CONTINUE (21.1); the station's in-kind contribution is the airtime line already counted |
+| UG_KII_Ecosystem_EPC2_21Aug | L94 (district "usually have air time, but… limited to… other sectors and communications") | Reject (~70%): a general remark that district airtime goes to other sectors, no resource supplied to the programme; L94 is already SUST-RESTART "Strategy:" (21.1) |
+| UG_KII_RadioPacis_EO_27Aug | L76 ("between one to two hours… 30 minutes to prepare, one hour on the radio, another 30 minutes to evaluate") | Accept COST-INKIND (officer time per episode). One block: 1-2 hours per episode, government staff time, Estimate; don't verify the 30-minute duplicates. Net of the facilitation token if valued |
+| same | L78-L79 ("it adds value to your duty… a radio talk show and in most cases the district does not have funding") | Reject as duplicate: same span accepted as ECO-POLICY (26.1); the time contribution is on L76 |
+| UG_KII_RadioPacis_EPC_28Aug | L55 (quiz prizes: "a kilo of sunflower and a t-shirt and then a cap") | Accept COST-INKIND (sponsor-supplied prizes, in kind; same span also SUST-REVENUE + FUNC-PARTNER, 15.1). Value needs prices: John |
+| UG_KII_RadioPacis_HC_28Aug | L29 (district provides extension under MAAIF arrangements; FRI "supporting the community radio and… provides the air time") | Accept COST-INKIND (~70%: district staff time is in-kind; note the airtime here is FRI-paid, so cash, not in-kind: say so). FUNC-GOV (cost-sharing) flagged in 26.1, add if not coded |
+| UG_KII_RadioPacis_RC1_27Aug | L49 (West Nile Foresters "give tree seedlings free of charge when we partner with them") | Accept COST-INKIND (~70%: free seedlings for the station's Go Green campaign; station campaign, not clearly Green Leaf: say so). No quantity or value |
+| UG_KII_RadioPacis_RC2_27Aug | L65 ("Farm Radio gave these radios previously to those groups") | Accept COST-INKIND + COST-SETUP (donated radio sets to listener groups; flagged in 15.1). Quantity and year unknown, John |
 
 ---
 
