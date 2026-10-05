@@ -2416,6 +2416,19 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | GH_IDI_RadioSavannah_Golinga (number cut off; the L40 discussion-group session) | L43 (planting timing per advice, avoided heavy-rain losses) | Accept INC-CHANGE (flagged in 27.1). Confirm session ID |
 | GH_IDI_RadioSavannah_Golinga_03_11Aug | L37 (compost, good harvest without fertiliser) | Accept INC-CHANGE (flagged in 35.1; plans to repeat) |
 | same | L46 (harvest corn fresh, avoids weevils in storage) | Accept INC-CHANGE (post-harvest loss; ADOPT-SUSTAIN second code) |
+| GH_IDI_RadioSavannah_Golinga_04_11Aug | L43 ("great changes and progress in my farming") | Recode KNOW-VALUE (~70%: no yield, income or loss named; the crop/manure trial earlier in L43 is ADOPT-TRIAL) |
+| GH_IDI_RadioSavannah_Golinga_05_11Aug | L37 (manure boosts fertility for two seasons vs fertiliser every year) | Accept INC-CHANGE (input cost saving) |
+| GH_IDI_RadioSavannah_Sankpagla_01_14Aug | L37 (followed recommended timing and maize breed, avoided planting into drought) | Accept INC-CHANGE (~70%: loss avoided; ADOPT-TRIAL second code) |
+| GH_IDI_VoltaStar_AdakluAgblefe_01_25Aug | L114-L121 (fragments: "the least like formerly… demand not there… better than before") | Pending (~55%: fragmentary interpreter relay; could be income or market demand, INC-MARKET). Ahmed, audio 07:22-07:38 |
+| same | L133-L136 ("the application that changes… better sales as well") | Pending (fragments; may answer the cost question, INC-INVEST). Ahmed, audio 08:28-08:34 |
+| GH_IDI_VoltaStar_AdakluAgblefe_02_25Aug | L59-L60 ("vegetables performed better and you sold more") | Reject (~70%): the interviewer's summary, not the respondent's words; code the answer if one follows |
+| GH_IDI_VoltaStar_FodomeXelu (IDI, female; number cut off) | L97 ("There's an increase in the yield") | Accept INC-CHANGE (~70%: answer to how programme practices impacted her; crop and period to confirm). Confirm session ID |
+| GH_IDI_VoltaStar_FodomeXelu_01_25Aug | L106 ("It has reduced the expense that you're paying") | Accept INC-CHANGE (~70%: cost reduction; which expense, Ahmed) |
+| GH_IDI_VoltaStar_FodomeXelu_02_25Aug | L58-L59 (row planting: 6 bags/acre before, 20 now) | Accept INC-CHANGE. Figure: 6 → 20 bags/acre, crop (rice?), bag size, period not stated; interpreter relay, illustrative only, no ROI weight without corroboration |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L12 ("information has helped… food… money every three months… school fees") | Recode KNOW-VALUE (~70%: no practice named on the line; flagged as possible INC-CHANGE in 12.4 with that caveat) |
+| same | L20 (kitchen garden after listening, >100,000 in under a year) | Accept INC-CHANGE. Figure: >100,000 UGX, <1 year, Recalled |
+| same | L24 (tomato practices learnt, improved production) | Accept INC-CHANGE ("100 tomato plants" is scale, not income) |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L44 (good harvest vs neighbours; this season poor) | Accept INC-CHANGE (~70%: answer to "what happened when you tried it", the kitchen garden from the programme, L17) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
