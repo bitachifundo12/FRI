@@ -1917,6 +1917,17 @@ CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decide
 | UG_KII_Ecosystem_EPC2_21Aug | L163 (hub coordinators are the district representatives, Department of Agriculture) | Accept CTX-HUB (second-hand, general across hubs) |
 | same | L168 (topic-matched specialists, e.g. district forestry officers for agroforestry) | Accept CTX-HUB (~70%: district DFOs as topic-matched roster, like the frame example; FUNC-PARTNER if the lead counts them as outside the hub) |
 | UG_KII_RadioPacis_EO_27Aug | L85 (producer, technician, presenters develop Uliza questions) | Accept CTX-HUB (roles and who does what on Uliza) |
+| UG_KII_RadioPacis_HC_28Aug | L14 (if John is not around "you can get somebody to substitute"; members committed) | Accept CTX-HUB (substitution). Who "John" is: not established |
+| same | L15 (role play so the gap isn't left; outsiders won't do it the way trained presenters do) | Accept CTX-HUB (stand-in limits) |
+| same | L47 ("if there's a topic I feel as a staff from Yumbe can do it… balance across") | Accept CTX-HUB (roster balanced across districts; separate from the L47 COST-VOLUNTEER point) |
+| same | L67 ("quality assurance is my mandate… we have a radio monitor") | Accept CTX-HUB (radio monitor role); his own mandate = CTX-ROLE |
+| same | L69 (radio monitor independent, not extension worker or presenter) | Reject as duplicate (~70%): same role as L67; extend that span to L69 |
+| same | L84-L85 (doesn't monopolise; sent a hub member to the Lira coordination meeting; four or five have gone) | Accept CTX-HUB (rotation of members to meetings) |
+| UG_KII_RadioPacis_RC1_27Aug | L9 ("when my producer is taken up, I cover him up") | Accept CTX-HUB (stand-in; rest of L9 is CTX-ROLE) |
+| same | L12 (hub chairperson dedicated, informs early for backups, coordinates) | Accept CTX-HUB. Chairperson's name: John |
+| same | L15-L16 (members committed, ask for radio time) | Accept CTX-HUB (~70%: roster engagement) |
+| same | L82 (producer, broadcaster, hub chairperson who checks Pacis performance) | Accept CTX-HUB. L84 no woman on the team = GESI-OTHER, add if not coded |
+| UG_KII_RadioPacis_RC2_27Aug | L11 (+FUNC-PARTNER: hub = production, agriculture, farmers association; partners Syova, ARUDIFA) | Accept CTX-HUB + FUNC-PARTNER (hub departments; Syova and ARUDIFA as partners, as elsewhere) |
 
 ---
 
