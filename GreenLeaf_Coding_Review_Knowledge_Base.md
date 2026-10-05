@@ -2389,6 +2389,7 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 ### 53.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| GH_FGD_GardenCityRadio_Jamasi_01_19Aug | L22 (line planting from the programme, ~10 bags per acre vs old technique) | Accept INC-CHANGE (practice and attribution on the line; ADOPT-TRIAL/SUSTAIN second code). Figure: ~10 bags/acre, crop (maize or cassava), bag size and old yield not stated, Recalled. RA reconstruction, paraphrase only; Akuafo Mrre identity caveat (L22 names Greenleaf, so weaker here) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
