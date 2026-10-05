@@ -2318,6 +2318,20 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L76-L77 (nearest 5,000-6,500) | Reject as duplicate: L77 recoded (37.1) |
 | same | L78-L79 (average 20,000, prompted) | Reject as duplicate: L79 recoded (37.1) |
 | same | L80-L85 (extension grant, government, quarterly, delays) | Accept, No (funding source of the comparator) |
+| same | L89 (100 farmers a month) | Accept, Yes (recall) |
+| same | L92-L93 ("Less 200,000") | Reject as duplicate: L93 recoded Yes (37.1) |
+| same | L102 (radio reaches hundreds vs 10; one officer per ~2,000) | Accept, Yes |
+| same | L104 (five months to reach the first again; radio weekly) | Accept, Yes (time-to-revisit comparison) |
+| same | L107 (sometimes physical visit needed; often not) | Accept, No |
+| same | L120 (move with a farmer six months on an enterprise) | Accept, **change Quantified to No** (~70%: illustrates extension follow-up time, not a cost or coverage figure) |
+| UG_KII_BBSRadio_RC1_24Aug | L116 (other farmer programme "Omulimi omugezi", Saturday) | Accept, No (another programme on the station; contradictory sponsorship, note) |
+| same | L124 (+FUNC-PARTNER: radio cuts district training costs, "four training sessions") | Accept ECO-COMPARATOR **No** + FUNC-PARTNER (flagged in 15.1 as No; "four sessions" is his estimate, not a cost) |
+| UG_KII_BBSRadio_SM_25Aug | L156 (Green Leaf programming very good; borrowed for other programmes) | Recode FUNC-CONTENT (flagged in 15.1: format reused in-house; no other source set against it) |
+| same | L158 (two agriculture programmes, this one better) | Accept, No |
+| same | L160-L161 (content and peak-time slot beat the other) | Accept, No |
+| UG_KII_Ecosystem_EPC2_21Aug | L113 (AID Environment uses radio to reach farmers in its projects) | Reject (~70%): radio as a channel AID Environment buys, not another information source set against Green Leaf; already SUST-DEMAND-STATED (22.1) |
+| same | L139 (Farm Radio low risk vs other platforms) | Reject as duplicate: flagged as ECO-COMPARATOR No in the L138-L139 SUST-DEMAND-STATED notes (22.1); accept only if no such row exists |
+| same | L217 (input dealers ran their own talk shows) | Accept, No |
 
 ---
 
