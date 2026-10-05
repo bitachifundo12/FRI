@@ -2343,6 +2343,11 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L57 (4,000-6,000 farmers per sub-county) | Accept, Yes |
 | same | L59 (a whole year to cover the caseload) | Accept, Yes (time-to-cover; enter with L57) |
 | same | L63 (Green Leaf adds reach vs extension officer; one presentation ≈ three to four months of officer coverage) | Accept, Yes (~70%: his estimate). L65-L66 timing shortfall = ACC-SCHED, flagged in 32.1 |
+| same | L63 second row (three to four months of officer time vs one hour on air) | Reject as duplicate (~70%): same comparison as the first L63 row; carry the figure there |
+| same | L63 third row (cocoa value chain: an officer needs a year, weekly episodes cover it) | Accept, Yes (~70%: "not less than one year" is a time figure). Separate statement (value-chain coverage), keep |
+| same | L90 (20 minutes on air vs two to three hours in the field to learn) | Accept, No (radio's limitation; learning time contrast, his illustration) |
+| UG_KII_RadioPacis_EPC_28Aug | L6 (alone he can't reach all farmers, so talk shows) | Accept, No |
+| same | L8 (over 50 demos in West Nile, ~20 in Arua) | Accept, Yes (Syova's demonstration plots as a channel; counts recalled) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
