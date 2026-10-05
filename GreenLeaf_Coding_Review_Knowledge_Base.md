@@ -2130,6 +2130,17 @@ DIFF-FORMAL: rows in 47.1 decided (Tilevu_02 and Naitakwai L21 Pending). DIFF-IN
 ### 48.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L30 ("passed during communal work") | Accept DIFF-INFORMAL (flagged in 27.1; the group part is the DIFF-FORMAL row) |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L21 (women talk to fellow women at the market) | Pending: same L21 integrity hold with Tilevu_02 L19 (27.1). If genuine → Accept DIFF-INFORMAL |
+| same | L27 ("anyone can pass… especially the group members") | Reject as duplicate: same span accepted as DIFF-FORMAL (27.1), now on hold with L21 |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L33 (seek more advice from colleagues) | Reject (~70%): asking colleagues for advice, Green Leaf content not passed on; not diffusion |
+| same | L34 (inform friends about the topics, challenge them to try) | Accept DIFF-INFORMAL (flagged in 27.1) |
+| same | L35 (advise a friend on pests from Farm Radio teachings) | Accept DIFF-INFORMAL |
+| same | L46 (mulching spread as a good example to others) | Accept DIFF-INFORMAL (~70%: demonstration among neighbours) |
+| same | L68 (women tell fellow women) | Accept DIFF-INFORMAL (flagged in 28.1) |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L21 (speak to fellow women about the programme) | Accept DIFF-INFORMAL (~70%) |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L16, L19 | Pending: Tilevu_02 integrity hold (L19 = Naitakwai L21) |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L38 (+ACC-SHARED: shared with neighbours, radio always loud) | Accept DIFF-INFORMAL + ACC-SHARED (flagged in 35.1) |
 
 ---
 
