@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (44, CTX-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-44.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (45, CTX-ROLE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-45.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1966,6 +1966,21 @@ CTX-HUB: rows in 43.1 decided (check remaining). CTX-OTHER (all countries): **7 
 | UG_KII_RadioPacis_RC1_27Aug | L11-L12 ("Arua hub at ninety to ninety five") | Accept CTX-OTHER (hub self-rating, 44.0) |
 | UG_KII_RadioPacis_SM_27Aug | L14 ("10 out of 12… based on feedback from the country manager for farm radio") | Accept CTX-OTHER (self-rating, partly from FRI feedback, not a platform ranking) |
 | same | L109 ("staff up to 140 people… all full salary") | Reject as duplicate (~70%): flagged in 15.1 as COST-BOUNDARY (station overhead, four stations); code it there, not CTX-OTHER |
+
+---
+
+## 45. Session 10 continued (5 Oct 2026): CTX-ROLE
+
+CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **17 of 70 decided (15 accepted, 2 rejected), 53 left**, 40 safe rows; bulk accept off for Ghana.
+
+### 45.0 Checks for CTX-ROLE
+- The respondent's **own** account: position, remit, tenure, who they answer to. Someone else at the hub → CTX-HUB (app decision).
+- Interviewer intros and consent lines → Reject (code the answer). Duties described as content-making → CTX-ROLE, with FUNC-CONTENT as second code only if production practice is the point.
+- Low-stakes descriptive code: **bulk-accept the safe rows is reasonable for Uganda after ~10-20 read individually**; read Ghana rows one by one (app setting).
+
+### 45.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
