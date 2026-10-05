@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (31, REACH-ENGAGE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (32, REACH-EPISODE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-32.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1386,6 +1386,24 @@ REACH-AUDIENCE: all 10 rows given verdicts (30.1). REACH-ENGAGE started (all cou
 | UG_KII_RadioPacis_EO_27Aug | L25 (REACH-ENGAGE, both passes, high, two figure blocks: "every day it is two, three, four, five… sometimes even ten calls… this morning today alone I got five calls from different farmers on Cocoa") | Accept REACH-ENGAGE (farmers calling about past episodes, counted; flagged in 30.1). Calls come to his own phone, the number he leaves on air (L22-L24), not the station's lines: say so in the block. Figure blocks: record 2-10 calls a day as a range, not 2; the five calls this morning is a one-off example, not an average. Recalled, no log, verified No (John) |
 | UG_KII_RadioPacis_RC1_27Aug | L68 (REACH-ENGAGE, both passes, medium, figure block 700/week: "Just in a day. That means in a week, we have the capacity to hit 700, 1,000, even plus") | Accept REACH-ENGAGE (~70%: his recalled Uliza participation, recall not platform record, so REACH-ENGAGE not REACH-PLATFORM, as RC1 L76). Span L66-L68: the base is L66, "in a day we can hit not less than a hundred"; the weekly 700-1,000 is his own multiplication of it, so enter one figure (≥100 a day), with the weekly range as derived, not a second count. "Capacity" and the muddled L66 (platform showing 10-20 when not working well) make it soft: John to compare with Uliza records for Pacis |
 | UG_KII_RadioPacis_SM_27Aug | L82 (REACH-ENGAGE, both passes, high, figure blocks 10 callers / 5 minutes: "the presenters usually have like about five minutes for the callers to call so i usually hear about 10 farmers calling in there") | Accept REACH-ENGAGE (callers heard on air per episode; flagged in 29.1 on L80). Pointer L81-L82. Figure blocks: ~10 callers aired (heard on air, so calls taken, not calls received), per episode, his listening not a log, Estimate; ~5-minute window (strictly REACH-EPISODE, fine to keep in this block). Verified No: the producer/presenter or a call log may give a firmer figure (John) |
+
+---
+
+## 32. Session 10 continued (5 Oct 2026): REACH-EPISODE
+
+REACH-ENGAGE: all 13 rows given verdicts (31.1; Tilevu_02 L26 Pending on the integrity hold). REACH-EPISODE started (all countries): **0 of 30 decided**, 9 safe rows offered (read ~20 individually first).
+
+### 32.0 Checks for REACH-EPISODE (Appendix A + earlier verdicts)
+- **Output volume:** episodes broadcast in a period, average episode length, session counts, repeats, slot or segment duration. Hub set. Feeds cost per episode and the denominator, so a figure needs its period (per week, per year).
+- **Boundary with ACC-SCHED:** ACC-SCHED is when (slot time, day, clashes, moves, audience-driven changes); REACH-EPISODE is how much (how many episodes, how long, how many repeats). The frame's own example ("48 sessions per year; slot 8 to 9pm, repeated on Sundays") shows slot-plus-repeat statements in hub KIIs belong here; add ACC-SCHED as second code where the timing itself is the point (a clash, a move, a request).
+- **Segment lengths count** (call-in window: Volta Star HC L540-L542, 15 minutes, 31.1).
+- **Not this code:** audience or caller figures (REACH-AUDIENCE/ENGAGE); content choices (FUNC-CONTENT); hypothetical slots or lengths ("if we give 30 minutes", Radio Savannah SM L65 → Reject); output lost since funding fell → SUST-LAPSE, with REACH-EPISODE only where a count or length is given (e.g. old episodes repeated when unfunded, Radio Savannah RP L19).
+- **Figure block:** value, unit (episodes, minutes, hours), period, Estimate/Recalled, verified No (Ahmed Ghana, John Uganda). Conflicting figures from different respondents: record both.
+- **Expected rows:** Radio Savannah EO 48 sessions/year, 8-9pm with Sunday repeat (frame example; RP L19 next-day repeat); Ateker SM L30-L31 (FRI wanted an hour, got 30 minutes; Monday 5-6pm, Saturday 11-12 repeat); Pacis RC2 L58 (three slots incl. the repeat, Friday/Saturday); BBS one-hour slot (EO L150); Volta Star 15-minute call-in.
+
+### 32.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
