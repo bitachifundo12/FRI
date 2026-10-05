@@ -2242,6 +2242,18 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 ### 52.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L11 (info from Ateker FM: planting timing, cover crops, rotation) | Accept, Quantified No (A1 sources answer naming radio, 12.2). May be Green Leaf itself; not KNOW-RECALL (topics only) |
+| same | L14 (NGOs brought new farming methods) | Accept, No |
+| same | L22 (NGOs teach and bring seeds) | Accept, No |
+| same | L23 (district agricultural team also comes) | Accept, No |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L13 first sentence (radio: season onset, rain patterns) | Accept, No (radio among sources; not confirmed as Green Leaf) |
+| same | L13 last sentence (sub-county helps with pesticides) | Accept, No (~70%: input support as another source) |
+| same | L61 ("requesting for more farmer trainings") | Accept, No (~70%: stated preference for face-to-face training) |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L10 (advice from FRI programmes, attend trainings) | Recode ACC-OTHER (~70%: FRI's own trainings are a Green Leaf access route, not another source; flagged in 47.1 Kahaara L36 note) |
+| same | L11 (teachers from FRI and other organisations) | Accept, No (other organisations) |
+| same | L12 (MADFA and Farm Radio teach crop care) | Accept, No; ECO-ACTOR MADFA in the note |
+| same | L13 (MADFA extension workers guide on crops) | Accept, No |
+| same | L25 (Green Leaf good; MADFA also good, offers credit) | Accept, No (explicit comparison). "Haven't understood what other services come with Green Leaf" = KNOW-CONFUSE at most, note |
 
 ---
 
