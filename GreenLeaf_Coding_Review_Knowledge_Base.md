@@ -2396,6 +2396,15 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | same | L28 (right dosage improved yield and profit) | Reject as duplicate (~70%): same practice and gain as L26; carry in that row |
 | same | L32 (yield improved from spraying learnt on the programme) | Reject as duplicate (~70%): same as L26 |
 | same | L32 pass B (recouped investment and profit after following the teachings) | Accept INC-CHANGE (~70%: income recovery, a distinct outcome; INC-INVEST loan context in note) |
+| GH_IDI_GardenCityRadio_Bekwai_04_01Sep | L30 (input mixing and measurement taught, yield and harvest increased) | Accept INC-CHANGE (practice named) |
+| same | L32 (income and profit increased since following the teachings) | Accept INC-CHANGE (~70%) |
+| same | L36 (expanded, hires women, more yield; programmes and extension officer) | Reject as duplicate: L36 already recoded KNOW-VALUE on GESI-ACCESS (28.1; mixed sources, no practice) |
+| same | L36 ("improved their income… more income from the program") | Accept INC-CHANGE (~70%: explicit programme attribution; practices on L30) |
+| GH_IDI_GardenCityRadio_Jamasi_01_28Aug | L64 (residue decomposition reduces fertiliser) | Accept INC-CHANGE (cost change from a programme practice) |
+| same | L64 (practices from the program helped general yield) | Accept INC-CHANGE (~70%: separate outcome, yield) |
+| same | L72 (no burning, letting leftovers decompose, plantain yield) | Accept INC-CHANGE |
+| GH_IDI_GardenCityRadio_Jamasi_02_29Aug | L20 (taro and cocoyam income and yield improved; programme and extension officer) | Accept INC-CHANGE (~70%: joint attribution, note it). RA reconstruction |
+| same | L22 (chicken rearing from the program; saves buying chicken in December) | Accept INC-CHANGE (cost saving; ADOPT-TRIAL second code) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
