@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (32, REACH-EPISODE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-32.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (33, REACH-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-33.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1434,6 +1434,23 @@ REACH-ENGAGE: all 13 rows given verdicts (31.1; Tilevu_02 L26 Pending on the int
 | same | L79 (REACH-EPISODE + CTX-STATUS, both passes, medium, figure blocks 24 episodes / 2 months: "last year we did circular regenerative agriculture it was on… like 24 episodes… and we did rice it was on so… like two months") | Accept REACH-EPISODE + CTX-STATUS (~70%: series lengths, and Uliza switched on for each series and off between them, answer to L76-L78; same pattern as BBS RC1 L142). Span L77-L79: L77 Uliza activated this August, off in June and July. Figure blocks: 24 episodes Recalled, whether repeats are included unknown (with the Wednesday repeat, 24 airings ≈ 12 weeks); "two months" is the rice series; "last year" presumably 2025 (interview 27 Aug), John to confirm from FRI/Uliza records. L81 Uliza roles (Abraham at FRI, Brenda content development, monitor transcribing) = CTX-HUB + FUNC-FEEDBACK, add if not coded |
 | UG_KII_RadioPacis_SM_27Aug | L16 (REACH-EPISODE: "we run it live show is on friday 4:15 to 5:00 the repeat is on wednesday also same time 4:15 to 5 pm") | Accept REACH-EPISODE (weekly live episode plus Wednesday repeat). His 4:15-5:00 (45 minutes) differs from the HC's and presenter's "4 to 5pm" (HC L10, RC1 L7): record both; the SM's is probably the programme's actual airtime inside the hour. ACC-SCHED second code in the note |
 | same | L66 (REACH-EPISODE, both passes, high, four figure blocks: "in a month we will run eight episodes but you can say four because the other four are repeats. They fully run for 45 minutes. 4 15 to 5 pm") | Accept REACH-EPISODE (4 new episodes and 4 repeats a month, 45 minutes each; agrees with HC L90). The blocks already separate new episodes from airings: keep that, use 4 for cost per episode. Confidence Estimate (stated schedule), not Measured. Enter 45 minutes once with L16. L64 UCC licence 8 million for 90.9 = COST-BOUNDARY (station overhead, as Ateker's 7m), add if not coded |
+
+---
+
+## 33. Session 10 continued (5 Oct 2026): REACH-OTHER
+
+REACH-EPISODE: all 30 rows given verdicts (32.1; Radio Savannah EO L432-L433 Pending). REACH-OTHER started (all countries): **0 of 28 decided**.
+
+### 33.0 Checks for REACH-OTHER (Appendix A + 29.0-32.0)
+- **Last resort.** Try every REACH code first: a figure of listeners → AUDIENCE; a count of people who did something → ENGAGE; Uliza records → PLATFORM (Uganda); no figure held → ABSENT; episodes, lengths, repeats → EPISODE. Then other families: how feedback is collected → FUNC-FEEDBACK; Uliza on/off or element status → CTX-STATUS; other channels set against radio → ECO-COMPARATOR; a farmer's own participation → ACC-OTHER.
+- **Accept REACH-OTHER only** for reach material no code holds. Settled so far (30.1, 31.1): qualitative reach or engagement claims with no number ("very high listenership", geographic spread, "few people were calling", "participation has increased"). Recurring: note for a Frame amendment (widen REACH-AUDIENCE/ENGAGE to qualitative claims, or a new code).
+- **Not REACH-OTHER:** recommendations to measure reach or impact → Reject (EPC2 L203, L224); a bare Ghana claim to use Uliza → Reject or note (Radio Savannah EO L689-L694; known doubtful); hypotheticals (Radio Savannah SM L65) → Reject; a caveat that sits inside an already-coded answer → Reject as duplicate and extend that row's span.
+- Give the reason in every Accept: each use is reviewed fortnightly.
+
+### 33.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| GH_KII_GardenCityRadio_SM_17Aug | L154 (REACH-OTHER, pass B only, medium: "And I normally don't base my listening on those who call into a program") | Reject as duplicate (~70%): the opening of the same caveat accepted as REACH-ABSENT on L158 (29.1: callers are no proxy for listeners, L154-L158). Extend the L158 span to start at L154 rather than count the caveat twice |
 
 ---
 
