@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (51, ECO-ACTOR, session 11; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (52, ECO-COMPARATOR, session 11; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2226,6 +2226,22 @@ DIFF-OTHER: rows in 50.1 decided. ECO-ACTOR (all countries, both sets): **14 of 
 | UG_KII_RadioPacis_HC_28Aug | L12 ("we have so many radio stations here in West Nile") | Reject (~70%): no station named; the coverage point is the REACH-OTHER/CTX-OTHER rows |
 | UG_KII_RadioPacis_RC2_27Aug | L32 (Mega, Unity, Radio Maria Kabale, Voice of Teso use the same signature tune, different language) | Recode FUNC-PARTNER (~70%: fellow FRI Green Leaf hub stations sharing the format, part of the network, not independent actors). CTX-HUB is the alternative if the lead treats the network as one hub set |
 | UG_KII_RadioPacis_SM_27Aug | L95 (+COST-CASH: IPSOS sells regional data ~3m) | Reject as duplicate: same span recoded COST-BOUNDARY (37.1). IPSOS is a research supplier, not in the extension space |
+
+---
+
+## 52. Session 11 continued: ECO-COMPARATOR
+
+ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets): **89 of 222 decided (78 accepted, 9 rejected, 2 with the lead), 133 left**, 29 safe rows; bulk accept off for Ghana (90% kept, so Uganda safe rows are reasonable after ~20 read).
+
+### 52.0 Checks for ECO-COMPARATOR
+- Any other way farmers get agricultural information or extension, set against Green Leaf explicitly or by implication; includes a farmer's answer to "where do you get farming information" naming radio, TV, agro-dealers, meetings (app decisions; 12.2).
+- **Quantified** Yes when cost/coverage/efficiency is attached (extension trip costs, SDA, fuel, cost per farmer: 37.1, 21.1), else No.
+- Not: Green Leaf described alone (→ FUNC-CONTENT); other organisations merely named (→ ECO-ACTOR, often second code); a farmer's own set and listening (→ ACC-DIRECT).
+- Many rows are duplicates of rows already recoded to ECO-COMPARATOR from ACC-DIRECT/ACC-OTHER/COST-CASH: check before accepting a second.
+
+### 52.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
