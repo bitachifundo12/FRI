@@ -2367,6 +2367,12 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L74 (great advantage to farmers and extension staff) | Accept, No (~70%) |
 | same | L78 (extension both private and public; district regulates) | Reject as duplicate: same span accepted as ECO-POLICY (26.1); ECO-COMPARATOR No for the referral part was flagged there, keep one row |
 | UG_KII_RadioPacis_RC1_27Aug | L53 (one officer per sub-county, ~1,000 households a day impossible; radio easier) | Accept, **Quantified No** (~70%: "1,000 households" is illustrative "let me say") |
+| UG_KII_RadioPacis_RC2_27Aug | L42 (Nebbi, Moyo, Gulu stations run weekly farmer programmes without FRI) | Accept, No (flagged in 21.1) |
+| same | L46 (experts' "e-extension… better than… go to the field") | Accept, No |
+| same | L67 (an app registering farmers, marketing) | Accept, No |
+| same | L69 ("already like extension on air") | Accept, No (~70%) |
+| same | L85 ("extension can also be done through radio") | Reject (~70%): closing appreciation, no other source in view |
+| UG_KII_RadioPacis_SM_27Aug | L111 (other Pacis-group radios run farmers programmes outside FRI) | Accept, No (~70%) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
