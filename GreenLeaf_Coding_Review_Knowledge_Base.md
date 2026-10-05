@@ -1746,6 +1746,13 @@ COST-CASH: rows from 37.1 decided (check the remaining count; Ateker SM L93 Pend
 | UG_KII_RadioPacis_HC_28Aug | L29 (district provides extension under MAAIF arrangements; FRI "supporting the community radio and… provides the air time") | Accept COST-INKIND (~70%: district staff time is in-kind; note the airtime here is FRI-paid, so cash, not in-kind: say so). FUNC-GOV (cost-sharing) flagged in 26.1, add if not coded |
 | UG_KII_RadioPacis_RC1_27Aug | L49 (West Nile Foresters "give tree seedlings free of charge when we partner with them") | Accept COST-INKIND (~70%: free seedlings for the station's Go Green campaign; station campaign, not clearly Green Leaf: say so). No quantity or value |
 | UG_KII_RadioPacis_RC2_27Aug | L65 ("Farm Radio gave these radios previously to those groups") | Accept COST-INKIND + COST-SETUP (donated radio sets to listener groups; flagged in 15.1). Quantity and year unknown, John |
+| UG_KII_RadioPacis_SM_27Aug | L50 ("We got a recorder… two years ago… a zoom recorder from farm radio") | Accept COST-INKIND + COST-SETUP (donated recorder, ~2024). Value on L52 |
+| same | L52 ("they didn't share the cost but… a zoom recorder can go up to 700,000") | Accept COST-INKIND (replacement-cost basis for the L50 recorder: ≤700,000 UGX, station's estimate). Same item as L50: one in-kind line |
+| same | L54 (station computers "more than enough for the team… crucial is really a field recorder") | Accept COST-INKIND (~70%: station-owned computers used by the programme; no value) |
+| same | L58 opening (repeat time "a station contribution… we gave the repeat… as our own contribution") | Accept COST-INKIND (station-donated repeat airtime; value at the 2m/hour rate, L36). The "7-9 hours a day" block is staff working time generally: don't verify |
+| same | L58 later (presenter's field day, "somebody else has to substitute him… for a whole day") | Accept COST-INKIND (station staff time absorbed, incl. a substitute presenter; not COST-VOLUNTEER since the station bears it). Don't verify the restated hours block |
+| same | L70 ("the radio offers airtime the farmers offer their transport") | Reject as duplicate: same span accepted as SUST-CONTINUE with COST-INKIND in the note (21.1) |
+| same | L119 (FRI "helping on the capacity building component… taking over the costing… those trainings will be at risk") | Reject as duplicate: same span already SUST-RESTART "Risk:" with COST-CASH (FRI-paid training) in the note (20.1). FRI-paid training is cash from FRI's side, not station in-kind |
 
 ---
 
