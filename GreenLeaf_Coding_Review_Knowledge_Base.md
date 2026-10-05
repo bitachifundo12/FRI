@@ -1892,6 +1892,18 @@ CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decide
 ### 43.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L10 (many extension workers rotate weekly: livestock, crops, entomology) | Accept CTX-HUB (topic-matched rotation) |
+| UG_KII_AtekerFM_HC_01Sep | L11-L12 (station manager and hub coordinator are different people) | Accept CTX-HUB (Q+A span fine, Don't quote) |
+| same | L56 (composition keeps changing; different subject specialists) | Accept CTX-HUB |
+| same | L65 (composition: extension officers as subject specialists, other government stakeholders) | Accept CTX-HUB (adds the government-stakeholder element to L56; keep both) |
+| UG_KII_AtekerFM_RC_31Aug | L16-L17 ("I'm only one person and I'm a student… Abraham who steps in for me") | Accept CTX-HUB (one presenter, a stand-in colleague). Which Abraham (station colleague vs FRI's Odong Abraham, L98): John |
+| UG_KII_AtekerFM_SM_31Aug | L6 (Kodet Innocent, host and FRI contact) | Accept CTX-HUB (flagged in 15.1) |
+| same | L6 (Kodet in touch with the district hub focal person and technocrats) | Accept CTX-HUB (separate statement; keep both). Focal person's name: John |
+| same | L154 ("Kodet is the one going to the field… interacts with them") | Accept CTX-HUB (~70%: division of work within the hub; the farmer groups themselves aren't partners) |
+| UG_KII_BBSRadio_EO_25Aug | L54-L55 ("my colleague, the agricultural officer… talking about some meetings") | Reject (~70%): a passing mention, no role or roster fact; context only |
+| same | L154 ("The vets, we are seven and those who reside around… about four") | Accept CTX-HUB (~70%: the vet pool available to the hub; whether all seven are on the roster: John) |
+| UG_KII_BBSRadio_HC_25Aug | L24 (broadcasters "are his own workers", the station manager's) | Accept CTX-HUB (whose staff the broadcasters are) |
+| same | L26-L27 (he mobilises department staff, who aren't station workers, by topic) | Accept CTX-HUB (roster assembly; flagged in 32.1). CTX-ROLE for his own task, add if not coded |
 
 ---
 
