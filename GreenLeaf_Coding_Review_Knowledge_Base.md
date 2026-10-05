@@ -1960,6 +1960,12 @@ CTX-HUB: rows in 43.1 decided (check remaining). CTX-OTHER (all countries): **7 
 | UG_KII_Ecosystem_EPC2_21Aug | L36 ("the uptake of the program is not significant", about the weaker Moroto) | Accept CTX-OTHER (~70%: outsider's performance judgement on a hub; Moroto per L34, confirm) |
 | UG_KII_Ecosystem_EPC_11Sep | L25 (GAYO: youth-led pan-African organisation, climate, Uganda/Botswana/Ghana) | Accept CTX-OTHER (partner organisation profile) |
 | same | L26 (10 project locations, thematic areas; "search the economy" = circular economy) | Reject as duplicate (~70%): same organisation profile; extend the L25 span to L26 |
+| same | L30 ("An NGO. Okay.") | Reject as duplicate (~70%): organisational form belongs with the L25 profile; one-word answer |
+| UG_KII_RadioPacis_EPC_28Aug | L30 (West Nile farmers "not much into" fertiliser and chemicals compared with other regions) | Accept CTX-OTHER (~70%: regional market context behind the sponsor's interest) |
+| UG_KII_RadioPacis_HC_28Aug | L12 (Pacis chosen: Catholic diocese community radio, not profit-making; coverage) | Accept CTX-OTHER (why this station hosts the hub; coverage part is the REACH-OTHER row, 33.1) |
+| UG_KII_RadioPacis_RC1_27Aug | L11-L12 ("Arua hub at ninety to ninety five") | Accept CTX-OTHER (hub self-rating, 44.0) |
+| UG_KII_RadioPacis_SM_27Aug | L14 ("10 out of 12… based on feedback from the country manager for farm radio") | Accept CTX-OTHER (self-rating, partly from FRI feedback, not a platform ranking) |
+| same | L109 ("staff up to 140 people… all full salary") | Reject as duplicate (~70%): flagged in 15.1 as COST-BOUNDARY (station overhead, four stations); code it there, not CTX-OTHER |
 
 ---
 
