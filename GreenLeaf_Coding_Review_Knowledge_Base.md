@@ -1824,6 +1824,17 @@ COST-SETUP: all 10 rows decided (40.1). COST-VOLUNTEER (all countries): **19 of 
 ### 41.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L58 ("I think this program is not funded. We go voluntarily") | Accept COST-VOLUNTEER (officers go unpaid; flagged in 20.1). Hedged; his own job time on air is COST-INKIND (38.1), this row is the unfacilitated going |
+| same | L58 ("If someone… travel from Napak… facilitation is not there… for me… I can walk") | Accept COST-VOLUNTEER (~70%: own-cost travel; separate statement, keep both). No distance or amount |
+| UG_KII_AtekerFM_HC_01Sep | L22 ("some of has to put in their fuel… 90 kilometers or 70… a sacrifice") | Accept COST-VOLUNTEER (guests' own fuel; flagged in 28.1). Record 70-90 km as a range, one-way?; no shilling value |
+| same | L60 (refreshments, "we pull it from our pockets… soda, biscuits") | Accept COST-VOLUNTEER (hub members' own money; flagged in 38.1). Headcount 14 is context, not a cost |
+| same | L86 (other partners' extension workers "don't ask you for facilitation. They just come") | Reject as duplicate: same span accepted as COST-INKIND (38.1; their employers carry the time) |
+| UG_KII_AtekerFM_RC_31Aug | L19 (lunch, airtime not covered, "I'm forced to push hard") | Reject as duplicate: same span recoded COST-VOLUNTEER from COST-CASH (37.1) |
+| UG_KII_AtekerFM_SM_31Aug | L156 ("he was willing to come even without being facilitated") | Accept COST-VOLUNTEER (~70%: one district official came on air unpaid; second-hand; flagged in 23.1) |
+| UG_KII_BBSRadio_EO_25Aug | L140-L144 ("in the evening… beyond… is the overtime and personal sometimes") | Accept COST-VOLUNTEER (his evening time outside official hours). Distinct from the one hour of job time (COST-INKIND, L121-L124) |
+| same | L154 ("moving… three or four kilometers away to attend the radio program at night") | Accept COST-VOLUNTEER (officers' unreimbursed night travel, 3-4 km) |
+| same | L156 ("eight thirty, nine thirty. You're almost reaching home ten.") | Reject as duplicate (~70%): the time cost is on L140-L144 and L154 |
+| same | L158-L159 (motivation "in terms of maybe fuel, facilitation") | Recode SUST-RESTART (a suggestion: what would keep officers coming) |
 
 ---
 
