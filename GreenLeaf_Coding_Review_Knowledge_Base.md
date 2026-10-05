@@ -2489,6 +2489,18 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 | GH_FGD_VoltaStar_HaveAndoNo1_01_25Aug | L219-L220 (taught how to care for produce on the field and after harvest) | Accept KNOW-VALUE (topic area, not checkable advice). Interpreter relay |
 | same | L222-L223 (same, not only women) | Reject as duplicate (~70%): restates L220 |
 | GH_IDI_GardenCityRadio_Bekwai_01_31Aug | L14 (a lot of advice: crop management, how to plant) | Accept KNOW-VALUE (topics too general for KNOW-RECALL) |
+| same | L14 pass B (same span) | Reject as duplicate |
+| GH_IDI_GardenCityRadio_Bekwai_02_31Aug | L30 ("If not for Farm Radio and the green leaf program, he wouldn't have been able to get some of this advice") | Accept KNOW-VALUE (flagged in 13.1) |
+| GH_IDI_GardenCityRadio_Bekwai_03_01Sep | L16 ("able to get a lot of knowledge from the program") | Accept KNOW-VALUE |
+| GH_IDI_GardenCityRadio_Bekwai_04_01Sep | L20 (host Mister Gatey very good, tangible information) | Accept KNOW-VALUE (flagged in 13.1) |
+| GH_IDI_GardenCityRadio_Jamasi_01_28Aug | L32 (content helps with challenges on the farm) | Accept KNOW-VALUE |
+| same | L36 ("don't give up farming, backbone of the nation" as great advice) | Accept KNOW-VALUE (~70%: motivational message, not checkable advice) |
+| same | L40 (gives it 100%, very important, right source) | Accept KNOW-VALUE (~70%; KNOW-TRUST-PROCESS if "right source" is read as the experts) |
+| GH_IDI_GardenCityRadio_Jamasi_02_29Aug | L14 (advice and explanations on taro/cocoyam issues and contamination) | Accept KNOW-VALUE (no remedy named) |
+| GH_IDI_RadioSavannah_Golinga_02_11Aug | L34 ("very helpful… guidance on best farming practices") | Accept KNOW-VALUE (the timing guidance after it may be KNOW-RECALL if detailed) |
+| GH_IDI_RadioSavannah_Golinga_04_11Aug | L34 (educates us on good farming practices) | Accept KNOW-VALUE (flagged in 15.2) |
+| GH_IDI_RadioSavannah_Golinga_05_11Aug | L31 (best farming practices, planting to harvesting, market prices) | Accept KNOW-VALUE (~70%: description plus "benefits" answer; borderline topic list) |
+| same | L34 ("I trust the advice from the program a lot") | Accept KNOW-VALUE (trust with no basis given) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
