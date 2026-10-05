@@ -2035,6 +2035,19 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | same | L24-L25 (laptop spoilt, not repaired, whereabouts unknown) | Reject as duplicate: same span recoded CTX-STATUS from COST-SETUP (40.1) |
 | same | L29 ("the green leaf program, is it fully active?" — "Yes") | Accept CTX-STATUS (Q+A, Don't quote) |
 | same | L35 (hub meetings not physical, online/phone) | Accept CTX-STATUS (meetings changed format). Conflicts with HC L54 (every two weeks): record both |
+| same | L39 ("Initially Uliza was doing well. But nowadays… participation is low") | Accept CTX-STATUS (Uliza use reduced; no support change named, so not SUST-LAPSE) |
+| same | L87-L88 (Uliza "doing well, but not very good… numbers are not good") | Reject as duplicate: same span recoded CTX-STATUS from REACH-ABSENT (29.1) |
+| same | L89-L90 ("Is Uliza always on?" — "Yes") | Accept CTX-STATUS (Q+A, Don't quote). Conflicts with HC L176 (not on consistently): record both |
+| UG_KII_AtekerFM_SM_31Aug | L55-L56 ("the show is actually active?" — "Yes") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L58 ("This program has been there for around four years") | Recode CTX-HIST (duration of the programme at Ateker; matches the 2022 start) |
+| same | L62 (only Moroto officers come now; can't travel from Nakapiripirit, Napak unfacilitated) | Reject as duplicate: same span accepted as SUST-LAPSE (23.1) |
+| same | L118 (airtime "It has remained the same") | Accept CTX-STATUS (airtime unchanged; Q+A, Don't quote) |
+| UG_KII_BBSRadio_EO_25Aug | L33 ("Yes, it's active") | Accept CTX-STATUS |
+| same | L43-L44 (no change seen in how it's funded/run) | Accept CTX-STATUS (~70%: limited view, he's only a trainer, L46) |
+| same | L48 (+REACH-EPISODE: one hour constantly, "nothing has changed") | Accept CTX-STATUS + REACH-EPISODE (one-hour slot already on L126, enter once) |
+| same | L49-L50, L52 (attended only one hub meeting, ~two years ago) | Accept CTX-STATUS (meetings not reaching him); keep L52 with L49-L50 as one row: Reject L52 as duplicate |
+| same | L56-L58 ("It has diminished") | Reject as duplicate: same element accepted as SUST-LAPSE + CTX-STATUS on L60-L61 (23.1) |
+| same | L60-L61 (+FUNC-CONTENT: not involved in content development now) | Reject as duplicate: same span already SUST-LAPSE + CTX-STATUS (23.1) |
 
 ---
 
