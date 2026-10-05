@@ -1767,6 +1767,14 @@ COST-INKIND: rows in 38.1 decided (check remaining). COST-OTHER (all countries):
 ### 39.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_BBSRadio_RC1_24Aug | L98-L99 (field transport "the biggest… they will also maybe leave the field work because it is costly") | Recode SUST-RESTART, "Risk:" (answer to L95, which cost cut first if funding halved: hypothetical) |
+| UG_KII_BBSRadio_SM_25Aug | L130-L134 (costs "the usual… Yaka can change… we normally switch to fuel") | Reject as duplicate: L132 already recoded COST-BOUNDARY (37.1); the rest is "no change" with no element |
+| UG_KII_RadioPacis_EO_27Aug | L34 ("they're always facilitating… at least some small token") | Reject as duplicate: same span recoded CTX-STATUS (21.1; payer unknown, probably the station's 20k) |
+| UG_KII_RadioPacis_EPC_28Aug | L46-L47 ("As per now I may not really know." to sponsorship figures) | Reject: a don't-know (rejected on SUST-OTHER, 24.1) |
+| UG_KII_RadioPacis_RC1_27Aug | L27 ("You need facilitation. From transport… water to drink… during facilitation") | Reject as duplicate (~70%): inside the L27 field-work answer already accepted twice as SUST-LAPSE (23.1); no amount. Items (transport, water) go in that note |
+| same | L96 ("this airtime is always given to these experts and there's fuel… given to these experts") | Accept COST-CASH (~70%: phone airtime and fuel given to guest experts, a recurring cash line; no amount or payer, John). Not COST-OTHER |
+| UG_KII_RadioPacis_SM_27Aug | L50 ("he had talked of… a laptop… but we've never seen the laptop") | Reject (~70%): a promised item never received, no cost incurred or resource given; note only for the FRI equipment list |
+| same | L72 (main fixed costs: transport, airtime, studio equipment, electricity or fuel, staff time) | Reject (~70%): a list of cost categories with no amounts; each is coded where it is quantified (L30, L34, L36, L64, L78) |
 
 ---
 
