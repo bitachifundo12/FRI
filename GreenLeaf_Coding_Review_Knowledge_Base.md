@@ -2501,6 +2501,18 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 | GH_IDI_RadioSavannah_Golinga_04_11Aug | L34 (educates us on good farming practices) | Accept KNOW-VALUE (flagged in 15.2) |
 | GH_IDI_RadioSavannah_Golinga_05_11Aug | L31 (best farming practices, planting to harvesting, market prices) | Accept KNOW-VALUE (~70%: description plus "benefits" answer; borderline topic list) |
 | same | L34 ("I trust the advice from the program a lot") | Accept KNOW-VALUE (trust with no basis given) |
+| GH_IDI_RadioSavannah_Sankpagla_01_14Aug | L28 (understands it: ways of farming, how to cultivate) | Accept KNOW-VALUE (~70%: borderline description; answer to the "benefits" probe) |
+| GH_IDI_VoltaStar_AdakluAgblefe_01_25Aug | L90-L92 (trust "already retains over 70%") | Accept KNOW-VALUE (~70%: trust level, no basis). 70% referent unclear, interpreter relay |
+| GH_IDI_VoltaStar_HaveAndoNo1_01_25Aug | L73-L75 (announcements perfect, protect the crop, "it's good") | Accept KNOW-VALUE (~70%; KNOW-TRUST-OUTCOME only if a result is named) |
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L19 (known for transforming farmers… by the NGOs) | Accept KNOW-VALUE (~70%: credit split with NGOs, note) |
+| same | L48 (general view positive, Green Leaf working well) | Accept KNOW-VALUE (second half of L48; the absence half is KNOW-CONFUSE, 35.1) |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L16 ("People like it so much") | Accept KNOW-VALUE |
+| same | L43 (general view positive) | Accept KNOW-VALUE |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L13 (helps identify pests in eggplant garden) | Accept KNOW-VALUE (no pest or remedy named) |
+| same | L13 (appreciate the follow-up visit) | Reject (~70%): appreciation of an FRI follow-up visit, not the broadcast; CTX or note only |
+| same | L17 (programme fits peasant farmers, taught crop care, inputs) | Accept KNOW-VALUE |
+| same | L21 ("We like this program… insights… use available resources") | Accept KNOW-VALUE |
+| same | L22 (improves knowledge; knew less about fertilisers before) | Accept KNOW-VALUE |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
