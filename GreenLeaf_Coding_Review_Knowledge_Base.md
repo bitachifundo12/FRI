@@ -2180,6 +2180,19 @@ DIFF-KIN: all 8 rows decided (49.1). DIFF-OTHER (all countries): **6 of 23 decid
 ### 50.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| — | — | **Convention:** others' uptake or spread with **no route named** → DIFF-OTHER (outcome of diffusion, no vehicle); where the route is in context (friends, group, neighbours) use that code |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L33 (garden started with a few, attracted the group) | Recode DIFF-INFORMAL (~70%: spread by example, as Kahaara L46). Programme attribution not on these lines |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L42 (people skip the meetings because of bias against the messenger) | Accept DIFF-OTHER (~70%: failure of onward sharing; not GESI-NORM, personal bias, 11.3) |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L27 (two people: one away, sister) | Reject: same as its DIFF-KIN row (49.1), no content passed |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L42 ("this knowledge has spread widely throughout the community") | Accept DIFF-OTHER (spread asserted, no route) |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L42 ("about 22 people followed and got attracted") | Accept DIFF-OTHER (uptake by others, no route; 22 is recall) |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L40 (some took it seriously, others saw it as useless) | Accept DIFF-OTHER (~70%) |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L40 ("some accepted and others didn't bother") | Accept DIFF-OTHER (~70%; speaker untagged) |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L41 (many turned up, group expanded) | Reject as duplicate: accepted as DIFF-FORMAL (27.1) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L68-L69 (some friends adopted) | Reject as duplicate: accepted as DIFF-INFORMAL (48.1) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L46 (group of 30) | Reject as duplicate: accepted as DIFF-FORMAL (47.1) |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L76-L77 (neighbours implanted and succeeded) | Reject as duplicate: accepted as DIFF-INFORMAL (48.1) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L42 (group and family) | Reject as duplicate: accepted as DIFF-FORMAL + DIFF-KIN (47.1) |
 
 ---
 
