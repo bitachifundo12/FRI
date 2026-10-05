@@ -2303,6 +2303,21 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L141 (airtime 20,000 + fuel 30,000 ≈ 50,000) | Accept, Yes |
 | same | L143 (roughly 65,000) | Accept, Yes (revised average; enter 65,000 as the central figure) |
 | same | L145 (extreme 150,000) | Accept, Yes (upper bound; low 50,000 at L147, record range 50,000-150,000) |
+| same | L147 ("50,000" lowest) | Reject as duplicate: low bound carried in the L145 range note |
+| same | L149 (sometimes an extension grant given) | Accept, No (funding of the comparator; amount L155) |
+| same | L155 (~1 million per quarter, "that is little") | Accept, Yes (extension grant per quarter; per officer or department unclear, John) |
+| same | L158 (Green Leaf gives quality, expert, simplified, inclusive info) | Accept, No (~70%: answer to "where does Green Leaf add value relative to conventional extension") |
+| same | L163 (radio cheaper, thousands of farmers in a day) | Accept, No (qualitative; "thousands" has no basis, so change Quantified to No) |
+| UG_KII_AtekerFM_RC_31Aug | L59 (Agro and More's hands-on extension services) | Accept, No (flagged in 15.1) |
+| UG_KII_AtekerFM_SM_31Aug | L37-L38 (too few extension workers; "if they were five they cannot reach") | Accept, **change Quantified to No** ("five" is illustrative, no figure) |
+| UG_KII_BBSRadio_EO_25Aug | L14 (his own livestock training, clinical services) | Reject as duplicate: same span accepted as CTX-ROLE (45.1); a role list, not a comparison |
+| same | L18 (castration, market linkage) | Reject (~70%): role description continued; no comparison |
+| same | L20 (online contacts, mobilise farmers for buyers) | Reject (~70%): market linkage role, no comparison with Green Leaf |
+| same | L67 (furthest farmer ~32 km) | Accept, Yes (distance basis for the cost; count once with L71) |
+| same | L69-L71 (20,000-25,000 to furthest) | Reject as duplicate: L71 already recoded ECO-COMPARATOR Yes (37.1) |
+| same | L76-L77 (nearest 5,000-6,500) | Reject as duplicate: L77 recoded (37.1) |
+| same | L78-L79 (average 20,000, prompted) | Reject as duplicate: L79 recoded (37.1) |
+| same | L80-L85 (extension grant, government, quarterly, delays) | Accept, No (funding source of the comparator) |
 
 ---
 
