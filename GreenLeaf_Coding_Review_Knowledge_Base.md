@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (28, GESI-ACCESS, as of 2 Oct)**; conventions also in 18.0-28.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (29, REACH-ABSENT, as of 5 Oct; GESI-ACCESS has 17 rows left, see 28.1)**; conventions also in 18.0-29.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1271,6 +1271,29 @@ DIFF-FORMAL left part-way (21 verdicts in 27.1; Tilevu_02 rows on hold). GESI-AC
 | same | L74 (GESI-ACCESS, both passes, medium: "Yes top to bottom, men are leading, followed by women.") | Recode GESI-OTHER (~70%: more men than women take part on Uliza, L76; a participation difference with no mechanism, same call as L32). L77's follow-up ("now… a bit clearly… hierarchy of leadership") shows L70-L76 was about participation, not leadership. Span L72-L74, Don't quote alone. L76 recalled Uliza shares (about 54 men, 30 women per 100, rest youth) = REACH-ENGAGE (recall, not platform data, so not REACH-PLATFORM), add if not coded |
 | same | L76 (GESI-ACCESS, both passes, medium: "On a scale of about a hundred, you'll find that about 54 or five there are for men. Then women can be around 30.") | Recode REACH-ENGAGE (the row flagged on L74: recalled shares of Uliza participants by sex; a count of people doing something, not access). Figure block: ~54-55 men, ~30 women per 100 participants per episode upload, confidence Recalled ("I can't now tell exactly"), not recorded; John to get the real sex split from Uliza/FRI records (then REACH-PLATFORM). Never an audience measure |
 | same | L76 (GESI-ACCESS, pass B only, medium: "most times, you'll see more men 34 below. They participate, that means this is more of youth.") | Recode GESI-OTHER (~70%: an age difference in Uliza participation, younger men more active; no mechanism, same call as L74 for sex). The 35 cut-off talk before it is muddled: John to get the age split from Uliza records with the sex split |
+
+---
+
+## 29. Session 10 (5 Oct 2026): REACH-ABSENT
+
+GESI-ACCESS left with 17 rows (13 unseen + 4 Pending, see 28.1, 3 Oct). REACH-ABSENT started (all countries): **0 of 32 decided**, 11 safe rows offered (read ~20 individually first). First REACH code reviewed; the REACH family was at 0% coverage in both countries.
+
+### 29.0 Checks for REACH-ABSENT (Appendix A + 5.3 + earlier verdicts)
+- **An explicit statement** that the respondent holds no reach figure, or that the platform cannot supply one. Absence is data (5.3 rule 3): code it, never leave it blank. Span question + answer where the answer is "No" (Guide), Don't quote one-word answers.
+- **Deferral counts here.** Unlike the SUST rule ("don't know / ask someone else" → Reject, 18.1), the frame's own REACH-ABSENT example is a respondent who "holds no reach measure and defers to a 'formula' the station's presenter uses". So "I don't have that, ask the presenter" → REACH-ABSENT. A plain "I don't know" to a reach question → REACH-ABSENT too (he does not hold one), unless the line is off-topic.
+- **Siblings:**
+  - A figure given, even a rough guess → **REACH-AUDIENCE** (audience) or **REACH-ENGAGE** (callers, attendees); if it has no basis or population it cannot enter the workbook (5.3 rule 2), but the passage is still coded there, not here (Radio Savannah RP L16 "500 farmers").
+  - Figure given **and** an explicit "no measured figure" → both rows (Pacis SM L92 assumption 2.7m = REACH-AUDIENCE; L93 no survey, only UCC/IPSOS/UBOS = REACH-ABSENT).
+  - Uliza figures → REACH-PLATFORM (Uganda only); a statement that Uliza cannot give a figure (no calls-attempted denominator, connected call-backs only) → REACH-ABSENT.
+  - How feedback is collected (call logs, sheets) → FUNC-FEEDBACK.
+- **Earlier REACH-ABSENT calls:** Garden City SM L153 (network sampling stopped, no per-episode figure; recoded from SUST-LAPSE, 23.1); BBS EO L147 (doesn't know how often farmers beep/use it; check which platform, 15.1); Pacis SM L93 (15.1).
+- **Scope:** an absence of an audience figure and an absence of an engagement count are separate findings; one row per respondent per measure (duplicate spans → Reject as duplicate).
+- **Ghana:** none of the three Ghana stations uses Uliza (frame example), so a Ghana respondent unable to give platform figures is expected; any Ghana claim of Uliza use is a known doubtful point (flag, not REACH-PLATFORM). Radio Savannah SM/EO KIIs: sealed-session check still open.
+- **Hub set:** a farmer in an FGD/IDI not knowing audience size is not this code.
+
+### 29.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
