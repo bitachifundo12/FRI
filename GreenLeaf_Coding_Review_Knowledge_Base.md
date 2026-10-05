@@ -2278,6 +2278,18 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L118 (Uliza better than extension workers: advice regardless of location) | Accept, No (~70%: extension workers vs the programme's line) |
 | UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L31-L32 (trusts Mr Monday, the chairperson, "casually") | Accept, No (~70%: chairperson's teaching as another source; she doesn't listen to Green Leaf) |
 | UG_IDI_BBSRadio_Labongo_02_24Aug | L94 (contacts to MADFA extension workers) | Reject as duplicate: flagged on the L94 ACC-OTHER row (12.4) as ECO-COMPARATOR No; accept this one only if no such row exists |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L58 (+KNOW-OTHER: trust it more, things taught aren't taught by other advisors) | Accept ECO-COMPARATOR No + KNOW-OTHER (trust from unique content; recurring KNOW-OTHER basis, 36.1) |
+| same | L110 ("the forecast matters most… plant early") | Reject (~70%): weather forecast as a production factor, source not named; not a comparator |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L32 (contacts experts directly) | Accept, No |
+| same | L36 (+KNOW-OTHER: NGOs target specific groups, radio reaches wider) | Accept ECO-COMPARATOR No + KNOW-OTHER (qualitative coverage, so No is right) |
+| same | L39 (farmers prefer practical field training) | Accept, No |
+| same | L95 (prefers experts over Uliza) | Accept, No (separate statement from L32, about Uliza) |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L22 ("many programs in Lugbarati, from the news to Otita Agrikicani") | Reject (~70%): Otita Agrikicani is Green Leaf (45.1); "many programs" are general listening, not set against it; L22 is ACC-DIRECT (12.4) |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L63 (learns from other farmers in farmer groups) | Accept, No |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L29 (trusts Otita Agrikicani more than other sources) | Accept, No |
+| same | L78 (extension contact helpful for off-air follow-up) | Recode ACC-OTHER (~70%: flagged in 12.4 as ACC-OTHER, the programme's extension contact used for follow-up; if an independent officer → keep ECO-COMPARATOR) |
+| UG_KII_AtekerFM_EO_01Sep | L23 (ratio of extension workers 1:1000 or 2000, radio reaches many) | Accept, **Quantified Yes** (flagged in 33.1). Figure: 1:1000-2000, Estimate |
+| same | L33 (motorbike, ~10 farmers a day in town, two days to round) | Accept, Quantified Yes (reach per day of face-to-face extension; with L34-L39 costs, count once) |
 
 ---
 
