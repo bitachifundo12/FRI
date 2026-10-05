@@ -2193,6 +2193,11 @@ DIFF-KIN: all 8 rows decided (49.1). DIFF-OTHER (all countries): **6 of 23 decid
 | UG_IDI_BBSRadio_Labongo_02_24Aug | L46 (group of 30) | Reject as duplicate: accepted as DIFF-FORMAL (47.1) |
 | UG_IDI_BBSRadio_Labongo_03_25Aug | L76-L77 (neighbours implanted and succeeded) | Reject as duplicate: accepted as DIFF-INFORMAL (48.1) |
 | UG_IDI_RadioPacis_Andifeku_03_28Aug | L42 (group and family) | Reject as duplicate: accepted as DIFF-FORMAL + DIFF-KIN (47.1) |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L34 (many copy his planting after seeing it) | Reject as duplicate: same line accepted as DIFF-INFORMAL (48.1) |
+| same | L40 (farmers around him now have radios and copy line planting) | Accept DIFF-OTHER (~70%: uptake by imitation; separate answer to D3; "have radios" means they may also hear it themselves) |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L40 (a few copied after seeing results) | Accept DIFF-OTHER (~70%: by observation; conversation route is the L34 DIFF-INFORMAL row) |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L40 (others now grow coffee with bananas) | Reject (~70%): change among other farmers with no link to him or the programme; not diffusion evidence |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L40 (another farmer started dry-season onions) | Accept DIFF-OTHER (~70%: uptake by another farmer, no route) |
 
 ---
 
