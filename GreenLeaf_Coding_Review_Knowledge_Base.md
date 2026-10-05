@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (47, DIFF-FORMAL resumed, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (48, DIFF-INFORMAL, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2115,6 +2115,21 @@ CTX-STATUS: rows in 46.1 decided (check remaining). DIFF-FORMAL (all countries):
 | same | L66 (group meets every Friday 3-4pm) | Reject as duplicate (~70%): meeting cycle for L64; extend that span to L66 |
 | same | L68 (+ECO-ACTOR: shared modern farming, working together, MADFA soft loans) | Accept DIFF-FORMAL (what was shared at the group). ECO-ACTOR for MADFA fine (farmers' association, likely MADIFA) |
 | UG_IDI_RadioPacis_Andifeku_03_28Aug | L42 (shares with group members and family: weather, seasons, advice) | Accept DIFF-FORMAL + DIFF-KIN (two routes, 39.2 ruling). Group = Alpha and Omega per L10, confirm |
+
+---
+
+## 48. Session 10 continued (5 Oct 2026): DIFF-INFORMAL
+
+DIFF-FORMAL: rows in 47.1 decided (Tilevu_02 and Naitakwai L21 Pending). DIFF-INFORMAL (all countries): **13 of 36 decided, 23 left**.
+
+### 48.0 Checks for DIFF-INFORMAL
+- Programme content passed through unstructured talk: neighbours, friends, markets, communal work, chance meetings, village visits (Kyakamese_05 L57).
+- Named group as vehicle → DIFF-FORMAL; household → DIFF-KIN; people who had **not** heard it themselves → ACC-SHARED (Guide decision on this page: "through our daily conversations and meetings" = ACC-SHARED). Code both where both apply (39.2).
+- Must be programme content; general farming chat → not coded. Tilevu_02 hold.
+
+### 48.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
