@@ -2332,6 +2332,14 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | UG_KII_Ecosystem_EPC2_21Aug | L113 (AID Environment uses radio to reach farmers in its projects) | Reject (~70%): radio as a channel AID Environment buys, not another information source set against Green Leaf; already SUST-DEMAND-STATED (22.1) |
 | same | L139 (Farm Radio low risk vs other platforms) | Reject as duplicate: flagged as ECO-COMPARATOR No in the L138-L139 SUST-DEMAND-STATED notes (22.1); accept only if no such row exists |
 | same | L217 (input dealers ran their own talk shows) | Accept, No |
+| UG_KII_Ecosystem_EPC_11Sep | L99 (composting, black soldier fly projects would continue if FRI pulls out) | Accept, No (~70%: GAYO's own field projects as an alternative channel; "black soil fries" = black soldier fly) |
+| same | L128 (recommend practical demonstration over awareness radio) | Accept, No (~70%: stated preference between delivery modes) |
+| UG_KII_RadioPacis_EO_27Aug | L27 (one officer for five districts; programme extended reach) | Accept, No (coverage contrast, no figure beyond "five districts") |
+| same | L44 (5,000-10,000 to reach a near farmer) | Accept, Yes (record 5,000-10,000) |
+| same | L48 (furthest ~30,000; 20,000-30,000 by motorcycle) | Accept, Yes (with L49 range, count once) |
+| same | L48 second row (demonstration costs more than a visit) | Reject as duplicate (~70%): same answer; carry the method point in the L48 note |
+| same | L52-L53 (500,000 a quarter per officer; ratio 1:4,000) | Accept, Yes (flagged in 26.1; second-hand "reliably informed") |
+| same | L53 second row (ratio 1:4,000) | Reject as duplicate of the both-passes L53 row |
 
 ---
 
