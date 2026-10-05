@@ -1345,6 +1345,7 @@ REACH-ABSENT: 31 distinct rows given verdicts in 29.1 (L187 shown twice), so abo
 | Session | Line | Verdict |
 |---|---|---|
 | GH_KII_RadioSavannah_RP_10Aug | L16 (REACH-AUDIENCE, both passes, medium: "but almost 500 farmers are reached when we air") | Accept REACH-AUDIENCE (a per-broadcast audience estimate; flagged in 15.1). Figure block: 500 farmers per broadcast, basis not stated, Estimate, verified No; cannot enter the workbook without a denominator note. Conflicts with the 8,000-per-broadcast figure in the Radio Savannah field notes: record both with respondents, never average. Not recorded, TRN from notes: Ahmed to check the notes for any basis given |
+| GH_KII_RadioSavannah_SM_10Aug | L42-L43 (REACH-AUDIENCE, flagged, both passes, medium, figure block: "For getting the estimate, it will be very difficult. But when you look at our coverage, we can estimate about 8,000 farmers listening to us") | Accept REACH-AUDIENCE (the source of the 8,000 figure; flag: no stated method). Basis = inference from the station's coverage area, not a measurement: denominator note "coverage-area guess, respondent says estimating is very difficult"; period unclear (per broadcast in the field notes, here just "listening to us"): Ahmed. Conflicts with the RP's ~500 per airing (L16): record both, never average. L42 "very difficult" = REACH-ABSENT second row (29.0 two-row case, as Pacis SM L92/L93), add if not coded. L40 "we use Wuliza" = known doubtful Ghana claim. Calibration KII: sealed-session check; "Not recorded" with timestamps |
 
 ---
 
