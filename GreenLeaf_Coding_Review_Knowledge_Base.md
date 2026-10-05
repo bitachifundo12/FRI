@@ -2265,6 +2265,19 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | UG_FGD_RadioPacis_Olevu_01_27Aug | L16 (radio gives free information where extension officers can't reach in time) | Accept, **change Quantified to No** ("free" and reach are qualitative, no figure) |
 | same | L29 (input dealers on radio push chemicals vs Green Leaf organic) | Accept, No (second code flagged on the KNOW-CONFUSE row, 35.1) |
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L10 (no partners or companies; farmer groups' voices on radio) | Pending: Tilevu_02 integrity hold (27.1) |
+| same | L22 (input dealers vs organic) | Pending: Tilevu_02 hold (= Olevu L29, accepted above) |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L29 (contacts agricultural experts directly for problem-specific advice) | Accept, No |
+| same | L32 ("no NGO came to help us but only… the radio") | Accept, No (recorded absence of other sources, radio the only one) |
+| UG_IDI_AtekerFM_Komaret_02_01Sep | L56 (only knows basics taught by mum, ox-plough) | Reject (~70%): inherited family skills, not a comparable information source; she has tried no Green Leaf practice |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L30 (radio most trusted source) | Accept, No (~70%: ranking implies other sources) |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L64 ("farmers need to be exposed… to learn modern techniques") | Reject (~70%): a general wish, no source named |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L71 (AGM with MADFA coffee coordinator) | Reject as duplicate: same span accepted as DIFF-FORMAL (47.1) and ECO-ACTOR (51.1) |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L31 ("very interactive compared to other programs") | Accept, No |
+| same | L81 ("no" to advice from other farmers or extension workers) | Accept, No (recorded absence; Q+A span L80-L81, Don't quote) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L116 (Uliza good: better explanation) | Reject (~70%): Uliza is part of Green Leaf, not another source; appraisal of a line she hasn't used |
+| same | L118 (Uliza better than extension workers: advice regardless of location) | Accept, No (~70%: extension workers vs the programme's line) |
+| UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L31-L32 (trusts Mr Monday, the chairperson, "casually") | Accept, No (~70%: chairperson's teaching as another source; she doesn't listen to Green Leaf) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L94 (contacts to MADFA extension workers) | Reject as duplicate: flagged on the L94 ACC-OTHER row (12.4) as ECO-COMPARATOR No; accept this one only if no such row exists |
 
 ---
 
