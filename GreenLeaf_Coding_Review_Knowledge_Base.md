@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (39, COST-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-39.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (40, COST-SETUP, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-40.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1783,6 +1783,21 @@ COST-INKIND: rows in 38.1 decided (check remaining). COST-OTHER (all countries):
 | GH_IDI_RadioSavannah_Golinga_01_11Aug | L37 (DIFF-KIN + DIFF-FORMAL: "Yes, I do, with my family and farmer group.") | Accept DIFF-KIN + DIFF-FORMAL (~70%: two routes named, keep both codes on one row, as Golinga_03 L43, 27.1). Group unnamed, meetings not stated; if it proves informal → DIFF-INFORMAL. Don't quote alone |
 | GH_IDI_RadioSavannah_Golinga_03_11Aug | L43 (DIFF-KIN row: "with my farmer group and within my household") | Accept DIFF-KIN. **Ruling:** one answer naming two routes is coded once per route; the DIFF-FORMAL row on the same line (27.1) and this DIFF-KIN row both stand, not a duplicate. Make this a rule |
 | GH_IDI_RadioSavannah_Golinga_04_11Aug | L40 (DIFF-KIN + DIFF-INFORMAL: "we often sit together to discuss the lessons… with each other as farmers and as families… regardless of whether they were able to listen to the live session") | Accept DIFF-KIN + DIFF-INFORMAL (two routes, no named group). "Regardless of whether they listened live" means some had not heard it: ACC-SHARED as a further code in the note (Guide test) |
+
+---
+
+## 40. Session 10 continued (5 Oct 2026): COST-SETUP
+
+COST-OTHER: all 8 rows decided (39.1); lead queue 4 decided (39.2). COST-SETUP (all countries): **3 of 13 decided, 10 left**.
+
+### 40.0 Checks for COST-SETUP
+- One-off costs to start or re-start a hub: equipment, initial training, installation, with the year. Recurring field fuel, per diems, drivers → COST-CASH (Guide).
+- Donated equipment → COST-SETUP + COST-INKIND (already done for Pacis SM L50, BBS SM L95/L99, Ateker SM L104, RC2 L65 radios). Station-bought equipment → COST-SETUP, station-paid. Equipment that would need buying if donors stopped → SUST-RESTART (not setup: nothing incurred). Equipment promised but never received → not coded (Pacis SM L50 laptop).
+- Figure block: value, year incurred, funder, working status.
+
+### 40.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
