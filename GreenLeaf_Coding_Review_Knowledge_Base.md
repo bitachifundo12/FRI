@@ -2111,6 +2111,10 @@ CTX-STATUS: rows in 46.1 decided (check remaining). DIFF-FORMAL (all countries):
 | same | L44 (group members tried manure "there are some that have tried it") | Accept DIFF-FORMAL (~70%: uptake through the group; leading facilitator prompt at L43, weigh lightly) |
 | UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L18 ("Yega Okole group?" — "yes, I am") | Reject (~70%): membership only, she doesn't listen and nothing passes to her (L16, L21) |
 | UG_IDI_BBSRadio_Labongo_02_24Aug | L46 (group of 30, some interested, "good followers of the program") | Accept DIFF-FORMAL (~70%: a 30-member group following the programme; unnamed, meetings not stated) |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L64 (+ACC-SHARED: share at group meeting so those without radios aren't left behind) | Accept DIFF-FORMAL + ACC-SHARED (flagged in 35.1; Guide test met) |
+| same | L66 (group meets every Friday 3-4pm) | Reject as duplicate (~70%): meeting cycle for L64; extend that span to L66 |
+| same | L68 (+ECO-ACTOR: shared modern farming, working together, MADFA soft loans) | Accept DIFF-FORMAL (what was shared at the group). ECO-ACTOR for MADFA fine (farmers' association, likely MADIFA) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L42 (shares with group members and family: weather, seasons, advice) | Accept DIFF-FORMAL + DIFF-KIN (two routes, 39.2 ruling). Group = Alpha and Omega per L10, confirm |
 
 ---
 
