@@ -1702,6 +1702,8 @@ KNOW-OTHER: all 10 rows given verdicts (36.1; Tilevu_02 L23 Pending). COST-CASH 
 | same | L62 (COST-CASH, both passes, high: website hosting "about 300 dollars for a year") | Recode COST-BOUNDARY (station website hosting, overhead). Fix the block label: it is hosting, not the UCC licence. Keep USD as stated (Uganda, so no cedi issue) |
 | same | L64 (COST-CASH, both passes, high: "Ucc license for 90.9 is eight Million") | Recode COST-BOUNDARY (station licence; flagged in 32.1). 8m UGX, period not stated (annual?), John |
 | same | L78 (COST-CASH, both passes, medium: electricity "about 10 million" a month, station runs 24/7, studios, offices, transmission site) | Recode COST-BOUNDARY (whole-station energy, no programme share given). 10m UGX/month, Estimate |
+| same | L88 (COST-CASH, both passes, high: "Not specifically but… up to like four million every episode so if you have to charge the air time is like 2.3… presenter… producer… field… gadgets… like 4 million") | Accept COST-CASH (~70%: his reconstructed full cost per episode). Mark the block: ~4m UGX per episode, Estimate, includes ~2.3m airtime at rate-card price (that part is COST-INKIND, station-borne, not cash); flagged in 15.1. Enter 4m once (don't verify the duplicate block); far above the itemised cash lines (L30 70k, L34 salaries), record both |
+| same | L95 (COST-CASH, pass B only: IPSOS data "we buy from them that three million… for region… two regions they will charge like five million") | Recode COST-BOUNDARY (~70%: station-level audience-research purchase, not a programme input; flagged in 29.1 as a denominator note: a measured figure is buyable). 3m UGX per region, 5m for two; whether bought regularly unknown, John |
 
 ---
 
