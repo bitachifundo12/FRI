@@ -2348,6 +2348,14 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L90 (20 minutes on air vs two to three hours in the field to learn) | Accept, No (radio's limitation; learning time contrast, his illustration) |
 | UG_KII_RadioPacis_EPC_28Aug | L6 (alone he can't reach all farmers, so talk shows) | Accept, No |
 | same | L8 (over 50 demos in West Nile, ~20 in Arua) | Accept, Yes (Syova's demonstration plots as a channel; counts recalled) |
+| same | L8 second row (field days in two stages) | Reject as duplicate (~70%): same demo channel as the first L8 row; merge |
+| same | L18 (another unnamed show where farmers are interviewed) | Accept, No |
+| same | L43-L45 (chose Pacis over other stations on impact, not price) | Accept, No (~70%: other stations as alternative channels for the sponsor; also the SUST-DEMAND-REVEALED approach row, 18.1) |
+| same | L57 (radio reaches many at once vs other rural marketing) | Accept, No (flagged in 15.1) |
+| UG_KII_RadioPacis_HC_28Aug | L25 (one farmer visit 50,000-70,000, fuel, food, airtime, repairs) | Accept, Yes (record the range) |
+| same | L25 pass B only (same figure) | Reject as duplicate |
+| same | L27 (16 staff, ratio 1:1,000-2,700, ~6 a day, ~90 a month) | Accept, Yes |
+| same | L27 pass B only (16 days × ~6 = 90 a month) | Reject as duplicate (16 × 6 = 96, he says 90: note in the main row) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
