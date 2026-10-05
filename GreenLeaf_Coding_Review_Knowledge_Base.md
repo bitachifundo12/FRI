@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (41, COST-VOLUNTEER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-41.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (42, CTX-HIST, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-42.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1842,6 +1842,21 @@ COST-SETUP: all 10 rows decided (40.1). COST-VOLUNTEER (all countries): **19 of 
 | same | L65 ("I need to make comments in english… after this one hour program, you need to sit an extra one hour") | Accept COST-VOLUNTEER (~70%: an extra hour after each show for English notes for FRI, beyond his quality-assurance mandate). If the team counts it as job time → COST-INKIND |
 | same | L71 (radio monitor: "He is a volunteer but from time, he needs to be appreciated… in terms of data provision") | Accept COST-VOLUNTEER (independent radio monitor works unpaid, occasional data appreciation). Value of the appreciation unknown, John |
 | UG_KII_RadioPacis_RC2_27Aug | L56 ("I am taking my time to put fuel to come here and then I'm not getting anything… motivation goes down") | Accept COST-VOLUNTEER (guests paying own fuel before the station's 20k began; the 20k now is SUST-CONTINUE, 21.1). Past practice: say so |
+
+---
+
+## 42. Session 10 continued (5 Oct 2026): CTX-HIST
+
+COST-VOLUNTEER: all 18 rows decided (41.1). CTX-HIST (all countries): **20 of 38 decided (16 accepted, 4 rejected), 18 left**; bulk accept off for Ghana.
+
+### 42.0 Checks for CTX-HIST
+- Prior phases, predecessor programmes, earlier funders and funding periods (DAASSP, FAO, ESRF, IKEA, AGRA/PIATA, CABI, FRI's earlier levels, NURI/DANIDA, ARUDIFA, JICA), and when the programme or FRI started at a hub.
+- Current arrangements with a payer → SUST-CONTINUE; a drop from an earlier level → SUST-LAPSE with CTX-HIST as second code (17.1); hub composition change rides as second code CTX-HUB (app decision).
+- Farmers' first hearing → ACC-OTHER (awareness), not CTX-HIST, except a predecessor programme as second code (15.2 Golinga_02 ruling).
+
+### 42.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
