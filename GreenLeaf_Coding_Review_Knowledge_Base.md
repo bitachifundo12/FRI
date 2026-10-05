@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (42, CTX-HIST, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-42.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (43, CTX-HUB, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-43.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1875,6 +1875,23 @@ COST-VOLUNTEER: all 18 rows decided (41.1). CTX-HIST (all countries): **20 of 38
 | same | L65 ("Farm Radio gave these radios previously to those groups") | Reject as duplicate: same span accepted as COST-INKIND + COST-SETUP (38.1); CTX-HIST optional there |
 | UG_KII_RadioPacis_SM_27Aug | L70 ("we started with farm radio… 2014… they used to fully pay for air time") | Reject as duplicate: same span accepted as SUST-LAPSE with CTX-HIST in the note (23.1). FRI start 2014 vs RC2 ~2010: record both |
 | same | L97 ("Farm radio actually came to fit in our program… farmers program since the beginning of the radio 2004") | Accept CTX-HIST (predecessor farmers' programme since 2004, FRI joined later; flagged in 20.1) |
+
+---
+
+## 43. Session 10 continued (5 Oct 2026): CTX-HUB
+
+CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decided (all accepted), 42 left**, 20 safe rows.
+
+### 43.0 Checks for CTX-HUB
+- Who makes up the hub: named members and roles (presenter, producer, hub coordinator, extension officers, Uliza manager, radio monitor), how the roster is assembled (topic-matched specialists), stand-ins, turnover, vacancies, gaps (e.g. no marketing person, Ateker SM L134 → now SUST-RESTART "Strategy:").
+- The respondent's own role → CTX-ROLE; someone else at the hub → CTX-HUB (app decision). External organisations → FUNC-PARTNER. Who decides or is accountable → FUNC-GOV.
+- Gender make-up of hub/guests: GESI-ROLE in Ghana, GESI-OTHER in Uganda (28.1), CTX-HUB as the roster fact.
+- Flagged earlier: BBS SM L26-L27, L151 (Charity, Moses); Pacis HC L62 (Adile Nelson); Ateker SM L6 (Kodet Innocent); BBS RC1 L33; BBS HC L67; Pacis SM L8.
+- **Safe bulk-accept is reasonable here** after ~20 rows if they keep passing: low-stakes descriptive code, no figures.
+
+### 43.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
