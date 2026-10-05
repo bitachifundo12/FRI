@@ -1721,6 +1721,19 @@ COST-CASH: rows from 37.1 decided (check the remaining count; Ateker SM L93 Pend
 ### 38.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L52-L54 (COST-INKIND: hours per week? "It is just one hour.") | Accept COST-INKIND (~70%: one hour a week of a government officer's time; L58 says unpaid/voluntary, but the time is in his mandate, so institutional). Pointer L52-L54, Don't quote. Value via SDA/salary |
+| UG_KII_AtekerFM_HC_01Sep | L47 ("the extension worker… we don't mind… even if we don't get… part of our mandate") | Accept COST-INKIND (district staff time under mandate; the 50,000 is notional, 37.1) |
+| same | L61 (venue "free of charge because we always use the district structures") | Accept COST-INKIND (district premises for hub meetings). L60 members buy refreshments from own pockets = COST-VOLUNTEER, add if not coded |
+| same | L86 (extension workers from other partners "don't ask you for facilitation. They just come") | Accept COST-INKIND (other organisations' staff time; flagged in 20.1) |
+| UG_KII_AtekerFM_RC_31Aug | L78-L79 (extension workers use the slot for mobilising, vaccination, PDM) | Reject as duplicate: same span accepted as ECO-POLICY + FUNC-PARTNER (26.1); the time contribution is already on Ateker HC L47/L86 |
+| UG_KII_AtekerFM_SM_31Aug | L95-L96 (training received from FRI and partners; hosts sent to Kampala, upkeep and transport) | Accept COST-INKIND (training supplied by FRI/partners without cost to the station). No value; FRI cost request |
+| same | L104 (COST-INKIND + COST-SETUP: "farm radio gave us a recorder") | Accept COST-INKIND + COST-SETUP (donated equipment, one-off; year and working status unknown). Of the blocks, the 300,000 recorder the station bought, 3m computer, 50,000 mics and 30m generator are station-owned, not donated: don't verify them here |
+| same | L106 ("When they come we just give them refreshments") | Reject as duplicate: same span accepted as COST-CASH (37.1) |
+| UG_KII_BBSRadio_EO_25Aug | L42 ("we don't put there any coin… only to provide skills and knowledge… through the radio") | Accept COST-INKIND (district officer time, no cash). Don't double-count with any out-of-hours COST-VOLUNTEER row (L144) |
+| UG_KII_BBSRadio_HC_25Aug | L13 ("the radio gives us airtime on behalf of the farm radio") | Accept COST-INKIND (station-borne airtime; replacement cost from BBS 2m/episode, 37.1 L62). Same as SM L78 in-kind: enter once |
+| same | L34 ("we normally use the funds we have at the department… salary and allowances") | Reject as duplicate: same span accepted as SUST-CONTINUE + COST-INKIND (21.1) |
+| same | L90 (officers "using their own budget for their extension… not been operating on any budget") | Accept COST-INKIND (~70%: officers' participation drawn from the district extension budget, no programme budget). Wording is self-contradictory: John |
+| same | L105-L107 (750,000-1 million per individual extension worker) | Reject as duplicate: same span accepted as SUST-CONTINUE with the figure block (21.1) |
 
 ---
 
