@@ -2340,6 +2340,10 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L48 second row (demonstration costs more than a visit) | Reject as duplicate (~70%): same answer; carry the method point in the L48 note |
 | same | L52-L53 (500,000 a quarter per officer; ratio 1:4,000) | Accept, Yes (flagged in 26.1; second-hand "reliably informed") |
 | same | L53 second row (ratio 1:4,000) | Reject as duplicate of the both-passes L53 row |
+| same | L57 (4,000-6,000 farmers per sub-county) | Accept, Yes |
+| same | L59 (a whole year to cover the caseload) | Accept, Yes (time-to-cover; enter with L57) |
+| same | L63 (Green Leaf adds reach vs extension officer; one presentation ≈ three to four months of officer coverage) | Accept, Yes (~70%: his estimate). L65-L66 timing shortfall = ACC-SCHED, flagged in 32.1 |
+| — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
 
