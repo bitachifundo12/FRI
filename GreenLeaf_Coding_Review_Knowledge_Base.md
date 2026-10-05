@@ -2525,6 +2525,21 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L10, L23, L41 | Pending: Tilevu_02 integrity hold (L23 = Olevu L30; L41 likely = Olevu L50) |
 | UG_IDI_AtekerFM_Komaret_01_01Sep | L17 (courage and morale from kitchen-garden lessons) | Accept KNOW-VALUE (ADOPT-TRIAL kitchen garden flagged in 11.5; don't quote the husband's arrest) |
 | same | L23 (listened especially to topics like kitchen gardens and watering) | Reject (~70%): listening habit and topic list, already ACC-DIRECT (12.4); no appraisal |
+| same | L25 (learned to persist and be patient) | Accept KNOW-VALUE (flagged in 36.1) |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L27 (learnt about commercial farming) | Accept KNOW-VALUE |
+| same | L57 pass B (benefited most from commercial-farming knowledge) | Reject as duplicate (~70%): L57 is INC-CHANGE (53.1); the appraisal repeats L27 |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L28 (trust because it teaches me a lot) | Accept KNOW-VALUE |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L28 (trust because I've known what I didn't know) | Accept KNOW-VALUE |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L29 ("I trust it 50-50") | Reject as duplicate (~70%): the trust is grounded in failed forecasts at L32, already KNOW-TRUST-OUTCOME (35.1); extend that span |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L20 (liked by my people, we're all farmers) | Accept KNOW-VALUE (flagged in 12.4) |
+| same | L98 (Uliza "yes, they helped") | Accept KNOW-VALUE (~70%: appraisal of the Uliza response; Don't quote alone) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L115-L116 (Uliza good, better explanation) | Accept KNOW-VALUE (~70%; rejected as ECO-COMPARATOR in 52.1) |
+| UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L32 (trusts Mr Monday, inspiring and practical) | Reject (~70%): appraisal of the chairperson, not the programme; ECO-COMPARATOR already (52.1) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L37 (things changed for me as a farmer since listening) | Accept KNOW-VALUE |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L54 (queries answered on the show, no need to call) | Reject as duplicate: same span inside the L51-L54 ACC-OTHER row (31.1) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L21 (programmes useful: farming, gender, children) | Accept KNOW-VALUE (flagged in 12.4) |
+| same | L35 (trust: useful ideas, gender focus, practical information) | Accept KNOW-VALUE (~70%: no result or process basis) |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L25 (nice, informative, educative, useful) | Accept KNOW-VALUE; little land = ADOPT-BARRIER, add if not coded |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
