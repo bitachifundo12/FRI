@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (50, DIFF-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (51, ECO-ACTOR, session 11; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2198,6 +2198,22 @@ DIFF-KIN: all 8 rows decided (49.1). DIFF-OTHER (all countries): **6 of 23 decid
 | UG_IDI_RadioPacis_Andifeku_05_28Aug | L40 (a few copied after seeing results) | Accept DIFF-OTHER (~70%: by observation; conversation route is the L34 DIFF-INFORMAL row) |
 | UG_IDI_RadioPacis_Andifeku_07_28Aug | L40 (others now grow coffee with bananas) | Reject (~70%): change among other farmers with no link to him or the programme; not diffusion evidence |
 | UG_IDI_RadioPacis_Rondo_01_28Aug | L40 (another farmer started dry-season onions) | Accept DIFF-OTHER (~70%: uptake by another farmer, no route) |
+
+---
+
+## 51. Session 11: ECO-ACTOR
+
+DIFF-OTHER: rows in 50.1 decided. ECO-ACTOR (all countries, both sets): **14 of 26 decided, 12 left**; bulk accept off for Ghana.
+
+### 51.0 Checks for ECO-ACTOR
+- Another organisation operating in the same space (agricultural information/extension): other stations, agritech firms, NGOs, agro-dealers, aggregators, seed companies, named by the respondent.
+- Contributing to this hub's programme (content, staff, airtime, funding, reach) → FUNC-PARTNER (app decision: Rama TV carrying the programme). Hub members → CTX-HUB.
+- Not "same space" → not coded: general airtime clients (Save the Children as buyer), telecoms/consumer brands (MTN, Airtel, Bidco, Coca-Cola), 15.1/17.1. Farmers' associations sponsoring (ARUDIFA, MADIFA) → FUNC-PARTNER.
+- Often a second code with ECO-COMPARATOR (other sources of farm information).
+
+### 51.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
