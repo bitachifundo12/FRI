@@ -2429,6 +2429,21 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | same | L20 (kitchen garden after listening, >100,000 in under a year) | Accept INC-CHANGE. Figure: >100,000 UGX, <1 year, Recalled |
 | same | L24 (tomato practices learnt, improved production) | Accept INC-CHANGE ("100 tomato plants" is scale, not income) |
 | UG_IDI_AtekerFM_Komaret_01_01Sep | L44 (good harvest vs neighbours; this season poor) | Accept INC-CHANGE (~70%: answer to "what happened when you tried it", the kitchen garden from the programme, L17) |
+| same | L47 ("This year is not good at all, there's nothing") | Reject (~70%): poor season blamed on weather (L50), not a change from the programme; context for L44 |
+| same | L61 (intercropping: more yields last year, not this year) | Accept INC-CHANGE (~70%: last year's gain from the practice; this year's drop weather-driven, note) |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L45 ("increase in food and money") | Accept INC-CHANGE (~70%: answer to the change-since-Green-Leaf question; kitchen garden L30) |
+| same | L57 (goats through farming, commercial farming knowledge) | Accept INC-CHANGE (~70%: asset gain; link loose, note) |
+| same | L60 (farm expanded, improved yields) | Reject as duplicate (~70%): same gain as L57/L45 |
+| same | L69 (got 471,000 last year) | Accept INC-CHANGE (~70%: income from the practice, per the F-module). Figure: 471,000 UGX, last year, Recalled; whether practice income or whole farm, John |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L43 (improvements past years; this year totally different) | Accept INC-CHANGE (~70%: past gain; reversal weather-driven, L46). Speaker untagged |
+| same | L57 (apiary: total loss this year) | Accept INC-CHANGE (~70%: negative outcome of a tried practice; cause weather per L63, note) |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L44 (9 sacks sorghum, 4 sacks beans) | Accept INC-CHANGE (flagged in 27.1). Figure: no before figure, period unknown, Recalled |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L61 (harvest highly increased after the chairperson's Green Leaf advice) | Accept INC-CHANGE (relayed advice; listening caveat 12.6) |
+| same | L81 (animal dung instead of waiting for government fertiliser, yield changed) | Reject as duplicate (~70%): same gain as L61 with the practice named; carry the practice in L61's note |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L53 (manure: coffee healthier where applied) | Accept INC-CHANGE (~70%: within-farm comparison) |
+| same | L69 (expects better yield on manured trees) | Reject as duplicate (~70%): anticipated gain, same as L53 |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L87-L88 (organic fertiliser, more coffee fruit, more income) | Accept INC-CHANGE |
+| same | L91 (yield up; input use and labour also up) | Accept INC-CHANGE (cost side, distinct from L88) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
