@@ -1487,7 +1487,7 @@ REACH-OTHER: all 28 rows given verdicts (33.1). REACH-PLATFORM started (all coun
 
 ### 34.0 Checks for REACH-PLATFORM (Appendix A + 29.0-33.0)
 - **Uganda only. Figures that come from the Uliza platform's records,** not from memory: unique respondents, hub rankings, poll responses, series records. In practice that means a number the respondent reads from, or attributes to, a platform report or export; transcripts rarely hold one.
-- **Recalled Uliza numbers → REACH-ENGAGE** (Pacis RC1 L68 ≥100 a day; RC1 L76 sex shares). A recalled ranking (BBS RC1 L54) is context only.
+- **Recalled Uliza numbers → REACH-ENGAGE** (Pacis RC1 L68 ≥100 a day; RC1 L76 sex shares). **But a platform output the respondent reports** (the Uliza ranking script, a shared report) → REACH-PLATFORM with confidence Recalled, as in the frame's own Masindi example (BBS RC1 L47, 34.1); verify against the document.
 - **Uliza statements with no figure:** on/off pattern, activation, series cycles → CTX-STATUS (Ateker RC L88; Pacis RC2 L79); how polls or call-backs are used → FUNC-FEEDBACK; farmers' barriers (numbers changing, can't catch the number) → ACC-OTHER (section 16 rule 1; Ateker RC L83-L85); "I don't have the data / ask Charity" → REACH-ABSENT; "use is low / rising" → REACH-OTHER or CTX-STATUS.
 - **Ghana:** never REACH-PLATFORM (flag, Saalim 9 Sep). No data held → REACH-ABSENT; a bare claim of use → Reject or note.
 - **Do-not-apply:** never an audience measure; Uliza records connected call-backs only and has no calls-attempted denominator. Say so in any figure block.
@@ -1496,6 +1496,7 @@ REACH-OTHER: all 28 rows given verdicts (33.1). REACH-PLATFORM started (all coun
 ### 34.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_BBSRadio_RC1_24Aug | L47 (REACH-PLATFORM, both passes, high, figure blocks rank 3 / rank 4: "they produce a script indicating that BBS was maybe number three, Voice of Toro was number four, Pacis Radio station, was number this") | Accept REACH-PLATFORM (~70%: a hub ranking produced by Uliza, reported by the respondent; the frame's own example is this hub's Uliza rank, "top five of twelve"). Span L45-L49 (L49: "three to four, not exceeding five, out of the twelve"). Figure block: BBS rank 3-4 of 12, source Uliza ranking script, confidence Recalled (he hedges "maybe"), period not stated; Voice of Toro's rank is "maybe" too. Never an audience measure: ranks on connected call-backs. Rankings no longer sent (L53, REACH-ABSENT, 29.1): John to get the old scripts from the WhatsApp group or FRI. **Revises the 34.0 line** that called recalled rankings context only |
 
 ---
 
