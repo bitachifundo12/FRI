@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (37, COST-CASH, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-37.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (38, COST-INKIND, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-38.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1704,6 +1704,23 @@ KNOW-OTHER: all 10 rows given verdicts (36.1; Tilevu_02 L23 Pending). COST-CASH 
 | same | L78 (COST-CASH, both passes, medium: electricity "about 10 million" a month, station runs 24/7, studios, offices, transmission site) | Recode COST-BOUNDARY (whole-station energy, no programme share given). 10m UGX/month, Estimate |
 | same | L88 (COST-CASH, both passes, high: "Not specifically but… up to like four million every episode so if you have to charge the air time is like 2.3… presenter… producer… field… gadgets… like 4 million") | Accept COST-CASH (~70%: his reconstructed full cost per episode). Mark the block: ~4m UGX per episode, Estimate, includes ~2.3m airtime at rate-card price (that part is COST-INKIND, station-borne, not cash); flagged in 15.1. Enter 4m once (don't verify the duplicate block); far above the itemised cash lines (L30 70k, L34 salaries), record both |
 | same | L95 (COST-CASH, pass B only: IPSOS data "we buy from them that three million… for region… two regions they will charge like five million") | Recode COST-BOUNDARY (~70%: station-level audience-research purchase, not a programme input; flagged in 29.1 as a denominator note: a measured figure is buyable). 3m UGX per region, 5m for two; whether bought regularly unknown, John |
+| UG_KII_AtekerFM_SM_31Aug | L93 (re-shown) | Pending again, same note (cash vs swap; 75,000 annotation source, John). Possible save failure |
+
+---
+
+## 38. Session 10 continued (5 Oct 2026): COST-INKIND
+
+COST-CASH: rows from 37.1 decided (check the remaining count; Ateker SM L93 Pending). COST-INKIND (all countries): **11 of 43 decided (10 accepted, 1 rejected), 32 left**, 4 safe rows.
+
+### 38.0 Checks for COST-INKIND
+- **A resource an organisation supplies without cash:** station-borne airtime, government staff time (extension officers on air), offices, equipment, simulcast. Valued at replacement cost where a basis exists.
+- **Replacement-cost bases on file:** airtime Pacis 2m + VAT ≈ 2.3m/hour (22.1), BBS 2m/episode formerly paid (37.1 L62), Ateker 700,000/show formerly paid (23.1), talk-show rates 1.1-1.8m (22.1), Radio Savannah GHS 1,200-1,500/hour; officer time via SDA 12,000/day or salary.
+- **Not this:** a quoted rate with no resource given → SUST-DEMAND-STATED (app decision); an individual absorbing cost → COST-VOLUNTEER; cash paid → COST-CASH; equipment bought one-off → COST-SETUP (donated equipment → COST-INKIND with year).
+- Often a second code to SUST-CONTINUE (station or government named as payer); count each in-kind line once.
+
+### 38.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
