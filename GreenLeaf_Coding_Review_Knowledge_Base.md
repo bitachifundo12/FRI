@@ -1451,6 +1451,9 @@ REACH-EPISODE: all 30 rows given verdicts (32.1; Radio Savannah EO L432-L433 Pen
 | Session | Line | Verdict |
 |---|---|---|
 | GH_KII_GardenCityRadio_SM_17Aug | L154 (REACH-OTHER, pass B only, medium: "And I normally don't base my listening on those who call into a program") | Reject as duplicate (~70%): the opening of the same caveat accepted as REACH-ABSENT on L158 (29.1: callers are no proxy for listeners, L154-L158). Extend the L158 span to start at L154 rather than count the caveat twice |
+| same | L161-L162 (REACH-OTHER, flagged, pass B only, medium: "That should give you a fair idea… record each session…" / "The last program that we had, we use it. We use their number.") | Reject (~70%): L161 is the interviewer (as on the L158 row), and L162 is a bare claim that the Uliza number was used on the last programme, with no reach content; the known doubtful Ghana claim (flag: not operational). Ahmed to put it to the station. L164 (Uliza messages too long, listeners cut them off) only matters if the use is real |
+| same | L231-L232 (REACH-OTHER, pass B only, medium: "I realized it was gaining more listenership. And that was the time that it was taking off.") | Accept REACH-OTHER (qualitative claim of growing audience, no figure or basis; 30.1 convention, reason recorded for the fortnightly review). The programme stopping just as it took off is the SUST-LAPSE flagged on L230-L232 (19.1), its own row, add if not coded |
+| GH_KII_RadioSavannah_EO_10Aug | L259-L261 (REACH-OTHER, both passes, medium: "we do Savannah to have a large coverage. During the phone in call, we have people call as well from Northeast. People call as far as Savannah.") | Accept REACH-OTHER (qualitative coverage claim, with callers' locations as the basis, no number; same as Pacis EO L22 and EPC L20). Note for the Radio Savannah coverage area. Calibration KII: sealed-session check |
 
 ---
 
