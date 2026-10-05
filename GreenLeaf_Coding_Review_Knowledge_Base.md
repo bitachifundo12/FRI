@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (43, CTX-HUB, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-43.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (44, CTX-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-44.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1934,6 +1934,21 @@ CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decide
 | same | L10 (female presenter's contract not renewed) | Accept CTX-HUB (turnover) |
 | same | L10 (+GESI-OTHER: no woman left on the station side; coordinator wants a female voice) | Accept CTX-HUB + GESI-OTHER (gender gap on air; GESI-ROLE Ghana only). Overlaps the previous row: CTX-HUB once, keep for the GESI point. Whether she was replaced: John |
 | same | L46 (agriculture officer, extension worker, commercial officer as technical guests) | Accept CTX-HUB (named roster roles; the 20k is the COST-CASH/SUST-CONTINUE row) |
+
+---
+
+## 44. Session 10 continued (5 Oct 2026): CTX-OTHER
+
+CTX-HUB: rows in 43.1 decided (check remaining). CTX-OTHER (all countries): **7 of 24 decided (5 accepted, 2 rejected), 17 left**.
+
+### 44.0 Checks for CTX-OTHER
+- Last resort: own role → CTX-ROLE; others on the hub → CTX-HUB; element active/reduced/stopped → CTX-STATUS; earlier phases/funders → CTX-HIST. Then other families: hub performance self-ratings, station profile, revenue model, partners, governance (FUNC-GOV, FUNC-PARTNER, SUST-REVENUE, REACH-OTHER).
+- Hub performance ratings vs other hubs ("we are above 8", "90-95") have no code: candidate for CTX-OTHER (recurring; Frame note) unless platform-derived (REACH-PLATFORM, 34.1).
+- Station profile (ownership, licence type, community/commercial) → CTX-OTHER if no other code fits.
+
+### 44.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
