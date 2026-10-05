@@ -1993,6 +1993,14 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 | UG_KII_BBSRadio_RC1_24Aug | L8-L13, L19-L20, L23, L27, L32 (Charity Atuhura, BBS broadcaster since 2023; uploads to Uliza, presents, gets scripts, coordinates officers) | Accept all CTX-ROLE |
 | same | L58 ("I'm not in that position to ask. I am a junior staff member") | Accept CTX-ROLE (her place in the station hierarchy) |
 | UG_KII_BBSRadio_SM_25Aug | L6, L8-L9, L11, L13 (Margaret Barungi, manager; monitoring, approving field facilitation; since 2023; oversees the station) | Accept all CTX-ROLE. Respondent category: actual station manager (5.7 decision 1) |
+| UG_KII_BBSRadio_SM_25Aug | L19, L21 (also marketing, presentation, accounts) | Accept both CTX-ROLE |
+| UG_KII_Ecosystem_EPC2_21Aug | L22 (interacted with hub coordinators and farmers in the three districts) | Accept CTX-ROLE (~70%: his organisation's remit with the hubs) |
+| same | L70 (+FUNC-PARTNER: "I come into backstop and support"; colleague Ida in content design) | Accept CTX-ROLE + FUNC-PARTNER (Ida is AID Environment, per the context; confirm) |
+| same | L81 (Raymond Tumuhaire, head of business, AID Environment) | Accept CTX-ROLE |
+| UG_KII_Ecosystem_EPC_11Sep | L22 (Isaac Ndyamuhaki, national director, GAYO) | Accept CTX-ROLE |
+| UG_KII_RadioPacis_EO_27Aug | L7, L8-L9, L11, L13, L14 (Etoma Charles, MAAIF regional coffee/cocoa officer; subject specialist on the show; stands in for the hub coordinator; ministry remit, training staff) | Accept all CTX-ROLE |
+| UG_KII_RadioPacis_EPC_28Aug | L6 (Alema Emmanuel Eyotre, Syova field agronomist, Arua) | Accept CTX-ROLE |
+| same | L6 (van to Arua twice a month; collects orders) | Accept CTX-ROLE (~70%: his own duties; business logistics, no other code) |
 
 ---
 
