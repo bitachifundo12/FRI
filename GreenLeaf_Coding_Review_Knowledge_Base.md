@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (40, COST-SETUP, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-40.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (41, COST-VOLUNTEER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-41.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1808,6 +1808,22 @@ COST-OTHER: all 8 rows decided (39.1); lead queue 4 decided (39.2). COST-SETUP (
 | UG_KII_RadioPacis_SM_27Aug | L50 (zoom recorder from FRI, ~two years ago) | Reject as duplicate: same span accepted as COST-INKIND + COST-SETUP (38.1) |
 | same | L52 (zoom recorder "can go up to 700,000") | Reject as duplicate: same span accepted as COST-INKIND with the value (38.1); don't verify the block again |
 | same | L76 (equipment "from Austria, Germany or Italy… a whole thing that will be about 100 million") | Recode COST-BOUNDARY (~70%: station-wide transmitter/rack replacement, not programme equipment and not incurred; a replacement cost). 100m UGX, Estimate |
+
+---
+
+## 41. Session 10 continued (5 Oct 2026): COST-VOLUNTEER
+
+COST-SETUP: all 10 rows decided (40.1). COST-VOLUNTEER (all countries): **19 of 37 decided, 18 left**, 8 safe rows.
+
+### 41.0 Checks for COST-VOLUNTEER
+- Time, travel or materials absorbed by an **individual**: volunteered time, own fuel, own-cost travel, unpaid stand-ins, own pocket for refreshments or airtime (Ateker RC L18-L19, HC L60).
+- **Not institutional in-kind:** an officer's time within his job and paid by his department → COST-INKIND (38.1: Ateker EO L52-L54, HC L47); station staff time and substitutes → COST-INKIND (Pacis SM L58). Individuals going beyond their mandate at their own cost → here.
+- Hypothetical ("if the technical people can come unpaid") → SUST-RESTART (19.1 BBS SM L181). Often a second code to SUST-CONTINUE with "unpaid time" as payer (Radio Savannah RP L19).
+- Figure block: hours, distance, own-cost amounts where given.
+
+### 41.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
