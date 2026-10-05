@@ -2075,6 +2075,15 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | UG_KII_RadioPacis_EPC_28Aug | L18 ("My program on Saturdays… Otita Agrikica Ni") | Reject: rejected on REACH-EPISODE (32.1); Saturday conflicts with Friday slot, John to check which show |
 | UG_KII_RadioPacis_HC_28Aug | L19 (Uliza "at the time when the people are responding, it is off") | Accept CTX-STATUS (flagged in 34.1) |
 | same | L23 (Uliza on and off, recently activated) | Accept CTX-STATUS (separate answer to L22; keep both) |
+| UG_KII_RadioPacis_RC1_27Aug | L9 ("I also do upload the programs… Uliza") | Reject (~70%): part of his role list, already CTX-ROLE on L9 (45.1); uploads being done is not a status statement here |
+| same | L12 ("our hub does weekly meetings") | Accept CTX-STATUS (meetings active weekly) |
+| same | L17 (management maintains the hour; "Farm Radio hour is always preserved") | Accept CTX-STATUS (airtime intact) |
+| same | L18 ("on rare occasions that our program misses") | Accept CTX-STATUS (broadcast regular) |
+| same | L20 ("fully active. We run all the segments") | Accept CTX-STATUS |
+| same | L23 (five years not missed, except special programmes or holidays) | Reject as duplicate (~70%): same as L18/L20 |
+| same | L27 (hub meetings after the programme "have not really been affected") | Accept CTX-STATUS (flagged in 23.1) |
+| same | L60 (Uliza works two to three days, then off) | Accept CTX-STATUS (Uliza partial) |
+| UG_KII_RadioPacis_RC2_27Aug | L31 ("actively fully done") | Accept CTX-STATUS |
 
 ---
 
