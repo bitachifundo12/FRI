@@ -2356,6 +2356,17 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L25 pass B only (same figure) | Reject as duplicate |
 | same | L27 (16 staff, ratio 1:1,000-2,700, ~6 a day, ~90 a month) | Accept, Yes |
 | same | L27 pass B only (16 days × ~6 = 90 a month) | Reject as duplicate (16 × 6 = 96, he says 90: note in the main row) |
+| same | L31 (Agricultural Extension Grant, rates low) | Reject as duplicate: same span accepted as ECO-POLICY (26.1) |
+| same | L33 (grant per quarter, varies by district) | Accept, Yes (period of the grant; enter with L35/L39) |
+| same | L35 (Arua given 29 million) | Accept, Yes (29m UGX per quarter for all extension staff, per L33) |
+| same | L37 (unconditional funds, shared with monitoring, CAO; small per staff) | Reject as duplicate: same span accepted as ECO-POLICY (26.1) |
+| same | L39 (~one million per worker per quarter) | Accept, Yes |
+| same | L43 (refresher training at times, quarterly) | Reject (~70%): district staff training, not set against Green Leaf; no figure |
+| same | L63 (this model better than other models; can be mainstreamed) | Accept, No |
+| same | L73 (many reached at once vs officer going one direction) | Accept, No |
+| same | L74 (great advantage to farmers and extension staff) | Accept, No (~70%) |
+| same | L78 (extension both private and public; district regulates) | Reject as duplicate: same span accepted as ECO-POLICY (26.1); ECO-COMPARATOR No for the referral part was flagged there, keep one row |
+| UG_KII_RadioPacis_RC1_27Aug | L53 (one officer per sub-county, ~1,000 households a day impossible; radio easier) | Accept, **Quantified No** (~70%: "1,000 households" is illustrative "let me say") |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
