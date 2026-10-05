@@ -2023,6 +2023,18 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 ### 46.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L27 ("It is active… every Monday, we are always there") | Accept CTX-STATUS (broadcast and her participation active; flagged in 20.1) |
+| UG_KII_AtekerFM_HC_01Sep | L22 (extension workers sometimes busy, turn up late) | Accept CTX-STATUS (officer participation partial) |
+| same | L26 (+REACH-EPISODE: Monday 5-6pm, Saturday repeat, "always there on air") | Accept CTX-STATUS + REACH-EPISODE (slot already on Ateker SM L31-L32, enter once) |
+| same | L41 (funding not 100% "has not affected any of our activities… remained the same") | Accept CTX-STATUS (flagged in 20.1; conflicts with RC L13, record both) |
+| same | L54 (hub meets every two weeks) | Accept CTX-STATUS (hub meetings active) |
+| same | L169 ("a challenge with Uliza… problem lies… within farm radio") | Accept CTX-STATUS (Uliza problematic) |
+| same | L176 ("No. It is not on consistently") | Accept CTX-STATUS (Uliza inconsistent; Q+A span, Don't quote) |
+| UG_KII_AtekerFM_RC_31Aug | L13 (lack of commitment from hub coordinators, extension workers; "the program flops") | Recode SUST-LAPSE (~70%: participation has fallen since facilitation stopped, flagged in 19.1 and 23.1; L15 gives the funding link). CTX-STATUS if the team prefers status only |
+| same | L21 ("I have failed to upload most of the programs") | Accept CTX-STATUS (uploads partial) |
+| same | L24-L25 (laptop spoilt, not repaired, whereabouts unknown) | Reject as duplicate: same span recoded CTX-STATUS from COST-SETUP (40.1) |
+| same | L29 ("the green leaf program, is it fully active?" — "Yes") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L35 (hub meetings not physical, online/phone) | Accept CTX-STATUS (meetings changed format). Conflicts with HC L54 (every two weeks): record both |
 
 ---
 
