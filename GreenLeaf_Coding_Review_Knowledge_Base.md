@@ -2063,6 +2063,18 @@ CTX-ROLE: rows in 45.1 decided (check remaining; safe Uganda rows may be bulk-ac
 | UG_KII_BBSRadio_SM_25Aug | L33 (don't miss programmes; upload, guests, field) | Accept CTX-STATUS |
 | same | L35 ("It is currently active") | Reject as duplicate (~70%): same status as L33 |
 | same | L37 ("Not fully funded") | Accept CTX-STATUS (~70%: funding partial; the drop itself is SUST-LAPSE L41-L48) |
+| same | L39 ("It is little. Depending on how we started") | Reject as duplicate (~70%): the funding drop is the SUST-LAPSE on L41-L48 (23.1) and the status is on L37 |
+| same | L52 (+SUST-LAPSE: "Hub meetings? They are not frequent") | Reject as duplicate: same span accepted as SUST-LAPSE (23.1) |
+| same | L249-L251 (reach "still"; quality "the same") | Accept CTX-STATUS (~70%: unchanged despite reduced funding; Don't quote) |
+| UG_KII_Ecosystem_EPC2_21Aug | L167 (hub coordinators use extension workers for talk shows) | Reject as duplicate (~70%): roster practice, already CTX-HUB on L168 (43.1); extend that span |
+| UG_KII_RadioPacis_EO_27Aug | L10 (evaluation meetings "always happen after the presentation") | Accept CTX-STATUS (post-show evaluation active) |
+| same | L32 ("fully active?" — "Yes") | Accept CTX-STATUS (Q+A, Don't quote) |
+| same | L37 (Uliza was off for a period for technical reasons) | Accept CTX-STATUS (technical, not support-related) |
+| same | L81-L82 (Uliza consistent at first, then technical issues) | Accept CTX-STATUS |
+| same | L82 (off for a while, people lost it, re-sensitised) | Reject as duplicate (~70%): continuation of L81-L82; one row |
+| UG_KII_RadioPacis_EPC_28Aug | L18 ("My program on Saturdays… Otita Agrikica Ni") | Reject: rejected on REACH-EPISODE (32.1); Saturday conflicts with Friday slot, John to check which show |
+| UG_KII_RadioPacis_HC_28Aug | L19 (Uliza "at the time when the people are responding, it is off") | Accept CTX-STATUS (flagged in 34.1) |
+| same | L23 (Uliza on and off, recently activated) | Accept CTX-STATUS (separate answer to L22; keep both) |
 
 ---
 
