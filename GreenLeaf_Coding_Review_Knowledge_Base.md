@@ -2456,6 +2456,15 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | UG_IDI_RadioPacis_Andifeku_05_28Aug | L43 (improvements in harvest and income) | Accept INC-CHANGE |
 | same | L57 (circular regenerative agriculture, yields up) | Reject as duplicate (~70%): same gain as L43, practice named here; carry in L43 note |
 | UG_IDI_RadioPacis_Andifeku_06_28Aug | L40 (ridges make weeding easier) | Recode ADOPT-TRIAL (~70%: labour ease, not yield, income or cost figure; practice tried with programme attribution L37). Yield gain is L43, add if not coded |
+| same | L43 (less seed, better yields since Green Leaf advice) | Accept INC-CHANGE |
+| same | L57 (row planting on ridges, yield up, labour down) | Reject as duplicate (~70%): same gain as L43; labour saving in that note |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L40 (improvement in banana production) | Reject as duplicate (~70%): the L43 row carries it with figures |
+| same | L43 (organic manure, banana 7-8 → 11-12 clusters per plant) | Accept INC-CHANGE |
+| same | L57 (+INC-INVEST: early land preparation, manure, more income, bought a goat) | Accept INC-CHANGE + INC-INVEST (income gain; proceeds used for a goat) |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L43 (good money from off-season vegetables, understanding seasons) | Accept INC-CHANGE |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L45 (positive change in harvest and household food) | Accept INC-CHANGE |
+| same | L46 (soil more productive, organic, less chemical fertiliser) | Accept INC-CHANGE (~70%: adds input-cost dimension; keep with L45) |
+| same | L60 (practice helped produce more) | Reject as duplicate (~70%): same yield gain as L45/L46 |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
