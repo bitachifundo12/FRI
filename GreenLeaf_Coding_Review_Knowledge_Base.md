@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (34, REACH-PLATFORM, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-34.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (35, KNOW-CONFUSE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-35.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1513,6 +1513,29 @@ REACH-OTHER: all 28 rows given verdicts (33.1). REACH-PLATFORM started (all coun
 | UG_KII_RadioPacis_RC2_27Aug | L25 (REACH-PLATFORM, both passes, high: in FRI content-development meetings "Radio Pacis is among the top three. At the beginning, we were number one but we were toppled by mega fm… either Radio Pacis as number one or it is number two") | Accept REACH-PLATFORM (an Uliza ranking reported back by FRI at its meetings; the frame's example type). Figure block: rank 1-2 (top three) of the twelve hubs, Recalled, period not stated; enter Pacis's standing once with RC1 L18, EO L29-L30, HC L21. Agrees with BBS RC1 L54 (MEGA first, Pacis ahead of BBS). John: FRI's ranking tables. L26-L28 how Uliza is promoted (toll-free beep, call-back, polls, on-air and social-media promos, numbers rise when promoted) = FUNC-FEEDBACK, add if not coded |
 | same | L27-L28 (REACH-PLATFORM, both passes, medium, figure block 50 shillings: "There are certain times they have just told us now you stop the promotion because you have hit the numbers that we want") | Recode FUNC-FEEDBACK (~70%: how poll responses are gathered, with FRI capping promotion once its target is reached; no figure, so not REACH-PLATFORM; the L26-L28 FUNC-FEEDBACK flagged on L25). Worth carrying: Uliza counts partly reflect FRI's targets and promotion effort, not just listener demand, another caveat on hub figures. Don't verify the 50-shilling block here: it belongs to L27's earlier sentence (callers need ~50 shillings airtime balance to beep, though the call is free), a participation-cost note (ACC-OTHER territory), not this span. John: FRI's poll targets |
 | same | L75 (REACH-PLATFORM, pass A only, medium: "they give us thresholds on what numbers we need to hit so sometimes they deactivate and then we stay with the numbers that are there") | Recode CTX-STATUS (~70%: why Uliza is switched off: FRI pays per user, heavy traffic can crash it, and it is deactivated once thresholds are met; element status with its reason, no figure). Same threshold point as L27-L28 but about deactivation, so keep both. Missed: earlier in L75, FRI bears a cost for every user who calls free = COST-BOUNDARY (platform cost above the hub; FRI cost request), add if not coded. Caveat on Uliza figures: counts stop at FRI's thresholds |
+
+---
+
+## 35. Session 10 continued (5 Oct 2026): KNOW-CONFUSE
+
+REACH-PLATFORM: all 17 rows given verdicts (34.1). The REACH family is now done apart from Pending rows. KNOW-CONFUSE started (all countries): **0 of 49 decided**, 22 safe rows offered (read ~20 individually first). The app now shows the adopted apply-when (used Uliza or the programme but could not follow, e.g. number or answer too fast) and the Rondo_02 L75 decision.
+
+### 35.0 Checks for KNOW-CONFUSE (Appendix A + app decisions + earlier verdicts)
+- **Content the respondent could not act on, did not understand, or did not believe**: reported confusion, contradiction, rejection of advice. Includes having used Uliza or the programme but not being able to follow (number or answer too fast; Rondo_02 L75).
+- **Siblings:**
+  - Clear but unaffordable or lacking inputs, land, labour → ADOPT-BARRIER.
+  - Can't hear it (no set, timing, signal, language of broadcast) → ACC-BARRIER; never used Uliza because of no phone, number missing or changing → ACC-OTHER (section 16 rule 1).
+  - Tried and abandoned → ADOPT-DROP (with reason); distrust grounded in results (advice failed, unreliable forecasts) → KNOW-TRUST-OUTCOME; distrust grounded in how it's made → KNOW-TRUST-PROCESS.
+  - A negative appraisal with no specific content ("not useful") → KNOW-VALUE.
+- **About the programme:** generic radio or other programmes → not this code (Atwima Nerebihi L16 still Pending on that test; Garden City rows carry the Akuafo Mrre identity check).
+- **Absence is codeable** (frame example: "No confusing or unusable advice was reported").
+- **Community set.** In hub KIIs, content-design complaints → FUNC-CONTENT, not this.
+- **Flagged earlier as KNOW-CONFUSE (check they appear):** Rondo_02 L75 (accepted in session 1); Tilevu_02 L13 rest ("don't know whether we are doing things correctly", 50/100, integrity hold applies); Golinga_04 L31 opening (some practices confusing, calls in for clarity, 15.2).
+- **Cautions:** Tilevu_02 integrity hold; RA reconstructions paraphrase only; Ewe/Dagbani/Karamojong content may be lost in English (translation flag, not this code).
+
+### 35.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
