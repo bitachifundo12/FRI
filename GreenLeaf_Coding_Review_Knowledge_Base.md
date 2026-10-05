@@ -1949,6 +1949,17 @@ CTX-HUB: rows in 43.1 decided (check remaining). CTX-OTHER (all countries): **7 
 ### 44.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L20 (can't compare Moroto with Masindi or Lira, never been there) | Reject (~70%): a don't-know on hub comparison, no context fact (as Volta Star EPC L65-L68, 29.1) |
+| UG_KII_AtekerFM_HC_01Sep | L14 (Moroto hub "fairly well… significant challenges") | Accept CTX-OTHER (hub self-rating, 44.0; recurring, Frame note) |
+| UG_KII_AtekerFM_RC_31Aug | L33 (financial bit "I don't know… the management and the green leaf managers know") | Reject: a don't-know |
+| UG_KII_AtekerFM_SM_31Aug | L15 (US funding cuts under Trump affected NGO business) | Accept CTX-OTHER (~70%: wider operating environment; the station-income effect is the SUST-REVENUE rows L11-L14, 15.1) |
+| same | L22 (in Karamoja death announcements are culturally different, few placed) | Accept CTX-OTHER (~70%: local cultural context for the station's revenue; SUST-REVENUE on L28 holds the income point) |
+| same | L28 ("UCC… expects you go on almost 24 hours a day broadcasting") | Accept CTX-OTHER (regulatory operating requirement; not ECO-POLICY, which is extension/digital-ag strategy) |
+| UG_KII_BBSRadio_EO_25Aug | L22 ("The organization is a service provider. It's not making business") | Accept CTX-OTHER (~70%: district office's non-commercial profile) |
+| UG_KII_BBSRadio_SM_25Aug | L25 (adverts, talk shows, DJ mentions, sponsorships "our package") | Reject as duplicate: same span accepted as SUST-REVENUE (15.1) |
+| UG_KII_Ecosystem_EPC2_21Aug | L36 ("the uptake of the program is not significant", about the weaker Moroto) | Accept CTX-OTHER (~70%: outsider's performance judgement on a hub; Moroto per L34, confirm) |
+| UG_KII_Ecosystem_EPC_11Sep | L25 (GAYO: youth-led pan-African organisation, climate, Uganda/Botswana/Ghana) | Accept CTX-OTHER (partner organisation profile) |
+| same | L26 (10 project locations, thematic areas; "search the economy" = circular economy) | Reject as duplicate (~70%): same organisation profile; extend the L25 span to L26 |
 
 ---
 
