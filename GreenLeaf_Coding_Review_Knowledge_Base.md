@@ -2162,6 +2162,14 @@ DIFF-INFORMAL: rows in 48.1 decided (Tilevu_02, Naitakwai L21 Pending). DIFF-KIN
 ### 49.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L27 ("they are two… one doesn't stay in this community and the other is my sister… we don't share gardens") | Reject (~70%): names who the two are, not that content passed to them; answer drifts off L26 |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L34 (+DIFF-FORMAL: family and group members, weather forecast) | Reject as duplicate: same span accepted as DIFF-FORMAL + DIFF-KIN (27.1) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L42 (group and family members) | Reject as duplicate: same span accepted as DIFF-FORMAL + DIFF-KIN (47.1) |
+| same | L51-L52 (family meeting every school term before new projects) | Reject (~70%): a family decision forum, Green Leaf content not said to pass through it |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L34 (wife and neighbours) | Accept DIFF-KIN (the wife route; neighbours on the DIFF-INFORMAL row, 48.1) |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L34 (family, especially children) | Accept DIFF-KIN |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L26 (shared poultry idea with mother-in-law) | Accept DIFF-KIN (mother-in-law also listens, L17, so not ACC-SHARED) |
+| same | L35 (discussed with mother-in-law and husband, started small) | Accept DIFF-KIN (separate answer to D1; keep both). ADOPT-TRIAL on L36 (10 chickens), add if not coded |
 
 ---
 
