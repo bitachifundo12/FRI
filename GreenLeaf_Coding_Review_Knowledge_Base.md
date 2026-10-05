@@ -2141,6 +2141,17 @@ DIFF-FORMAL: rows in 47.1 decided (Tilevu_02 and Naitakwai L21 Pending). DIFF-IN
 | UG_FGD_RadioPacis_Olevu_01_27Aug | L21 (speak to fellow women about the programme) | Accept DIFF-INFORMAL (~70%) |
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L16, L19 | Pending: Tilevu_02 integrity hold (L19 = Naitakwai L21) |
 | UG_IDI_AtekerFM_Komaret_01_01Sep | L38 (+ACC-SHARED: shared with neighbours, radio always loud) | Accept DIFF-INFORMAL + ACC-SHARED (flagged in 35.1) |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L36 (shares with others: advisory, weather) | Accept DIFF-INFORMAL (~70%) |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L34 (shared with group members and neighbours) | Accept DIFF-INFORMAL (the neighbour route; group route is the DIFF-FORMAL row, 27.1) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L61 (+DIFF-KIN: neighbours and children) | Accept DIFF-INFORMAL + DIFF-KIN (39.2) |
+| same | L69 (some adopted making their own fertiliser) | Accept DIFF-INFORMAL (~70%: uptake among friends/colleagues, L68) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L52 (individuals she explains to pick up interest) | Accept DIFF-INFORMAL (~70%) |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L77 (neighbours planted promptly and succeeded) | Accept DIFF-INFORMAL (~70%: uptake by neighbours he shared with) |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L34 (shared maize planting; many copy his methods) | Accept DIFF-INFORMAL (flagged in 35.1) |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L34 (neighbours see his garden; friends when going out) | Accept DIFF-INFORMAL (wife = DIFF-KIN, flagged in 35.1, add if not coded) |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L34 (+DIFF-KIN: wife, friends, neighbours) | Accept DIFF-INFORMAL + DIFF-KIN |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L34 (discussed the programme with farmers at Logiri while delivering seedlings) | Accept DIFF-INFORMAL |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L42 ("I can now teach and share… with other women") | Accept DIFF-INFORMAL (~70%: stated capability, weak; not shown to have happened) |
 
 ---
 
