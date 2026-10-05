@@ -2405,6 +2405,17 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | same | L72 (no burning, letting leftovers decompose, plantain yield) | Accept INC-CHANGE |
 | GH_IDI_GardenCityRadio_Jamasi_02_29Aug | L20 (taro and cocoyam income and yield improved; programme and extension officer) | Accept INC-CHANGE (~70%: joint attribution, note it). RA reconstruction |
 | same | L22 (chicken rearing from the program; saves buying chicken in December) | Accept INC-CHANGE (cost saving; ADOPT-TRIAL second code) |
+| GH_IDI_GardenCityRadio_Jamasi_03_31Aug | L20 (soil preservation from the programme, more yields in a year) | Accept INC-CHANGE (flagged in 27.1). RA reconstruction |
+| same | L22 (quick replanting, more yield) | Reject as duplicate (~70%): same practice and yield as L20 |
+| same | L24 (plant quicker, more yield) | Reject as duplicate (~70%): same as L20 |
+| same | L24 (reduces labour expenditure, saves money) | Accept INC-CHANGE (cost change, distinct outcome; no amount) |
+| same | L30 (yield up, expenditure down, income up) | Accept INC-CHANGE (income outcome; carries the L24 cost point too) |
+| same | L30 pass B (income increased) | Reject as duplicate of the L30 both-passes row |
+| same | L32 (income increased from teachings) | Reject as duplicate (~70%): restates L30 |
+| GH_IDI_RadioSavannah_Golinga_01_11Aug | L40 (manure over fertiliser, less perishable, fewer losses) | Accept INC-CHANGE (post-harvest loss reduction; ADOPT-TRIAL second code) |
+| GH_IDI_RadioSavannah_Golinga (number cut off; the L40 discussion-group session) | L43 (planting timing per advice, avoided heavy-rain losses) | Accept INC-CHANGE (flagged in 27.1). Confirm session ID |
+| GH_IDI_RadioSavannah_Golinga_03_11Aug | L37 (compost, good harvest without fertiliser) | Accept INC-CHANGE (flagged in 35.1; plans to repeat) |
+| same | L46 (harvest corn fresh, avoids weevils in storage) | Accept INC-CHANGE (post-harvest loss; ADOPT-SUSTAIN second code) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
