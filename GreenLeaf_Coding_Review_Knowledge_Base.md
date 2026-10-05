@@ -2001,6 +2001,10 @@ CTX-OTHER: rows in 44.1 decided (check remaining). CTX-ROLE (all countries): **1
 | UG_KII_RadioPacis_EO_27Aug | L7, L8-L9, L11, L13, L14 (Etoma Charles, MAAIF regional coffee/cocoa officer; subject specialist on the show; stands in for the hub coordinator; ministry remit, training staff) | Accept all CTX-ROLE |
 | UG_KII_RadioPacis_EPC_28Aug | L6 (Alema Emmanuel Eyotre, Syova field agronomist, Arua) | Accept CTX-ROLE |
 | same | L6 (van to Arua twice a month; collects orders) | Accept CTX-ROLE (~70%: his own duties; business logistics, no other code) |
+| UG_KII_RadioPacis_EPC_28Aug | L11-L12 (in Syova 2019-2023, then back; ~4 years in Arua) | Accept CTX-ROLE (tenure) |
+| UG_KII_RadioPacis_HC_28Aug | L6, L8-L9, L65 (Nelson Adile, district hub coordinator and agricultural officer; quality assurance and coordinating hub members) | Accept all CTX-ROLE |
+| UG_KII_RadioPacis_RC1_27Aug | L7, L9, L21 (Joel Eyoti, broadcaster and host of Otita Agrikicani, Fridays 4-5pm; research, guests, coordination; fifth year at Pacis) | Accept all CTX-ROLE |
+| UG_KII_RadioPacis_RC2_27Aug | L7-L8, L10-L11, L12, L16-L17 (Amule Daniel, producer of Otita Agrikicani; run sheet; guest and presenter transport; producer for all Radio Pacis 90.9 programmes) | Accept all CTX-ROLE (flagged in 15.1) |
 
 ---
 
