@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (36, KNOW-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-36.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (37, COST-CASH, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-37.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1612,6 +1612,29 @@ KNOW-CONFUSE: all 49 rows given verdicts (35.1; Have Ando L130, Tilevu_02 L13 an
 | UG_FGD_AtekerFM_Nabuin_01_31Aug | L27 (KNOW-OTHER, pass B only, low: "No" to the double-barrelled useful/ill-fitting question) | Reject: same as its KNOW-CONFUSE row (35.1 convention, bare "No" to a two-part question) |
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L23 (KNOW-OTHER, pass A only, medium: Candiru Florence, "Green Leaf's advice does not adequately integrate agroforestry… more emphasis… combining trees with crops and livestock") | Pending: Tilevu_02 integrity hold; L23 = Olevu_01 L30 word for word (27.1). The Olevu original is the row to code: a negative appraisal pointing to a content gap = KNOW-VALUE (flagged in 35.1) |
 | UG_IDI_AtekerFM_Komaret_01_01Sep | L24 (KNOW-OTHER, pass A only, medium: Rose Losike, "The program talks about how to focus on farming plus new farming techniques, animal keeping, treatment and vaccination of livestock… involvement of different categories of people in the household") | Reject (~70%): a topic list describing the programme, no recall detail or appraisal (36.0 default; 12.2: a topic list is not KNOW-VALUE). **Changes my 12.4 note** that called L24-L25 KNOW-VALUE: L24 is description only; L25 "learned from the radio how to persist and be patient" is KNOW-VALUE, add if not coded |
+
+---
+
+## 37. Session 10 continued (5 Oct 2026): COST-CASH
+
+KNOW-OTHER: all 10 rows given verdicts (36.1; Tilevu_02 L23 Pending). COST-CASH resumed (all countries): **27 of 96 decided (all accepted, earlier, mostly Ghana), 69 left**, 18 safe rows offered (don't bulk-accept: figure rows need their blocks checked). The app shows two decisions: field fuel/driver/staff = COST-CASH not COST-SETUP; "12,000 from the district" = SUST-CONTINUE not COST-CASH.
+
+### 37.0 Checks for COST-CASH (Appendix A + 5.3 + earlier verdicts)
+- **Money actually paid for an input** (fees, airtime, per diems, fuel, materials, equipment, transport, stipends, facilitation tokens), with its basis. Recurring field costs (fuel, driver, per diems) stay here, not COST-SETUP.
+- **Siblings:**
+  - Donated or waived (station-borne airtime, government staff time, offices, simulcast) → COST-INKIND, valued at replacement cost. **Airtime the station bears is COST-INKIND, not COST-CASH** (v0.3; issue 8.3: the frame's own COST-CASH example still treats the GHS 1,200-1,300 rate as cash, and the Guide settled that quote as SUST-DEMAND-STATED).
+  - An individual absorbing a cost (own fuel, unpaid time) → COST-VOLUNTEER.
+  - One-off start-up (equipment, initial training, with year) → COST-SETUP.
+  - Cost above the hub (UCC licence, NSSF, URA, station staff salaries, FRI platform costs) → COST-BOUNDARY.
+  - Money received with a payer named → SUST-CONTINUE; money the station earns → SUST-REVENUE; a quoted rate or price, no payment → SUST-DEMAND-STATED; what it would cost to restore → SUST-RESTART; a payment that stopped → SUST-LAPSE (COST-CASH only for the amount while it ran, if wanted).
+  - Cost of face-to-face extension as a comparator → ECO-COMPARATOR, Quantified Yes (BBS EO L81, L95).
+- **Who pays:** say it in every block (FRI, station, district, partner, sponsor). FRI-paid items (retainer-funded transport, data, fuel) are COST-CASH from the programme's side.
+- **Figure block (5.3):** value as stated, unit, currency, reference year, period, basis (per session/episode/hour/trip/month/year/total), funding source, confidence, verified No until audio (Ahmed Ghana, John Uganda). **Cedis may be rendered as dollars** (Ghana); UGX assumed in Uganda unless stated. Never average disagreeing figures; the same figure on several rows enters once.
+- **Already flagged as COST-CASH (check they appear):** Radio Savannah EO L349-L350 (GHS 250 × 48 = 12,000); Pacis SM L46 (20,000/guest/show, station-paid), L24 (FRI 2.7m/quarter transport), L28 (feeding, transport on field days), L88 (~1m production per episode); Pacis RC2 L48/L56 (20k transport); Pacis HC L82 (200,000 stipend); Ateker SM L61, L68 (FRI money: reporter transport, calls, airtime), L47 (FRI-fuelled motorcycle); BBS SM L74-L76 (30-50k per technical person); Garden City EPC L25-L28 (T&T per trip); Garden City SM fuel/driver/two staff (Guide).
+
+### 37.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
