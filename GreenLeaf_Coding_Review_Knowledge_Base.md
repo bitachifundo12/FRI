@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (33, REACH-OTHER, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-33.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (34, REACH-PLATFORM, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-34.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1478,6 +1478,24 @@ REACH-EPISODE: all 30 rows given verdicts (32.1; Radio Savannah EO L432-L433 Pen
 | same | L60 (REACH-OTHER, both passes, medium: "Not only five we have a number of districts here; Adjumani, Moyo, Yumbe, Koboko, Maracha, Terego, Madi-Okollo, part of Nebbi, Zombo… refugees… people across the borders… Lugbara-speaking people across congo and across South Sudan") | Accept REACH-OTHER (coverage claim naming districts, refugee settlements and cross-border Lugbara speakers, no number; same respondent as L12, but a different question, L59, and it lists the area, so keep both). The district list is the population base the Arua denominator would need (flagged in 24.1 on L58-L60) |
 | UG_KII_RadioPacis_SM_27Aug | L8 (REACH-OTHER, pass B only, medium, figure block 200 km²: "Okay our frequency reach is 200 kilometers squared") | Accept REACH-OTHER (station's broadcast coverage as an area, no people count, so not REACH-AUDIENCE; 30.0). Same figure as L84 ("200 square kilometres… by UCC"): enter once. Figure block: 200 km² is implausibly small for a regional FM footprint, probably a 200 km radius; confidence Estimate, not Measured; source UCC per L84; John. Rest of L8, programme on 90.9 FM named Otita Agrikicani, hub members (district technical team, producer, presenter) = CTX-HUB; L6 = CTX-ROLE; add if not coded |
 | same | L84 (REACH-OTHER, both passes, medium, two figure blocks 200 km²: "We reach up to 200 square kilometers. That's by UCC… We reach deep congo but really our focus is this side Uganda") | Accept REACH-OTHER (coverage area with its source, UCC, plus spillover into Congo; answers L83, a separate question from L7, so its own row). **Carry the 200 figure on this row** (it names the source) and leave the L8 block and the "restated" block here unverified, so it is entered once. Same unit doubt (radius?), check against the UCC licence (John) |
+
+---
+
+## 34. Session 10 continued (5 Oct 2026): REACH-PLATFORM
+
+REACH-OTHER: all 28 rows given verdicts (33.1). REACH-PLATFORM started (all countries): **0 of 17 decided**, 5 safe rows offered (read each; most rows likely need recoding).
+
+### 34.0 Checks for REACH-PLATFORM (Appendix A + 29.0-33.0)
+- **Uganda only. Figures that come from the Uliza platform's records,** not from memory: unique respondents, hub rankings, poll responses, series records. In practice that means a number the respondent reads from, or attributes to, a platform report or export; transcripts rarely hold one.
+- **Recalled Uliza numbers → REACH-ENGAGE** (Pacis RC1 L68 ≥100 a day; RC1 L76 sex shares). A recalled ranking (BBS RC1 L54) is context only.
+- **Uliza statements with no figure:** on/off pattern, activation, series cycles → CTX-STATUS (Ateker RC L88; Pacis RC2 L79); how polls or call-backs are used → FUNC-FEEDBACK; farmers' barriers (numbers changing, can't catch the number) → ACC-OTHER (section 16 rule 1; Ateker RC L83-L85); "I don't have the data / ask Charity" → REACH-ABSENT; "use is low / rising" → REACH-OTHER or CTX-STATUS.
+- **Ghana:** never REACH-PLATFORM (flag, Saalim 9 Sep). No data held → REACH-ABSENT; a bare claim of use → Reject or note.
+- **Do-not-apply:** never an audience measure; Uliza records connected call-backs only and has no calls-attempted denominator. Say so in any figure block.
+- **Figure block:** source (Uliza export, FRI report, WhatsApp-shared ranking), period, unit (respondents, responses, rank), verified No until John or FRI supplies the record.
+
+### 34.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
