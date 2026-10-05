@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (30, REACH-AUDIENCE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-30.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (31, REACH-ENGAGE, as of 5 Oct; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1354,6 +1354,25 @@ REACH-ABSENT: 31 distinct rows given verdicts in 29.1 (L187 shown twice), so abo
 | UG_KII_RadioPacis_EO_27Aug | L22 (REACH-AUDIENCE, medium: "our listenership has been very very high… across the region… justified by the number of calls we normally receive in every presentation") | Recode REACH-OTHER (~70%: a reach claim with a stated basis, call volume, but no figure or population; same call as EPC2 L193). **Convention:** qualitative reach claims with no number (high listenership, wide geographic spread) → REACH-OTHER; recurring, so a Frame candidate (widen REACH-AUDIENCE to qualitative claims, or a new code). Missed: L24-L25 two to five, sometimes ten calls a day after programmes = REACH-ENGAGE (recall), add if not coded; "this hub performed the best" = appraisal, not coded |
 | UG_KII_RadioPacis_EPC_28Aug | L20 (REACH-AUDIENCE, both passes, medium: "the farmers themselves may not know the name of the program but… it has reached so many farmers… Ajia sub-county… Zombo… Koboko bordering Yumbe") | Recode REACH-OTHER (~70%: geographic spread from the sponsor's own field contact, no figure or population; L22 convention). Useful for the Arua coverage note. "Farmers may not know the name of the programme" = awareness point (no awareness code, known gap), note only |
 | UG_KII_RadioPacis_SM_27Aug | L92 (REACH-AUDIENCE, both passes, high, two figure blocks: "west nile is about four million people. So our listenership assumption could be about 2.7 million there") | Accept REACH-AUDIENCE (an audience estimate with its population, ~4m West Nile, and its basis, "assumption", L93; flagged in 15.1). Figure blocks: 2.7m listeners, basis "assumption, no survey" rather than "not stated", Estimate, station-level (not Green Leaf, which airs on Pacis only, L111), no sex split; 4m population, source and year unknown (census?). Not usable as measured reach. The absence is the L93 REACH-ABSENT row (29.1) |
+
+---
+
+## 31. Session 10 continued (5 Oct 2026): REACH-ENGAGE
+
+REACH-AUDIENCE: all 10 rows given verdicts (30.1). REACH-ENGAGE started (all countries): **0 of 13 decided**, 4 safe rows offered (only 13 rows, read each). Both-set code since 26 Sept (Guide).
+
+### 31.0 Checks for REACH-ENGAGE (Appendix A + Guide + earlier conventions)
+- **A count of people who did something:** called in, beeped, texted, answered a poll, attended. A number or range is needed; recalled counts are fine (confidence Recalled).
+- **No count → not this code:** a farmer phoning in or using Uliza → ACC-OTHER (11.3, section 16); a hub respondent describing how calls are taken or logged → FUNC-FEEDBACK; "many calls come in" → not this code (REACH-OTHER only if it is a reach claim, 30.1 convention).
+- **Never conflate with audience size** (do-not-apply): callers are not listeners, and no audience figure is derived from them (Garden City SM L154-L158).
+- **Uliza:** figures from platform records → REACH-PLATFORM (Uganda only); a respondent's recalled Uliza shares → REACH-ENGAGE (Pacis RC1 L76, 28.1). Ghana counts said to come from Uliza → the known doubtful claim.
+- **Figure block:** value as stated, unit (callers, calls, beeps, attendees), basis (per episode, per day, per phone-in window and its length), confidence, verified No (Ahmed Ghana, John Uganda). Calls ≠ callers: say which. Sex split if given.
+- **Count each figure once** across rows and respondents; different figures from different respondents keep their own rows, never averaged.
+- **Expected rows:** Radio Savannah RP L16 (15-20 call-ins per programme); Pacis SM L82 (~10 callers in five minutes); Pacis EO L24-L25 (2-10 calls a day after programmes); Pacis RC1 L76 (recoded from GESI-ACCESS, 28.1); Volta Star ~20 calls per episode (field notes, may appear in a KII).
+
+### 31.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 
 ---
 
