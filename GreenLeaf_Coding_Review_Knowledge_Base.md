@@ -2214,6 +2214,15 @@ DIFF-OTHER: rows in 50.1 decided. ECO-ACTOR (all countries, both sets): **14 of 
 ### 51.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L13 ("one of the NGOs came and found our gardens doing well… encouraged us") | Accept ECO-ACTOR (~70%: NGO active with farmers, unnamed; John could name it) |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L71 ("with the help of MADFA coffee coordinator") | Accept ECO-ACTOR (~70%: farmers' association working with the cooperative, not shown as a BBS hub partner; MADFA = MADIFA?) |
+| UG_KII_AtekerFM_HC_01Sep | L100-L101 (AgriTechTalk supported farmer groups with seeds, guidance, via the station) | Recode FUNC-PARTNER (~70%: partnered with the station and supports farmers; flagged in 20.1). Commercial terms unclear |
+| same | L104-L105 (minister for Karamoja affairs, hope his office might support) | Reject (~70%): a government office, not an actor in the same space; the hope is SUST-RESTART "Strategy:" (20.1) |
+| UG_KII_AtekerFM_SM_31Aug | L14 (+SUST-REVENUE: Save the Children, Mercy Corps) | Reject (~70%) as ECO-ACTOR: airtime clients, not agricultural information (15.1 refinement). SUST-REVENUE row already accepted |
+| same | L18 (CBS runs paid death announcements) | Reject: other stations' non-agricultural income, not the same space (15.1) |
+| same | L48 (+SUST-REVENUE: IJM, GBV talk show) | Reject as ECO-ACTOR (IJM not agricultural, 15.1); SUST-REVENUE already accepted on L48 |
+| UG_KII_Ecosystem_EPC2_21Aug | L114 (OpenGate FM covers Kapchorwa from Mbale/Nimbali) | Accept ECO-ACTOR (another station in AID Environment's area) |
+| same | L218 (input dealers promote synthetic products, contradicting organic messaging) | Accept ECO-ACTOR (~70%: agro-dealers as actors; flagged in 22.1) |
 
 ---
 
