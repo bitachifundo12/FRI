@@ -1404,6 +1404,8 @@ REACH-ENGAGE: all 13 rows given verdicts (31.1; Tilevu_02 L26 Pending on the int
 ### 32.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| GH_KII_RadioSavannah_EO_10Aug | L113-L120 (REACH-EPISODE, both passes, high: "They have a time they repeat… On Sundays… So farmers who are not able to get it live, have to listen to the repeated one") | Accept REACH-EPISODE (weekly Sunday repeat; matches the frame's example from this EO). ACC-SCHED second code in the note (the repeat as catch-up for those who miss the live slot). Fragmented with interviewer "Okay"s; "governor" garbled (presenter? "Chief"?), Ahmed before quoting. Calibration KII: sealed-session check |
+| same | L281-L285 (REACH-EPISODE + COST-INKIND, pass B only, medium: after "no any sponsorship… for us, we have continued", "the day… I couldn't and that guy couldn't, what they do is they repeat… Because it's free") | Recode SUST-LAPSE (~70%: with no sponsorship, resource persons volunteer, and when none can come the slot falls back to a repeat; same as RP L19, accepted in 23.1). No count or length, so not REACH-EPISODE (32.0). COST-INKIND dropped: "it's free" may mean the repeat costs nothing or that the station waives airtime; Ahmed, audio 10:54-11:03. Station-borne airtime at Radio Savannah is already in the frame's COST-INKIND example |
 
 ---
 
