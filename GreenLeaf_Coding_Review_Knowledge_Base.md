@@ -1835,6 +1835,13 @@ COST-SETUP: all 10 rows decided (40.1). COST-VOLUNTEER (all countries): **19 of 
 | same | L154 ("moving… three or four kilometers away to attend the radio program at night") | Accept COST-VOLUNTEER (officers' unreimbursed night travel, 3-4 km) |
 | same | L156 ("eight thirty, nine thirty. You're almost reaching home ten.") | Reject as duplicate (~70%): the time cost is on L140-L144 and L154 |
 | same | L158-L159 (motivation "in terms of maybe fuel, facilitation") | Recode SUST-RESTART (a suggestion: what would keep officers coming) |
+| UG_KII_BBSRadio_HC_25Aug | L90 (officers "using their own budget for their extension… not operating on any budget") | Reject as duplicate: same span accepted as COST-INKIND (38.1; departmental extension budget, institutional) |
+| same | L94-L97 ("It is a personal level, they normally put in… if funds are available… fuel… allowance… they normally transport themselves") | Accept COST-VOLUNTEER (officers pay their own transport when department funds aren't there). Pairs with the departmental funding when available (L99-L102 SUST-CONTINUE) |
+| UG_KII_RadioPacis_EO_27Aug | L74-L76 (1-2 hours per episode) | Reject as duplicate: same span accepted as COST-INKIND (38.1; officer's job time, he is also given a token). Don't verify the blocks again |
+| UG_KII_RadioPacis_HC_28Aug | L47 ("sacrificial work… not much in monetary terms. You commit yourself") | Reject as duplicate (~70%): L47 already recoded COST-VOLUNTEER from COST-CASH (37.1); one row for the line. Don't verify the 40,000 block again |
+| same | L65 ("I need to make comments in english… after this one hour program, you need to sit an extra one hour") | Accept COST-VOLUNTEER (~70%: an extra hour after each show for English notes for FRI, beyond his quality-assurance mandate). If the team counts it as job time → COST-INKIND |
+| same | L71 (radio monitor: "He is a volunteer but from time, he needs to be appreciated… in terms of data provision") | Accept COST-VOLUNTEER (independent radio monitor works unpaid, occasional data appreciation). Value of the appreciation unknown, John |
+| UG_KII_RadioPacis_RC2_27Aug | L56 ("I am taking my time to put fuel to come here and then I'm not getting anything… motivation goes down") | Accept COST-VOLUNTEER (guests paying own fuel before the station's 20k began; the 20k now is SUST-CONTINUE, 21.1). Past practice: say so |
 
 ---
 
