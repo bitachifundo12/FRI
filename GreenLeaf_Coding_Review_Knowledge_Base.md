@@ -2540,6 +2540,10 @@ INC-CHANGE: all 76 rows given verdicts (53.1; Adaklu_01 L114-L121, L133-L136 Pen
 | UG_IDI_RadioPacis_Andifeku_03_28Aug | L21 (programmes useful: farming, gender, children) | Accept KNOW-VALUE (flagged in 12.4) |
 | same | L35 (trust: useful ideas, gender focus, practical information) | Accept KNOW-VALUE (~70%: no result or process basis) |
 | UG_IDI_RadioPacis_Andifeku_06_28Aug | L25 (nice, informative, educative, useful) | Accept KNOW-VALUE; little land = ADOPT-BARRIER, add if not coded |
+| same | L28 (trust: useful, practical, helps improve practices) | Accept KNOW-VALUE (~70%) |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L17 (women's testimonies on radio encouraged me) | Recode ACC-OTHER (~70%: what drew her to start listening; flagged in 25.1 as ACC-OTHER) |
+| same | L23 (inspiring, informative, ideas I can apply) | Accept KNOW-VALUE |
+| same | L29 (trusts it most: practical, easy-to-understand advice) | Recode KNOW-OTHER (~70%: trust from comprehensibility, 36.1 recurring basis) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
