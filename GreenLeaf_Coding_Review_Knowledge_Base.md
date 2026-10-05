@@ -2390,6 +2390,12 @@ ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Co
 | Session | Line | Verdict |
 |---|---|---|
 | GH_FGD_GardenCityRadio_Jamasi_01_19Aug | L22 (line planting from the programme, ~10 bags per acre vs old technique) | Accept INC-CHANGE (practice and attribution on the line; ADOPT-TRIAL/SUSTAIN second code). Figure: ~10 bags/acre, crop (maize or cassava), bag size and old yield not stated, Recalled. RA reconstruction, paraphrase only; Akuafo Mrre identity caveat (L22 names Greenleaf, so weaker here) |
+| GH_IDI_GardenCityRadio_Bekwai_01_31Aug | L24 (liquid fertiliser from the programme improved harvesting) | Accept INC-CHANGE (~70%: practice named, direction only; ADOPT-TRIAL second code). Note: L16 says he hasn't tried advice for cost reasons, read both |
+| GH_IDI_GardenCityRadio_Bekwai_02_31Aug | L32 (this advice helped yield and harvest) | Recode KNOW-VALUE (already decided 13.1: sources mixed, no practice named) |
+| GH_IDI_GardenCityRadio_Bekwai_03_01Sep | L26 (correct pesticide mixing from the programme, better yield in later planting) | Accept INC-CHANGE |
+| same | L28 (right dosage improved yield and profit) | Reject as duplicate (~70%): same practice and gain as L26; carry in that row |
+| same | L32 (yield improved from spraying learnt on the programme) | Reject as duplicate (~70%): same as L26 |
+| same | L32 pass B (recouped investment and profit after following the teachings) | Accept INC-CHANGE (~70%: income recovery, a distinct outcome; INC-INVEST loan context in note) |
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
