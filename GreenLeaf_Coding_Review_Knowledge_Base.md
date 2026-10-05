@@ -1904,6 +1904,19 @@ CTX-HIST: all 18 rows decided (42.1). CTX-HUB (all countries): **22 of 64 decide
 | same | L154 ("The vets, we are seven and those who reside around… about four") | Accept CTX-HUB (~70%: the vet pool available to the hub; whether all seven are on the roster: John) |
 | UG_KII_BBSRadio_HC_25Aug | L24 (broadcasters "are his own workers", the station manager's) | Accept CTX-HUB (whose staff the broadcasters are) |
 | same | L26-L27 (he mobilises department staff, who aren't station workers, by topic) | Accept CTX-HUB (roster assembly; flagged in 32.1). CTX-ROLE for his own task, add if not coded |
+| same | L30-L32 (coordinates by topic; if someone fails "I handle it myself"; officers now interested, respond when told) | Accept CTX-HUB (stand-in arrangement, roster willingness) |
+| same | L67 ("those are our own extension workers") | Accept CTX-HUB (on-air experts are department staff, not partners; flagged in 15.1). Q+A span, Don't quote |
+| same | L109-L110 (seven extension workers, not all participate; can't force them) | Accept CTX-HUB |
+| same | L112-L113 (about four very active; entomology not active) | Accept CTX-HUB. Counts differ (7 / 4 / 3 for fisheries, L115-L116): record as stated |
+| same | L116 ("four for crop… fish… about three") | Reject as duplicate (~70%): same roster-by-discipline answer as L112-L113; extend that span to L116 |
+| UG_KII_BBSRadio_RC1_24Aug | L33 (the agricultural officer who coordinates livestock is the hub coordinator) | Accept CTX-HUB (flagged in 15.1). Name and title: John |
+| same | L179-L180 (+GESI-OTHER: broadcaster, manager does promos; manager is a woman) | Accept CTX-HUB + GESI-OTHER (team roles with sex; GESI-ROLE is Ghana only, 28.1) |
+| same | L181-L182 (+GESI-OTHER: other colleague a man, production officer a man) | Reject as duplicate (~70%): same answer to L178 as L179-L180; extend that span to L182 |
+| UG_KII_BBSRadio_SM_25Aug | L27 (SM and hub coordinator are different people) | Accept CTX-HUB (flagged in 15.1) |
+| same | L29 (hub coordinator connects BBS with district technical people; "He's in charge") | Accept CTX-HUB (~70%). FUNC-GOV optional for "he's in charge" |
+| UG_KII_Ecosystem_EPC2_21Aug | L163 (hub coordinators are the district representatives, Department of Agriculture) | Accept CTX-HUB (second-hand, general across hubs) |
+| same | L168 (topic-matched specialists, e.g. district forestry officers for agroforestry) | Accept CTX-HUB (~70%: district DFOs as topic-matched roster, like the frame example; FUNC-PARTNER if the lead counts them as outside the hub) |
+| UG_KII_RadioPacis_EO_27Aug | L85 (producer, technician, presenters develop Uliza questions) | Accept CTX-HUB (roles and who does what on Uliza) |
 
 ---
 
