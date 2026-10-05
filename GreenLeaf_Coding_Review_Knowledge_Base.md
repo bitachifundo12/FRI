@@ -1776,6 +1776,14 @@ COST-INKIND: rows in 38.1 decided (check remaining). COST-OTHER (all countries):
 | UG_KII_RadioPacis_SM_27Aug | L50 ("he had talked of… a laptop… but we've never seen the laptop") | Reject (~70%): a promised item never received, no cost incurred or resource given; note only for the FRI equipment list |
 | same | L72 (main fixed costs: transport, airtime, studio equipment, electricity or fuel, staff time) | Reject (~70%): a list of cost categories with no amounts; each is coded where it is quantified (L30, L34, L36, L64, L78) |
 
+### 39.2 Lead queue decisions (5 Oct, Ahmed's escalations)
+| Session | Line | Decision |
+|---|---|---|
+| GH_IDI_GardenCityRadio_Jamasi_03_31Aug | L36 (DIFF-OTHER: suggestion to air teachings at community information centres, pen drives for extension officers to play at farmer meetings) | Recode ACC-OTHER. **Ruling (13.0, Jamasi_01 L34/L38):** farmer proposals for a new relay route not yet in use → ACC-OTHER, not DIFF and not uncoded. Make this a rule. RA reconstruction, paraphrase only |
+| GH_IDI_RadioSavannah_Golinga_01_11Aug | L37 (DIFF-KIN + DIFF-FORMAL: "Yes, I do, with my family and farmer group.") | Accept DIFF-KIN + DIFF-FORMAL (~70%: two routes named, keep both codes on one row, as Golinga_03 L43, 27.1). Group unnamed, meetings not stated; if it proves informal → DIFF-INFORMAL. Don't quote alone |
+| GH_IDI_RadioSavannah_Golinga_03_11Aug | L43 (DIFF-KIN row: "with my farmer group and within my household") | Accept DIFF-KIN. **Ruling:** one answer naming two routes is coded once per route; the DIFF-FORMAL row on the same line (27.1) and this DIFF-KIN row both stand, not a duplicate. Make this a rule |
+| GH_IDI_RadioSavannah_Golinga_04_11Aug | L40 (DIFF-KIN + DIFF-INFORMAL: "we often sit together to discuss the lessons… with each other as farmers and as families… regardless of whether they were able to listen to the live session") | Accept DIFF-KIN + DIFF-INFORMAL (two routes, no named group). "Regardless of whether they listened live" means some had not heard it: ACC-SHARED as a further code in the note (Guide test) |
+
 ---
 
 ## Appendix A. Full `Coding frame` sheet (verbatim from Green_Leaf_Coding_Frame.xlsx, v0.3)
