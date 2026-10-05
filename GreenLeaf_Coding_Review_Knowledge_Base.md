@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (52, ECO-COMPARATOR, session 11; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (53, INC-CHANGE, session 11; REACH-ABSENT ~1 row left, GESI-ACCESS 17 rows left, see 28.1)**; conventions also in 18.0-46.0 and 27.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2373,6 +2373,22 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L69 ("already like extension on air") | Accept, No (~70%) |
 | same | L85 ("extension can also be done through radio") | Reject (~70%): closing appreciation, no other source in view |
 | UG_KII_RadioPacis_SM_27Aug | L111 (other Pacis-group radios run farmers programmes outside FRI) | Accept, No (~70%) |
+
+---
+
+## 53. Session 11 continued: INC-CHANGE
+
+ECO-COMPARATOR: first page done (check remaining). INC-CHANGE (all countries, Community set): **0 of 76 decided**, 26 safe rows (read ~20 first).
+
+### 53.0 Checks for INC-CHANGE
+- A change in yield, income, cost or post-harvest loss **attributed to a practice learned from the programme**. Needs both: the change and the programme link (practice named or clearly the programme's).
+- Gains credited to "advice" from mixed sources with no practice named → KNOW-VALUE (Bekwai_02 L32, Bekwai_04 L36); income change with no programme link → not coded (Bekwai_04 L12 ruling: context).
+- Practice itself → ADOPT-TRIAL/SUSTAIN (often second code). Financing of the first application → INC-INVEST; selling problems → INC-MARKET.
+- Figure block where amounts or sacks are given (e.g. Rupa_06 L44: 9 sacks sorghum, 4 beans, no before figure). Tilevu_02 hold; RA reconstructions paraphrase only.
+
+### 53.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
 | — | — | Tilevu_02 L10, L22 re-shown: still Pending (hold). EPC L99, L128; Pacis EO L27, L44, L48 ×2, L53 ×2 re-shown: same verdicts re-entered (save issue) |
 
 ---
