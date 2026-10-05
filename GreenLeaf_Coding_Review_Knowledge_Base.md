@@ -2254,6 +2254,17 @@ ECO-ACTOR: all 12 rows decided (51.1). ECO-COMPARATOR (all countries, both sets)
 | same | L12 (MADFA and Farm Radio teach crop care) | Accept, No; ECO-ACTOR MADFA in the note |
 | same | L13 (MADFA extension workers guide on crops) | Accept, No |
 | same | L25 (Green Leaf good; MADFA also good, offers credit) | Accept, No (explicit comparison). "Haven't understood what other services come with Green Leaf" = KNOW-CONFUSE at most, note |
+| same | L50 ("wise to look at other people's farm") | Reject as duplicate (~70%): same speaker's point made fully on L51 |
+| same | L51 (farm visits better than conversation) | Accept, No (stated preference between routes) |
+| same | L52 (prefers meetings to farm visits) | Accept, No (second speaker; Ahmed flagged ECO picking this up, 16: keep, it is a stated source preference) |
+| same | L53 (prefers meetings: practical steps) | Accept, No |
+| same | L54 (prefers farm visits: people busy at meeting times) | Accept, No |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L10 (MADFA, ASILI companies guide us) | Accept, No; ECO-ACTOR in note |
+| same | L11 ("We get advice from MADFA") | Accept, No |
+| same | L12 ("We are taught by MADFA") | Accept, No |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L16 (radio gives free information where extension officers can't reach in time) | Accept, **change Quantified to No** ("free" and reach are qualitative, no figure) |
+| same | L29 (input dealers on radio push chemicals vs Green Leaf organic) | Accept, No (second code flagged on the KNOW-CONFUSE row, 35.1) |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L10 (no partners or companies; farmer groups' voices on radio) | Pending: Tilevu_02 integrity hold (27.1) |
 
 ---
 
