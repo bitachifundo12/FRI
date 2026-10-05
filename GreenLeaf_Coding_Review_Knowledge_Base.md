@@ -1869,6 +1869,12 @@ COST-VOLUNTEER: all 18 rows decided (41.1). CTX-HIST (all countries): **20 of 38
 | UG_KII_RadioPacis_RC1_27Aug | L20-L21 (Farm Radio at Pacis "more than 15 years") | Accept CTX-HIST (~70%: hedged; HC/SM give 2014 or ~2010, record both) |
 | same | L25 ("when I joined it was 100% funded by farm radio… finances also kept dropping") | Reject as duplicate: same span accepted as SUST-LAPSE (23.1); CTX-HIST optional there |
 | same | L92 ("when we started using Uliza effectively from 2022") | Accept CTX-HIST (dated start of effective Uliza use) |
+| UG_KII_RadioPacis_RC2_27Aug | L40 ("initially we were fully as a radio station sponsoring the show on our own") | Accept CTX-HIST (the show was station-funded before FRI came) |
+| same | L42 ("this show started in 2004 when the radio started") | Accept CTX-HIST (programme start date; agrees with SM L97) |
+| same | L42 ("2010 or maybe before… farm radio came… cassava… Nase 14 with Naro… support was full") | Accept CTX-HIST (FRI's arrival ~2010, hedged, with NARO; full support then). SM L70 says 2014: record both |
+| same | L65 ("Farm Radio gave these radios previously to those groups") | Reject as duplicate: same span accepted as COST-INKIND + COST-SETUP (38.1); CTX-HIST optional there |
+| UG_KII_RadioPacis_SM_27Aug | L70 ("we started with farm radio… 2014… they used to fully pay for air time") | Reject as duplicate: same span accepted as SUST-LAPSE with CTX-HIST in the note (23.1). FRI start 2014 vs RC2 ~2010: record both |
+| same | L97 ("Farm radio actually came to fit in our program… farmers program since the beginning of the radio 2004") | Accept CTX-HIST (predecessor farmers' programme since 2004, FRI joined later; flagged in 20.1) |
 
 ---
 
