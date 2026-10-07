@@ -1300,6 +1300,8 @@ ACC-BARRIER: one row seen (29.1, Tilevu_02 L29 Pending), rest still to check. FU
 | Session | Line | Verdict |
 |---|---|---|
 | UG_KII_AtekerFM_EO_01Sep | L54 (FUNC-CONTENT, pass B only, low: "It is just one hour." to L52-L53 hours per week preparing for the show) | Reject: already covered by the accepted COST-INKIND L52-L54 row (EO's government staff time); one hour of prep is a resourcing figure, not a preparation practice, and a one-word answer adds nothing to FUNC-CONTENT. Not REACH-EPISODE: L53 makes it preparation time, not show length. Not recorded, so the hour stays transcript-only |
+| UG_KII_AtekerFM_HC_01Sep | L51 (FUNC-CONTENT, both passes, high: hub agrees which content is shared, matched to the season) | Accept FUNC-CONTENT (topic choice by the hub, seasonal matching; the frame's core case). Don't "Merge into this row" with L52: topic choice and scripting are separate statements, keep both. Rest of L51-L52 start (dry/harvest/planting season, edit to suit) can extend the span |
+| same | L52 (FUNC-CONTENT, both passes, high: broadcaster writes the script/runsheet; HC writes it himself when delayed, shares with invited guests so they prepare) | Accept FUNC-CONTENT (scripting practice and resource-person briefing, both named in apply-when). Not CTX-HUB: the point is how the script is made and shared, not the roster |
 
 ---
 
