@@ -1285,6 +1285,23 @@ GESI-ACCESS left with the 4 Pending rows and ~13 unseen (28.1). ACC-BARRIER reop
 
 ---
 
+## 30. Session 10 continued (7 Oct 2026): FUNC-CONTENT
+
+ACC-BARRIER: one row seen (29.1, Tilevu_02 L29 Pending), rest still to check. FUNC-CONTENT (all countries): **36 of 112 decided, 76 left** (accepted 35, recoded 0, rejected 1); 21 safe rows offered (read ~20 individually first). Hub set; first FUNC code reviewed by the lead.
+
+### 30.0 Checks for FUNC-CONTENT (Appendix A + earlier verdicts)
+- **How Green Leaf content is made:** topic choice, topic calendars, synopses, scripting, field recording, resource-person/expert briefing, language of production, segment format and length, planning assets. Guide: "we go to the community to talk to the farmers first" = FUNC-CONTENT, not ECO-COMPARATOR (Green Leaf alone, no other source in view).
+- **Siblings:** slot, day, repeats, moves → ACC-SCHED; how farmer responses are collected and acted on (call-in logs, feedback-driven changes, the gender-split call-in line, EPC2 L143) → FUNC-FEEDBACK; outside organisations supplying content or experts → FUNC-PARTNER (second code where they shape content); who decides/is accountable → FUNC-GOV; who the hub members are → CTX-HUB; content element active/reduced/stopped → CTX-STATUS, or SUST-LAPSE if shrunk since support fell (Garden City EPC L39-L42).
+- **Earlier recodes into FUNC-CONTENT:** BBS EO L150 (time for content inside the one-hour slot); Pacis RC1 L33 (recording women/youth/disabled/elderly voices); Pacis EO L70 rest (English wrap-up or alternating weeks as a language fix). Format suggestions about the Q&A segment from farmers → ACC-OTHER (Golinga_04 L31 ruling), FUNC-CONTENT only when the hub describes its own format.
+- **Not FUNC-CONTENT:** appraisal of content quality with no production practice (KNOW-VALUE in farmer sessions; not coded or FUNC-OTHER at hub level); a farmer's wish for topics timed to the season (Jamasi L38, KNOW-VALUE); hypothetical plans to fund content → SUST-RESTART "Strategy:".
+- Garden City rows carry the Akuafo Mrre identity check; Radio Savannah SM may be a sealed calibration session.
+
+### 30.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+
+---
+
 ## Appendix A. Full `Coding frame` sheet (verbatim from Green_Leaf_Coding_Frame.xlsx, v0.3)
 
 Copied word for word so later sessions do not need to reopen the workbook. The 26 Sept Guide changes (section 4) override this text where they differ: REACH-ENGAGE now works in both sets; SUST-CONTINUE excludes money with no payer named; COST-SETUP excludes routine field-trip fuel, per diems and drivers; ACC-SHARED apply-when adds the "had they heard it themselves" test.
