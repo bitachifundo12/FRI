@@ -1274,6 +1274,17 @@ DIFF-FORMAL left part-way (21 verdicts in 27.1; Tilevu_02 rows on hold). GESI-AC
 
 ---
 
+## 29. Session 10 (7 Oct 2026): ACC-BARRIER resumed
+
+GESI-ACCESS left with the 4 Pending rows and ~13 unseen (28.1). ACC-BARRIER reopened (count not shown). The ACC-BARRIER page now carries Ahmed's adopted rule in "Do not apply to" (call-in/Uliza barriers → ACC-OTHER or REACH-ENGAGE with counts; used Uliza but can't follow → KNOW-CONFUSE; no reason → ACC-OTHER; named time/work reason stays ACC-BARRIER) and four settled decisions (Kahaara L89, Komaret_03 L78, Kyakamese_05 L25, Rondo_02 L75). Holds from 28.0 still apply (Tilevu_02 integrity; Akuafo Mrre identity).
+
+### 29.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L29 (ACC-BARRIER, pass A only, high: women busy in the garden, market or kitchen miss the programme) | Pending: Tilevu_02 transcript integrity hold (27.1). If John confirms the line is genuine to Tilevu (and not a copy of Olevu L36, similar wording), the content is ACC-BARRIER (competing obligation); better done via "Make ACC-BARRIER its second code" on the both-passes GESI-ACCESS L29 row, then Reject this one as duplicate |
+
+---
+
 ## Appendix A. Full `Coding frame` sheet (verbatim from Green_Leaf_Coding_Frame.xlsx, v0.3)
 
 Copied word for word so later sessions do not need to reopen the workbook. The 26 Sept Guide changes (section 4) override this text where they differ: REACH-ENGAGE now works in both sets; SUST-CONTINUE excludes money with no payer named; COST-SETUP excludes routine field-trip fuel, per diems and drivers; ACC-SHARED apply-when adds the "had they heard it themselves" test.
