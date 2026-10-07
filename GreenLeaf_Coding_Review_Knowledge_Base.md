@@ -1299,6 +1299,7 @@ ACC-BARRIER: one row seen (29.1, Tilevu_02 L29 Pending), rest still to check. FU
 ### 30.1 Verdicts given (session, line → verdict)
 | Session | Line | Verdict |
 |---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L54 (FUNC-CONTENT, pass B only, low: "It is just one hour." to L52-L53 hours per week preparing for the show) | Reject: already covered by the accepted COST-INKIND L52-L54 row (EO's government staff time); one hour of prep is a resourcing figure, not a preparation practice, and a one-word answer adds nothing to FUNC-CONTENT. Not REACH-EPISODE: L53 makes it preparation time, not show length. Not recorded, so the hour stays transcript-only |
 
 ---
 
