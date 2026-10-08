@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (41, KNOW-TRUST-OUTCOME, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (42, KNOW-TRUST-PROCESS, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2183,3 +2183,17 @@ KNOW-TRUST-OUTCOME: 8 of 16 decided, 8 left. Test: trust justified by the advice
 | UG_IDI_RadioPacis_Andifeku_06_28Aug | L28 (pass A only: useful and beneficial, practical, helps farmers improve) | Reject (~70%): same, KNOW-VALUE on L28 already accepted |
 | UG_IDI_RadioPacis_Andifeku_07_28Aug | L28 (both passes: trusts it because farmers on air shared success stories with coffee and banana) | Accept KNOW-TRUST-OUTCOME (trust from the advice having worked for other farmers). ADOPT-TRIAL on L28 stays |
 | — | — | KNOW-TRUST-OUTCOME: all 8 given verdicts, should read 16/16 |
+
+## 42. Session 10 continued (8 Oct 2026): KNOW-TRUST-PROCESS
+
+KNOW-TRUST-PROCESS: 6 of 12 decided, 6 left. Test: trust from how the programme is made (experts brought on, verification, preparation). Experts on air as the stated reason → this code.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L15 (both passes, high: always provides first-hand information from experts) | Accept KNOW-TRUST-PROCESS. KNOW-RECALL on L15 stays |
+| same | L25 (both passes, high: trusts it because of the subject-matter specialists; informed and verified information) | Accept KNOW-TRUST-PROCESS |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L31 (KNOW-TRUST-PROCESS + ECO-COMPARATOR No: very interactive vs other programmes; trusts it because experts are on the show) | Accept KNOW-TRUST-PROCESS + ECO-COMPARATOR (Quantified No; other programmes unnamed) |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L28 (both passes: first-hand information from different experts; reliable because from people with knowledge) | Accept KNOW-TRUST-PROCESS |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L28 (both passes, high: trusts it because a variety of experts come on) | Accept KNOW-TRUST-PROCESS |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L28 (both passes: different experts teach on radio; many farmers share their experiences) | Accept KNOW-TRUST-PROCESS (~70%: experts and farmer voices as the format; the encouragement from other farmers applying it leans OUTCOME, note only) |
+| — | — | KNOW-TRUST-PROCESS: all 6 given verdicts, should read 12/12 |
