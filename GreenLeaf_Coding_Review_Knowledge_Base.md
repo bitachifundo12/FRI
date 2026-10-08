@@ -2366,3 +2366,15 @@ Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortn
 | UG_KII_BBSRadio_HC_25Aug | L29-L30 (pass A only: handles it himself in most cases; a crop person; steps in when coordination fails) | Accept CTX-ROLE (his own remit). Keep separate from CTX-HUB on L30-L32 (others' roles) |
 | UG_KII_RadioPacis_EPC_28Aug | L14 (pass A only: works with the presenter; sometimes joins field visits) | Reject as duplicate (~70%): FUNC-PARTNER on EPC L14 already accepted (33.1); a sponsor's staff contribution, not a hub role |
 | — | — | CTX-ROLE should read 73/73 |
+
+## 59. Session 10 continued (8 Oct 2026): CTX-STATUS (last 6)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_BBSRadio_HC_25Aug | L18 (pass B only: Uliza records; he opens and comments) | Reject as duplicate (~70%): describes the mechanism, already FUNC-FEEDBACK on L18-L19; no active/reduced status stated |
+| UG_KII_BBSRadio_RC1_24Aug | L53-L54 (pass A only: DI officer no longer sends the Uliza rankings; past ranking detail) | Accept CTX-STATUS (~70%: the rankings element has stopped). REACH-ABSENT L53 and REACH-PLATFORM L54 stay |
+| same | L142-L144 (pass A only, high: Uliza switched on per enterprise run, ~2 months, 3-4 times a year) | Accept CTX-STATUS (Uliza intermittently active). REACH-EPISODE rows on L142, L144 stay |
+| UG_KII_RadioPacis_RC1_27Aug | L13 (both passes, high: weekly meetings review and evaluate the programme) | Accept CTX-STATUS (hub meetings active, flagged in 23.1) |
+| same | L16 (CTX-STATUS + CTX-HUB, pass A only: members always ask for radio time, self-motivated) | Reject as duplicate (~70%): CTX-HUB on L15-L16 already accepted |
+| same | L31-L32 (pass A only: "The quality remains. The reach remains.") | Accept CTX-STATUS (quality and reach unchanged so far; flagged in 23.1). The pending SUST-RESTART on L32 is the "will affect" part |
+| — | — | CTX-STATUS should read 101/101 |
