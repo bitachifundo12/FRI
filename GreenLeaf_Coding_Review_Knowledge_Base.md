@@ -2300,3 +2300,6 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | UG_KII_BBSRadio_RC1_24Aug | L58 (pass A only: doesn't know about funding, handled by admin and manager) | Reject: names no cost; FUNC-GOV on L58 holds it (31.1) |
 | UG_KII_BBSRadio_SM_25Aug | L82-L84 (pass A only: Uliza funded by FRI or the donor) | Accept COST-BOUNDARY (platform cost above hub). Figure block (300,000 per episode) not on these lines: don't verify here |
 | same | L85-L86 (pass A only: training and refresher costs by FRI or the donor) | Accept COST-BOUNDARY |
+| UG_KII_RadioPacis_SM_27Aug | L44 (pass A only: FRI trains the team when something new comes on board; week-long training to programme the show) | Accept COST-BOUNDARY (FRI-paid training, for the FRI cost request; costed statement at L119). FUNC-CONTENT on L44 stays |
+| same | L109 (pass A only, high: four stations, 140 full-salaried staff) | Accept COST-BOUNDARY (station-group payroll overhead, flagged in 15.1) |
+| — | — | COST-BOUNDARY should read 26/26 |
