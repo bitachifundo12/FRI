@@ -2378,3 +2378,13 @@ Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortn
 | same | L16 (CTX-STATUS + CTX-HUB, pass A only: members always ask for radio time, self-motivated) | Reject as duplicate (~70%): CTX-HUB on L15-L16 already accepted |
 | same | L31-L32 (pass A only: "The quality remains. The reach remains.") | Accept CTX-STATUS (quality and reach unchanged so far; flagged in 23.1). The pending SUST-RESTART on L32 is the "will affect" part |
 | — | — | CTX-STATUS should read 101/101 |
+
+## 60. Session 10 continued (8 Oct 2026): SUST-DEMAND-STATED (last 4)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_HC_01Sep | L104-L105 (both passes, low: shared the programme with the Karamoja minister; hopes his office might support) | Reject as duplicate: already SUST-RESTART "Strategy:" (20.1); the hub's hope, no offer from the minister |
+| UG_KII_Ecosystem_EPC2_21Aug | L120 (pass A only: "we provide one million for a radio talk show" for its projects) | Reject as duplicate (~70%): a price actually paid, not hypothetical; already ECO-COMPARATOR on L120-L121. Keep the 1m as a realised-price reference for COST-INKIND valuation (station unnamed) |
+| UG_KII_Ecosystem_EPC_11Sep | L96 (budget pathways hybrid: grants and contracts, e.g. the FRI contract) | Reject as duplicate: SUST-CONTINUE on L96 accepted (21.1); describes money GAYO receives, not an interest in paying |
+| UG_KII_RadioPacis_RC1_27Aug | L51 (pass A only, low: Syova and Omia like to make sales; mentions on air make them money) | Reject as duplicate (~70%): FUNC-PARTNER on L51 accepted (33.1); the RC's view of sponsors' motive, not their stated interest. Syova's own stated conditions are on Pacis EPC L25-L53 |
+| — | — | SUST-DEMAND-STATED should read 51/51 |
