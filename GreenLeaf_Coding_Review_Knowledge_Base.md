@@ -1479,6 +1479,11 @@ FUNC-OTHER: all 12 remaining rows given verdicts (32.1), should read 21/21. FUNC
 | same | L80 (FUNC-PARTNER, both passes, high: JICA, promoting rice seed production in West Nile, with its own expectations of the hour) | Accept FUNC-PARTNER (named partner funding a segment). SUST-REVENUE, FUNC-CONTENT and FUNC-GOV on L80 stay. Current or past, John |
 | UG_KII_RadioPacis_RC1_27Aug | L43 (FUNC-PARTNER, both passes, high: Syova seeds, OMIA Agribusiness, Pearl crops, West Nile Foresters) | Accept FUNC-PARTNER (named partners; flagged in 15.1) |
 | same | L49 (FUNC-PARTNER, pass B only, low: another partner "in the pipeline… called Glittered"; "I believe they will fully support us") | Reject (~70%): not yet a partner and no contribution, only his expectation. Name to check, John |
+| same | L51 (FUNC-PARTNER, pass B only, medium: Syova and Omia are business-minded; they value the hub because they're mentioned on air and make sales) | Accept FUNC-PARTNER (~70%: how the commercial partners engage and what they get from it). Business-model canvas material |
+| UG_KII_RadioPacis_RC2_27Aug | L33 (FUNC-PARTNER, both passes, high: Ignitia, an FRI partner, supplies AI tailored weather forecasts; also the Uganda meteorological department's forecast) | Accept FUNC-PARTNER (named content partners; met service is in apply-when; flagged in 18.1) |
+| same | L36 (FUNC-PARTNER, pass B only, high: partners' corner: previously Syova, none now; Buffalo Bicycles Uganda starting tomorrow, bicycle financing) | Accept FUNC-PARTNER (past and incoming partners of the segment). Whether Buffalo Bicycles pays, John. "None now" vs L58 Syova "not left": record both |
+| same | L58 (FUNC-PARTNER, pass B only, medium: Syova "have not left", expanding to Moyo and Gulu) | Accept FUNC-PARTNER (~70%: Syova still a partner; the span is already SUST-CONTINUE, 15.1). Same tension with L36 |
+| same | L60 (FUNC-PARTNER, both passes, medium: JICA via FRI on rice, one of the biggest partners; Syova supplied rice seedlings and sponsored shows) | Accept FUNC-PARTNER (named partners and contributions). SUST-REVENUE on L60 stays; "Jika" = JICA (Pacis HC L80) |
 
 ---
 
