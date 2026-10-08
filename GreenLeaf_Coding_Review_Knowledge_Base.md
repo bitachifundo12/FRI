@@ -2459,6 +2459,9 @@ The user confirmed every row is now decided (100% reviewed, both countries; lead
 | GH_IDI_VoltaStar_AdakluAgblefe_01_25Aug | L36-L37 (INC-OTHER, pass A only, low, lead queue: "Distilling is where he makes the most money from") | Accept INC-OTHER (household income composition, baseline for Lens 3; the 38.0 convention adopted for Uganda). **Lead ruling (make a rule):** answers to the A2 income-sources probe (farm vs other work, amounts, main source) → INC-OTHER as baseline context, in both countries; never INC-CHANGE without the programme as reason. Interpreter relay, fragment: Don't quote |
 
 **Final Progress page (8 Oct, after the lead queue):** Ghana 35 sessions, 1,092 rows, 0 pending, 33 closed, 100%; Uganda 41 sessions, 1,852 rows, 0 pending, 41 closed, 100%. Every family 100% in both countries. Two Ghana sessions not closed (likely the sealed calibration sessions or sessions with open lead-queue rows; check which before the draft).
+
+---
+
 ## 66. Export check (Green_Leaf_Coding_Output_2026-10-08.xlsx, exported 15:47 UTC)
 
 2,512 accepted rows (Ghana 975, Uganda 1,537), 74 sessions with rows (2 Ghana field observations have no transcript by design, which explains 33/35 closed). Codes all valid; charting matrix and session register reconcile with the log; today's lead-queue decisions are included. Problems found:
