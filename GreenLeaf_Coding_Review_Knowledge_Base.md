@@ -2101,3 +2101,16 @@ INC-MARKET 20/20. INC-OTHER: **20 of 51 decided, 31 left** (18 accepted before t
 | same | L15 (INC-OTHER, pass B only: one granary of sorghum, 15 tins sold at 2,000, rest brewed) | Accept INC-OTHER (farm income, last season). Separate from L14 (farm vs off-farm) |
 | same | L59 (INC-OTHER, both passes, low: "The sun has taken over this year.") | Reject (~70%): a non-listener with no programme practice (L56), so the change probe doesn't apply; one-line weather remark |
 | UG_IDI_AtekerFM_Rupa_04_01Sep | L13 (INC-OTHER, both passes: charcoal brings 10,000; "in farming there is nothing") | Accept INC-OTHER (household income sources) |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L43 (INC-OTHER, both passes: good harvest "when the year was good") | Accept INC-OTHER (change credited to the season, not the programme) |
+| same | L57 (INC-OTHER, pass B only: "nothing" to what changed) | Reject (~70%): she tried no practice (L54), so the probe doesn't apply; one word |
+| same | L66 (INC-OTHER: "I decide with my children at home") | Reject as duplicate: GESI-OTHER on L65-L66 already accepted (F5) |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L66 (INC-OTHER, both passes, low: "In a year I get about 4 million") | Accept INC-OTHER (baseline annual income). UGX assumed; household or enterprise unclear, John if used |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L14 (INC-OTHER, both passes: "In a year I get approximately 1.1 million") | Accept INC-OTHER (baseline annual income, A2). UGX assumed, farm vs total unclear |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L85 (INC-OTHER, pass B only: "there was a cost on input") | Reject as duplicate: INC-INVEST on L83-L85 already accepted (36.1) |
+| same | L89 (INC-OTHER, pass A only: farmers fail to understand the benefits of cooperative membership) | Reject (~70%): about cooperative membership, not income; INC-MARKET on the storage part already accepted |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L75 (INC-OTHER, both passes: too much sunshine cut flowering) | Accept INC-OTHER (weather loss, answer to what else affected the outcome) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L74 (INC-OTHER: change could have come but long dry spells cut harvests despite the practices) | Accept INC-OTHER (~70%: weather offsetting any programme gain; no change claimed) |
+| same | L99 (INC-OTHER, both passes, low: good yields with fertiliser in a good season, few in a poor one) | Accept INC-OTHER (season-dependent yields) |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L76 (INC-OTHER, pass A only: more inputs and time than before) | Reject as duplicate: INC-CHANGE on L76 already accepted |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L113 (INC-OTHER, both passes: "we plan with my family on how we can spend the money") | Recode GESI-OTHER (F5 convention, 35.1) |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L75 (INC-OTHER, pass B only: manure, better fertility, less spent on fertiliser, better yields) | Reject as duplicate: INC-CHANGE on L75 already accepted |
