@@ -2064,3 +2064,16 @@ GESI-OTHER: all 30 given verdicts (35.1), 46/46. INC-INVEST: **19 of 41 decided,
 | same | L83-L85 (INC-INVEST, pass A only, low: "there was a cost on input") | Accept INC-INVEST (~70%, thin: cost acknowledged, no amount or source). Don't quote |
 | UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L72 (INC-INVEST, both passes: mulching and manure "only cost me my own labour") | Accept INC-INVEST (resourced by own labour) |
 | same | L84 (INC-INVEST, both passes: harvest proceeds to a cow, new structure, grass) | Accept INC-INVEST (reinvestment of returns). GESI-OTHER on L84 stays |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L94-L95 (INC-INVEST: "I don't incur any cost because I make it on my own") | Accept INC-INVEST (F3: self-made manure, no cash outlay) |
+| same | L102 (INC-INVEST: agree jointly; school fees, next season's needs, home needs) | Accept INC-INVEST (returns consumed and reinvested). GESI-OTHER for the joint decision (F5), add if not coded |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L82 (INC-INVEST + GESI-OTHER, pass A only: plan with husband, allocate to household needs) | Accept INC-INVEST + GESI-OTHER (F5 convention) |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L77 (INC-INVEST: built a house and a commercial house from farm profits) | Accept INC-INVEST (~70%: where returns went; link to early planting and certified seed from L74 context, not stated on the line). No values |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L58 (INC-INVEST, both passes, high: school fees, more land, commercial buildings) | Accept INC-INVEST (follows the Green Leaf attribution at L56). No amounts |
+| same | L78 (INC-INVEST: main costs his time and labour; manure from his own animals) | Accept INC-INVEST (F3). ADOPT-BARRIER not needed: no obstacle stated |
+| same | L86 (INC-INVEST: school fees first, then farm projects and household needs) | Accept INC-INVEST (answer to the F5 probe, separate from L58). GESI-OTHER on L85 stays |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L66 (INC-INVEST: extra income over 3 million shillings, household needs and farming) | Accept INC-INVEST. 3 million UGX, period not stated (per season or year?), John if used |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L60 (INC-INVEST, low: two years to adopt; main cost the time to learn and establish) | Accept INC-INVEST (~70%: F3 answer, cost in time) |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L66 (INC-INVEST + GESI-OTHER: decide with wife; medical, farm reinvestment, house) | Accept INC-INVEST + GESI-OTHER (F5) |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L57 (INC-INVEST, pass B only, high: bought a goat with proceeds from early land preparation and manure) | Accept INC-INVEST (practice named, returns reinvested) |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L60 (INC-INVEST: over 150,000 shillings, mostly seeds, manure and labour) | Accept INC-INVEST (F3 outlay). Source of the money and period not stated |
+| — | — | INC-INVEST: all 22 given verdicts, should read 41/41 |
