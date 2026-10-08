@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (30, FUNC-FEEDBACK, as of 8 Oct)**; conventions also in 18.0-30.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (31, FUNC-GOV, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1355,6 +1355,29 @@ FUNC-CONTENT left part-way (27 verdicts in 29.1; check the remaining count). FUN
 | UG_KII_RadioPacis_RC2_27Aug | L13 (FUNC-FEEDBACK, pass B only, high: he runs Uliza, where farmers respond before and during the programme) | Accept FUNC-FEEDBACK (the capture platform and who handles it) |
 | same | L36 (FUNC-FEEDBACK, pass A only, high: "have your say" segment, studio and SMS lines, social media comments, farmers' Uliza pruning questions answered) | Accept FUNC-FEEDBACK (several capture channels and their use on air; flagged in 18.1) |
 | UG_KII_RadioPacis_SM_27Aug | L86 (FUNC-FEEDBACK, pass B only, high: Uliza poll promoted across other shows; farmers' recorded voices played in the show) | Accept FUNC-FEEDBACK (~70%: what he has seen; he defers detail to the producer). The figure block (700,000 UGX Zoom recorder) is not on this line: don't verify here |
+
+---
+
+## 31. Session 10 continued (8 Oct 2026): FUNC-GOV
+
+FUNC-FEEDBACK: all 25 remaining rows given verdicts (30.1), should read 50/50. Progress page at this point: Ghana 100% reviewed (1,092 rows, 28 of 35 sessions closed); Uganda 80% (1,852 rows, 362 pending, 0 closed); Uganda gaps GESI 33%, FUNC 37%, INC 43%, KNOW 60%. Josephine chased on WhatsApp (draft due next day); the user replied with these figures. FUNC-GOV: **18 of 46 decided, 28 left** (all accepted so far).
+
+### 31.0 Checks for FUNC-GOV
+- Who decides, who is accountable, how disputes or resourcing gaps are resolved: reporting lines, decision rights, formal agreements (MOUs, contracts) or their absence, accountability mechanisms (monitors, reports to FRI).
+- Not who does the work (CTX-HUB); not national policy (ECO-POLICY); a predicted dispute if funding ends → SUST-RESTART "Risk:" (Ateker SM L156, 24.1); a hub with no plan for the gap → FUNC-GOV (Garden City EPC L302).
+
+### 31.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_HC_01Sep | L66 (FUNC-GOV: "we report to the RDC, DISO… these other important people have to know") | Accept FUNC-GOV (reporting line for radio communication to district officials). RDC/DISO = Resident District Commissioner, District Internal Security Officer: John to confirm. L67-L69 guests from neighbouring districts, World Food Programme extension workers, local agro-input dealers = FUNC-PARTNER, add if not coded |
+| same | L80 (FUNC-GOV, both passes, high: no contracts; concept note only; "we are going to support you for this period"; nothing signed) | Accept FUNC-GOV (partnerships without formal agreements, flagged in 23.1). "PSF Belgium" probably VSF Belgium, John |
+| same | L172 (FUNC-GOV, both passes, high: "It is not our hub that activates it. It is the system of farm radio") | Accept FUNC-GOV (decision rights over Uliza activation sit with FRI, not the hub) |
+| UG_KII_AtekerFM_RC_31Aug | L98-L100 (FUNC-GOV, both passes, high: reports to Odong Abraham, FRI IT expert who activates/deactivates Uliza; also Brenda) | Accept FUNC-GOV (reporting line for the platform; consistent with Ateker HC L172). Names and Brenda's role: John |
+| UG_KII_AtekerFM_SM_31Aug | L156 (FUNC-GOV, both passes, medium: without funding some officials won't come, a rift will follow) | Reject: the same span is already SUST-RESTART "Risk:" (24.1); a predicted conflict, no dispute or resolution described |
+| same | L160 (FUNC-GOV, pass B only, high: "engagement and agreement was held at a higher level. My directors were involved") | Accept FUNC-GOV (decision rights on the FRI agreement sit with the station's directors) |
+| same | L164 (FUNC-GOV, both passes, medium: FRI allowance should go straight to the presenter's phone, "the radio should not have a hand in touching that money") | Accept FUNC-GOV (proposed accountability for host allowances; flagged as second code on the L164 SUST-RESTART row, 24.1). Separate sentence, keep both |
+| UG_KII_BBSRadio_HC_25Aug | L11-L12 (FUNC-GOV, both passes, high: MOU between district, radio and minister of agriculture; "a commitment in place") | Accept FUNC-GOV (formal agreement; noted on the L10 ECO-POLICY row, 26.1). John: copy of the MOU, and whether FRI is a party |
+| same | L16-L17 (FUNC-GOV, both passes, high: reports monthly to Farm Radio; writes his own report besides the radio's) | Reject as duplicate (~70%): the L16 CTX-ROLE + FUNC-GOV row already holds this reporting line; L17 only adds that his report runs alongside the station's |
 
 ---
 
