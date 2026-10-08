@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (33, FUNC-PARTNER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (34, GESI-NORM, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1978,3 +1978,24 @@ Copied word for word so later sessions do not need to reopen the workbook. The 2
 - Example: Structural code. No exemplar. _(Source: Gale et al. (2013) convention)_
 - Feeds: Code review
 
+
+---
+
+## 34. Session 10 continued (8 Oct 2026): GESI-NORM
+
+GESI-ACCESS closed (48/48, Pendings closed without audio per the 8 Oct lead decision, 28.1). GESI-NORM: **5 of 19 decided, 14 left**. Conventions: a belief or convention about who may listen, speak, attend or adopt; personal bias is not a norm; statements of no exclusion are not coded (absence question, 11.6). **Intra-household income control by sex → GESI-OTHER** (no code holds it; not about listening, speaking, attending or adopting, and not programme-attributed income); fortnightly review.
+
+### 34.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L61 (GESI-NORM, pass B only: "Women are deeply involved in decision making processes without any segregation") | Reject (~70%): asserted absence of exclusion, no norm shaping participation (absence question 11.6). **Same sentence word for word at Naitakwai_02 L60**: another copied-text flag for John |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L60 (same sentence) | Reject, same reason and same integrity flag |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L96 (GESI-NORM, both passes: cooperative started by women, seen as "only a women's organisation"; men and youth joined later for the heavy lifting) | Accept GESI-NORM (a belief about who the group is for, and a gendered expectation about heavy work, shaping who joined) |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L57 (GESI-NORM, both passes: men on the committee have faith in women and let them take part in all activities) | Accept GESI-NORM (~70%: permission is in apply-when; men's acceptance governs women's participation) |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L46 (GESI-NORM, pass B only, high: husband may decide to grow cassava instead) | Reject as duplicate: ADOPT-BARRIER + GESI-NORM on L46 already accepted |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L35 (GESI-NORM: women involved in household farming decisions, listen to the programmes) | Reject: no norm stated, and Tilevu_02 integrity hold |
+| same | L38 (GESI-NORM, both passes, high: must discuss farming decisions with husband or family) | Reject (closing without the integrity check): the same norm is accepted at Olevu L46, so no evidence is lost |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L92 (GESI-NORM: extra income split 75% wife, 25% him, because she runs the home) | Recode GESI-OTHER (~70%: intra-household income control by sex) |
+| UG_IDI_BBSRadio_Kyamugweri_07_25Aug | L81 (GESI-NORM: "it's my husband that allocates the money") | Recode GESI-OTHER (~70%: same convention). Don't quote alone |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L82 (GESI-NORM + INC-INVEST, pass B only: plan and allocate harvest money jointly with husband) | Reject as duplicate: the pending INC-INVEST + GESI-OTHER row on L82 holds it; joint planning is no norm |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L66 (GESI-NORM, pass B only: wife decides how extra income is used, she makes the budget) | Recode GESI-OTHER (~70%: same convention, reverse direction) |
