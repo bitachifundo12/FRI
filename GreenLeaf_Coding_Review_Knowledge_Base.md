@@ -1450,6 +1450,16 @@ FUNC-OTHER: all 12 remaining rows given verdicts (32.1), should read 21/21. FUNC
 | same | L166 (FUNC-PARTNER, pass B only, low: FRI's half-day training, promised documents never shared) | Reject as duplicate (~70%): already recoded SUST-RESTART "Strategy:" (24.1) |
 | UG_KII_BBSRadio_EO_25Aug | L149 (FUNC-PARTNER + FUNC-CONTENT, pass A only, medium: FRI should liaise with MAAIF, which approves content) | Reject as duplicate: ECO-POLICY and FUNC-CONTENT are both already accepted on L149; MAAIF is described as not involved, so not a contributing partner |
 | UG_KII_BBSRadio_HC_25Aug | L64-L65 (FUNC-PARTNER, both passes, high: partners like Agrovet [input dealers] and MADIFA, where information is shared and disseminated) | Accept FUNC-PARTNER (named partners). "Agrovet" is probably a type of input shop, not one firm; MADIFA's contribution, John |
+| UG_KII_BBSRadio_RC1_24Aug | L122 (FUNC-PARTNER, pass A only, low: "As if MADIFA is the one sponsoring that" [the station's other farmer programme]) | Reject (~70%): sponsorship of the station's other programme, already SUST-REVENUE and ECO-COMPARATOR here; MADIFA's link to Green Leaf is on BBS HC L64-L65 and SM L215 |
+| UG_KII_BBSRadio_SM_25Aug | L208 (FUNC-PARTNER, both passes, high: Masindi Local Government production department supplies the technical people) | Accept FUNC-PARTNER (flagged in 15.1) |
+| same | L210-L211 (FUNC-PARTNER + SUST-REVENUE, pending: Hongera Sana) | Reject as duplicate: SUST-REVENUE + FUNC-PARTNER on L210-L211 is already accepted |
+| same | L212 (FUNC-PARTNER, pass B only, medium: Naseco, seasonal, maize at planting) | Accept FUNC-PARTNER. No accepted SUST-REVENUE row for Naseco on L212 shows in the panel, though 15.1/18.1 accepted one three times: add it as a missing row and tell Ahmed |
+| same | L213 (FUNC-PARTNER + SUST-REVENUE, pass B only, medium: AB Aligwaawa) | Reject as duplicate: SUST-REVENUE + FUNC-PARTNER on L213 is already accepted |
+| same | L215 (FUNC-PARTNER + SUST-LAPSE, pass B only, high: no NGOs now; MADIFA ~3 months, not renewed; weather organisation 4 months) | Accept FUNC-PARTNER + SUST-LAPSE (same verdict as 23.1, which doesn't show as accepted in the panel; if an accepted copy turns up, reject this as duplicate) |
+| same | L217 (FUNC-PARTNER, pass B only, medium: farmer groups? "No we don't have.") | Accept FUNC-PARTNER (recorded absence of farmer-group partners). Pointer L216-L217, Don't quote |
+| same | L226-L227 (FUNC-PARTNER + SUST-RESTART, pass B only, medium: government may drop off; NGOs continue; private-sector facilitators could stand in) | Reject as duplicate (~70%): hypothetical, held by the pending SUST-RESTART row on L225-L227 ("Risk:") |
+| same | L243 (FUNC-PARTNER, both passes, medium: built a relationship with district staff; they benefit, recognised in the field when named on air) | Accept FUNC-PARTNER (~70%: district partner's involvement and what keeps it going). "Them" = district technical staff (L241) |
+| UG_KII_Ecosystem_EPC2_21Aug | L70 (CTX-ROLE + FUNC-PARTNER, both passes, medium: colleague Ida in content design; he backstops) | Reject as duplicate: CTX-ROLE + FUNC-PARTNER on L70 is already accepted |
 
 ---
 
