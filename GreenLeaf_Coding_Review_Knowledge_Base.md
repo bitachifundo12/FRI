@@ -2256,3 +2256,11 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | UG_KII_RadioPacis_EPC_28Aug | L38-L39 (SUST-CONTINUE + SUST-REVENUE, pass B only: "Yes." to sponsored recently / currently) | Reject as duplicate: SUST-REVENUE on L39 accepted (15.1) and Syova's continuing sponsorship is the SUST-CONTINUE recode on EPC L36 |
 | UG_KII_RadioPacis_RC2_27Aug | L58 (pass A only, high: Syova "have really come on board, they've not left") | Reject as duplicate: the SUST-REVENUE row on this span was recoded SUST-CONTINUE (15.1). The panel shows no SUST-CONTINUE on L58, so if that recode didn't save, Accept this one instead |
 | — | — | SUST-CONTINUE should read 60/60 |
+
+## 49. Session 10 continued (8 Oct 2026): SUST-DEMAND-REVEALED (last 2)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L124 (both passes, high: "received only one person… sponsored Digging Deep for one month") | Reject (closing the Pending without John, 8 Oct rule): the RC who made the deal says he went out and convinced them (RC L56-L57), so the conservative reading is station-led, which the rule excludes. Money already SUST-REVENUE on L124. If John finds the company approached first → Accept |
+| UG_KII_RadioPacis_RC2_27Aug | L62-L63 (SUST-DEMAND-REVEALED + SUST-REVENUE, pass B only: district hub coordinator routes paid district talk shows to Radio Pacis) | Reject: ordinary paid talk-show bookings with no stated Green Leaf link → SUST-REVENUE, already accepted on L63; the coordinator is a hub member routing business, not an outside party approaching |
+| — | — | SUST-DEMAND-REVEALED should read 15/15 |
