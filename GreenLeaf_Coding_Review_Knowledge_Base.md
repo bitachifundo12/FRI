@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (37, INC-MARKET, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (38, INC-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2085,3 +2085,19 @@ INC-MARKET: 19 of 20 decided, 1 left.
 | Session | Line | Verdict |
 |---|---|---|
 | UG_IDI_BBSRadio_Kyakamese_05_25Aug | L89 (INC-MARKET, both passes: "the biggest effect is storage facility which is small for the cooperative") | Accept INC-MARKET (storage is in the definition; a constraint on turning harvest into income). The second sentence (farmers not seeing the benefit of cooperative membership) is the pending INC-OTHER row: likely Reject, not about converting harvest to money |
+
+## 38. Session 10 continued (8 Oct 2026): INC-OTHER
+
+INC-MARKET 20/20. INC-OTHER: **20 of 51 decided, 31 left** (18 accepted before this session). **Convention:** household income sources, amounts and income or harvest changes with no programme link (A2 "farming vs other work" answers, weather losses after the E1/F2 change probes) → INC-OTHER, kept as baseline context for Lens 3 household modelling; INC-CHANGE only with a practice and the programme as reason. Recurs heavily: propose a baseline-income code (or a rule) at the fortnightly review.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L13 (INC-OTHER, pass A only: sell, rebuy seed; "this has changed our livelihoods") | Accept INC-OTHER (~70%: livelihood change credited to borehole irrigation, not the programme). INC-INVEST on L13 stays. Naitakwai integrity flag (John) |
+| same | L18 (INC-OTHER, both passes: "happy because of this garden work… strengthened our families, improved nutrition") | Accept INC-OTHER (~70%: answer to what people say about Green Leaf, but no practice or programme reason on the line). If John links the garden work to the programme → INC-CHANGE |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L46 (INC-OTHER, both passes: zero-grazing goat keepers got bigger herds and manure) | Recode INC-CHANGE (~70%: practice named, gain stated, answer to the question about programme practices spreading; zero grazing attributed to the programme at L20). ADOPT-OTHER on L46 stays |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L47 (INC-OTHER, pass A only: "This year is not good at all, there's nothing") | Accept INC-OTHER (~70%: harvest failure given to the change question, weather, not attributed). Don't quote |
+| same | L70 (INC-OTHER, both passes: local brew, firewood, charcoal; 5 bags of sorghum at 90,000 each; ~20,000 a week from brew) | Accept INC-OTHER (household income sources). UGX assumed; check the sorghum against L13. GESI-OTHER on L70 stays |
+| UG_IDI_AtekerFM_Komaret_02_01Sep | L14 (INC-OTHER, pass B only: casual labour 5,000-10,000; local brew 50,000) | Accept INC-OTHER (off-farm income). Periods not stated |
+| same | L15 (INC-OTHER, pass B only: one granary of sorghum, 15 tins sold at 2,000, rest brewed) | Accept INC-OTHER (farm income, last season). Separate from L14 (farm vs off-farm) |
+| same | L59 (INC-OTHER, both passes, low: "The sun has taken over this year.") | Reject (~70%): a non-listener with no programme practice (L56), so the change probe doesn't apply; one-line weather remark |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L13 (INC-OTHER, both passes: charcoal brings 10,000; "in farming there is nothing") | Accept INC-OTHER (household income sources) |
