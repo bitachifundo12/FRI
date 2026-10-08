@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (45, REACH-EPISODE, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (46, REACH-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2228,3 +2228,16 @@ REACH-EPISODE: 30 of 32 decided, 2 left.
 | UG_KII_BBSRadio_HC_25Aug | L54 (pass A only, low: "last time… we developed the content for 24 episodes") | Accept REACH-EPISODE (~70%: episodes in the last content round). Period unclear (24 weekly broadcasts? L117 "twenty-four months"), John. FUNC-CONTENT on L54 stays |
 | UG_KII_BBSRadio_RC1_24Aug | L120 (pass A only, low: other farmer programme, Saturday, about 1.5 hours) | Reject: the station's other programme, not Green Leaf output; already ECO-COMPARATOR on L120-L122 |
 | — | — | REACH-EPISODE should read 32/32 |
+
+## 46. Session 10 continued (8 Oct 2026): REACH-OTHER
+
+REACH-OTHER: 28 of 33 decided, 5 left.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L122 (pass B only: coverage almost all Karamoja and neighbouring districts; callers from Kapchorwa, Agago, Katakwi, Amuria; mountain blocks the signal in places) | Accept REACH-OTHER (coverage area with no figure; callers' districts as the basis). The mountain signal problem is an access barrier, note only (Hub KII) |
+| UG_KII_BBSRadio_HC_25Aug | L62 (both passes: "so many listeners, but these are men who don't even have phones") | Reject (~70%): no figure; already ACC-OTHER (closed 8 Oct) and REACH-ABSENT on L62 |
+| same | L80 (pass A only, low: village farmers have radios in the garden and know Uliza) | Accept REACH-OTHER (~70%: qualitative reach claim, no count) |
+| UG_KII_BBSRadio_SM_25Aug | L190 (pass A only: Uliza shows voices from places they didn't expect, "like IPSOS") | Reject as duplicate (~70%): already FUNC-FEEDBACK on L187-L190 (15.1); no figure |
+| UG_KII_RadioPacis_SM_27Aug | L95 (pass B only: IPSOS charges ~3 million for a region, ~5 million for two) | Accept REACH-OTHER (~70%: why the station holds no measured audience figure, the cost of buying it; supports the denominator gap). UGX, per purchase; not a hub cost line |
+| — | — | REACH-OTHER should read 33/33 |
