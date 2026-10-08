@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (52, COST-BOUNDARY, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (62, SUST-RESTART, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2399,3 +2399,17 @@ Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortn
 | UG_KII_RadioPacis_RC2_27Aug | L58 (pass B only: Saturday programme was fully sponsored by ARUDIFA, NURI and DANIDA) | Accept SUST-LAPSE (~70%: past sponsorship ended; SUST-REVENUE on L58 accepted in 15.1). Whether the Saturday show was Green Leaf, John |
 | same | L66 (pass B only: Palm Cops previously sponsored the commodity prizes) | Accept SUST-LAPSE (~70%: sponsor gone). SUST-REVENUE and FUNC-PARTNER on L66 stay |
 | — | — | SUST-LAPSE should read 57/57 |
+
+## 62. Session 10 continued (8 Oct 2026): SUST-RESTART
+
+SUST-RESTART: 22 of 36 decided, 14 left.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_HC_01Sep | L118-L121 (pass A only: nothing should be reduced; FRI's cross-hub meetings would be missed if cut) | Accept SUST-RESTART, "Risk:" (flagged in 20.1). FUNC-CONTENT second code in the note (cross-hub agenda-setting) |
+| same | L183-L184 (pass A only, low: FRI should keep linking the hub to partners; reach other districts) | Accept SUST-RESTART, "Strategy:" (~70%: partner brokerage as the condition for keeping support; flagged in 33.1). FUNC-PARTNER and ECO-POLICY stay |
+| UG_KII_AtekerFM_RC_31Aug | L43-L44 (SUST-RESTART + GESI-OTHER, pass A only: if funding halved, farmers won't benefit, no quality; "not really" to women's and youth voices) | Recode SUST-RESTART, "Risk:", GESI-OTHER dropped (a denial states no group difference). Q+A span, Don't quote alone |
+| UG_KII_AtekerFM_SM_31Aug | L62-L63 (both passes: district team promised to budget) | Reject as duplicate: SUST-DEMAND-STATED on L62-L63 accepted (22.1) |
+| UG_KII_BBSRadio_EO_25Aug | L150-L152 (pass A only, low: more sponsors would squeeze content; increase airtime) | Reject as duplicate: already FUNC-CONTENT on L150 (15.1); no lapsed element or funding condition |
+| UG_KII_BBSRadio_HC_25Aug | L72-L74 (pass A only: extension will continue without funding, as before; three years) | Reject as duplicate (~70%): SUST-CONTINUE on L72 and L74 accepted (21.1); it's stated as practice, not hypothetical |
+| UG_KII_BBSRadio_RC1_24Aug | L102-L104 (pass A only, high: hard to learn women's and youth's challenges without field work) | Reject as duplicate: the GESI-ACCESS row on L102-L104 was recoded SUST-RESTART "Risk:" (28.1) |
