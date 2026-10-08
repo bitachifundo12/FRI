@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (32, FUNC-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (33, FUNC-PARTNER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1419,6 +1419,29 @@ FUNC-GOV: all 28 remaining rows given verdicts (31.1), should read 46/46. FUNC-O
 | UG_KII_RadioPacis_RC1_27Aug | L18 (FUNC-OTHER, both passes, low: station colleagues promote Green Leaf in their own shows; listeners know it's coming) | Accept FUNC-OTHER (~70%: in-station cross-promotion; no FUNC code holds programme promotion, and with no airtime value it isn't COST-INKIND). Fortnightly review: promotion recurs (RC2 L28 promos; Uliza promotion went to FUNC-FEEDBACK, EO L82) |
 | same | L94 (FUNC-OTHER, both passes, low: FRI to train the radio monitors face to face so they understand how the programme runs) | Recode FUNC-GOV (~70%: the monitors are FRI's episode scorers (Pacis HC L71, RC2 L81), so this is about the accountability mechanism working). The SUST-RESTART row on L94 stays |
 | same | L100 (FUNC-OTHER, both passes, low: FRI to give hub awards, e.g. to Arua this year, to encourage people) | Accept FUNC-OTHER (~70%: a recognition mechanism for hub performance, no FUNC code holds it). Volta HC L880-L888 says FRI already runs station and programme awards: carry both to the fortnightly review |
+
+---
+
+## 33. Session 10 continued (8 Oct 2026): FUNC-PARTNER
+
+FUNC-OTHER: all 12 remaining rows given verdicts (32.1), should read 21/21. FUNC-PARTNER: **16 of 71 decided, 55 left** (accepted 9, recoded 1, rejected 6); bulk accept off for Ghana (56% kept). Settled decision on the code page: an organisation named as carrying the programme = FUNC-PARTNER, not ECO-ACTOR; merely operating in the same space with no contribution = ECO-ACTOR.
+
+### 33.0 Checks for FUNC-PARTNER
+- Organisation outside the hub contributing content, staff, airtime, funding or reach; named ministries, district governments, NGOs, input dealers, sponsors, other stations.
+- Hub members (incl. the extension officers a hub says make it up, e.g. Ateker HC L65) → CTX-HUB, not this code.
+- Sponsor paying money → SUST-REVENUE, with FUNC-PARTNER as second code where it also contributes content (15.1).
+
+### 33.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_HC_01Sep | L22 (FUNC-PARTNER, pass A only, medium: invited extension workers sometimes busy, late or absent) | Reject: at Ateker the extension officers make up the hub (L65), so not outside partners; their participation is already the CTX-STATUS row on L22 |
+| same | L64 (FUNC-PARTNER + CTX-HUB, both passes, medium: Moroto District local government the only government partner; hub made up of extension officers) | Accept FUNC-PARTNER + CTX-HUB (district named as partner; L65 hub composition) |
+| same | L67 (FUNC-PARTNER: guests also invited from neighbouring district governments, Napak, Nakapiripirit) | Accept FUNC-PARTNER (outside districts supplying resource persons). Keep separate from the WFP row |
+| same | L67 (FUNC-PARTNER, pass B only, high: extension workers from other partners like the World Food Programme come without hesitation) | Accept FUNC-PARTNER (named NGO supplying staff to the programme) |
+| same | L69 (FUNC-PARTNER, both passes, medium: "those Agro-input dealers. The local ones… two or three", names unknown) | Accept FUNC-PARTNER (~70%: named as partners of the programme in answer to L68; input dealers are in apply-when). Names and what they contribute, John |
+| same | L95 (FUNC-PARTNER, both passes, high: AID Environment, via FRI, teaching circular regenerative agriculture, practical biofertilizer demonstration) | Accept FUNC-PARTNER (named organisation contributing training and field content; flagged in 20.1) |
+| same | L183 (FUNC-PARTNER, pass B only, medium: thanks FRI for linking the hub to other partners; continue doing so) | Accept FUNC-PARTNER (~70%: FRI's role in bringing outside partners to the hub). The recommendation side is the pending SUST-RESTART row on L183-L184 |
+| UG_KII_AtekerFM_RC_31Aug | L58-L59 (FUNC-PARTNER, pass A only, medium: Agro and More deals in agro inputs and brings technical experts and hands-on extension) | Accept FUNC-PARTNER (the sponsor also contributes content and expertise; flagged in 15.1). ECO-COMPARATOR on L59 stays |
 
 ---
 
