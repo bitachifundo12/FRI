@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (31, FUNC-GOV, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (32, FUNC-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1397,6 +1397,24 @@ FUNC-FEEDBACK: all 25 remaining rows given verdicts (30.1), should read 50/50. P
 | same | L83 (FUNC-GOV, pass B only, medium: the district hub coordinator also has platform access and comments; everyone comments, the content developer marks) | Accept FUNC-GOV (~70%: who reviews and marks episodes; extends the L81 control row to the hub coordinator). Keep separate from L81 |
 | (session header cut off on the screenshot; Uganda hub KII, L12) | L12 (FUNC-GOV: once in a while a district-level coordination meeting evaluates how the programme is implemented with the district team / agriculture officer) | Accept FUNC-GOV (district oversight forum). CTX-STATUS on L12 (post-show evaluation) stays. Session ID to fill in |
 | UG_KII_RadioPacis_SM_27Aug | L46 (FUNC-GOV, both passes, medium: FRI did not agree when told the previous producer [Pascal] gave guests transport; the station now pays 20,000 itself) | Accept FUNC-GOV (disagreement over who bears guest transport, resolved by the station paying). The station payment is already SUST-CONTINUE on L46. Pascal's role, John |
+
+---
+
+## 32. Session 10 continued (8 Oct 2026): FUNC-OTHER
+
+FUNC-GOV: all 28 remaining rows given verdicts (31.1), should read 46/46. FUNC-OTHER: **9 of 21 decided, 12 left**. OTHER is last resort: try CTX-STATUS (equipment status), FUNC-CONTENT (format reuse, staff skills used in other programmes), FUNC-FEEDBACK, FUNC-PARTNER first; off-air intervention recommendations and branding suggestions are not FUNC.
+
+### 32.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L24 (FUNC-OTHER, pass B only, medium: programme laptop down since it broke, not taken for repair) | Reject: equipment status, already the CTX-STATUS row on L24-L25; repair need is SUST-RESTART on L102 (19.1) |
+| same | L25 (FUNC-OTHER, pass B only, medium: FRI recorder batteries weak; management slow to respond) | Recode CTX-STATUS (~70%: a second equipment element only partly working). Batteries as a restart need are already SUST-RESTART on L102 |
+| same | L83-L84 (FUNC-OTHER, pass B only, medium: Uliza numbers keep changing between projects and are shared across hubs, confusing callers) | Recode FUNC-FEEDBACK (~70%: a problem in the response channel itself). The ACC-OTHER row on L83-L85 stays |
+| UG_KII_BBSRadio_SM_25Aug | L156 (FUNC-OTHER, both passes, low: "we have even borrowed a leaf to use in other programs") | Recode FUNC-CONTENT (Green Leaf format reused in the station's other programmes; flagged in 15.1). Which programmes, John |
+| same | L190 (FUNC-OTHER, both passes, low: producers' Farm Radio training used in other programmes) | Recode FUNC-CONTENT (production skills carried into other programmes; flagged in 15.1). Separate statement from the Uliza reach part of L190 |
+| same | L275 (FUNC-OTHER, both passes, low: Farm Radio t-shirts for farmers, for visibility) | Reject (~70%): a branding suggestion, no functioning fact; same call as the SUST-OTHER row on L275-L277 (24.1) |
+| UG_KII_Ecosystem_EPC2_21Aug | L242 (FUNC-OTHER, pass A only, low: district farmer associations not reached; one-day trainings too short; longer training next phase) | Reject (~70%): the same span is pending as FUNC-PARTNER, which holds the partner-engagement point; OTHER would park it |
+| UG_KII_Ecosystem_EPC_11Sep | L130 (FUNC-OTHER, both passes, low: strengthen entrepreneurial support for those doing the work on the ground) | Reject (~70%): an off-air intervention recommendation, not how the platform functions; same treatment as L128 (demonstrations, 29.1) |
 
 ---
 
