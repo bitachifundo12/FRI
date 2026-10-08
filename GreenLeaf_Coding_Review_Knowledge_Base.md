@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (47, REACH-PLATFORM, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (52, COST-BOUNDARY, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2284,3 +2284,19 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | UG_IDI_BBSRadio_Labongo_02_24Aug | L20 (ACC-SHARED, both passes: Muruli Moses tells her about the farming programmes' airings) | Recode ACC-OTHER (12.2: being told when programmes air, not the content, is not ACC-SHARED). If the recoded ADOPT-OTHER row on L20 already became ACC-OTHER, Reject as duplicate instead |
 | UG_IDI_BBSRadio_Labongo_03_25Aug | L67-L68 (ACC-SHARED, pass A only: shared modern farming ways and working together at the Friday group meeting; L64 so those without radios aren't left behind) | Accept ACC-SHARED (content relayed to members without radios). DIFF-FORMAL (weekly group meeting) as second code if not coded; the MADFA soft-loan part is not programme content. If the L64 row is already ACC-SHARED, keep both (different question) |
 | — | — | ACC-SHARED should read 37/37 |
+
+## 52. Session 10 continued (8 Oct 2026): COST-BOUNDARY
+
+COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of but doesn't own (FRI country costs, platform, training paid by FRI, station overhead/statutory, 17.1). Never in the hub cost table; flag for the FRI cost request.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L90-L93 (pass A only: internet paid by the station; MOU with Roke Telecom; figure with his boss, later noted ~75,000/month) | Accept COST-BOUNDARY (~70%: station overhead he doesn't hold). Source of the 75,000 to confirm before use |
+| same | L95-L96 (both passes: training provided by FRI and partners, hosts sent to Kampala) | Accept COST-BOUNDARY (FRI-paid training, for the FRI cost request). COST-INKIND on L95-L96 stays |
+| same | L98-L100 (both passes, low: generator, a litre or two of fuel per show) | Recode COST-INKIND (~70%: station-borne running cost of airing the show, per show; not above hub level) |
+| same | L104 (pass A only: station computer 3m, microphones 50,000, generator 30m) | Reject as duplicate: COST-SETUP on L104 already holds these figures; a second code would double count |
+| same | L146 (both passes, high: URA EFRIS tax due on invoices before clients pay) | Accept COST-BOUNDARY (station statutory overhead, 15.1). SUST-REVENUE on L146 stays |
+| same | L166 (pass A only, low: FRI half-day training, documents never shared) | Reject (~70%): thin as a cost; FRI training is on L95-L96, and the line is SUST-RESTART |
+| UG_KII_BBSRadio_RC1_24Aug | L58 (pass A only: doesn't know about funding, handled by admin and manager) | Reject: names no cost; FUNC-GOV on L58 holds it (31.1) |
+| UG_KII_BBSRadio_SM_25Aug | L82-L84 (pass A only: Uliza funded by FRI or the donor) | Accept COST-BOUNDARY (platform cost above hub). Figure block (300,000 per episode) not on these lines: don't verify here |
+| same | L85-L86 (pass A only: training and refresher costs by FRI or the donor) | Accept COST-BOUNDARY |
