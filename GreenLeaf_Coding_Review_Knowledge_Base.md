@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (35, GESI-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (36, INC-INVEST, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2044,3 +2044,23 @@ GESI-NORM: all 14 remaining rows given verdicts (34.1). GESI-OTHER: **16 of 46 d
 | UG_KII_RadioPacis_RC2_27Aug | L32 (GESI-OTHER, both passes: a female reads the farmers' news to balance the male presenter) | Accept GESI-OTHER (deliberate women's presence on air) |
 | same | L83 (GESI-OTHER, both passes: FRI digital lead and producer male; content developer and monitor female) | Accept GESI-OTHER (sex of those running Uliza, answer to L82) |
 | — | — | GESI-OTHER: all 30 given verdicts, should read 46/46 |
+
+---
+
+## 36. Session 10 continued (8 Oct 2026): INC-INVEST
+
+GESI-OTHER: all 30 given verdicts (35.1), 46/46. INC-INVEST: **19 of 41 decided, 22 left**; bulk accept off for Ghana. **Convention:** answers to the F3 probe ("what did it cost you to adopt it") → INC-INVEST, including own labour and "nothing" (absence is data); where returns go (savings, seed, school fees, livestock) → INC-INVEST; who decides → GESI-OTHER (35.1). Programme link is not in INC-INVEST's rule, but say when none is stated.
+
+### 36.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L65 (INC-INVEST, both passes, low: savings from selling greens and quarrying, members borrow from the group) | Accept INC-INVEST (~70%: where returns go and how farming is financed; no programme link stated) |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L13 (INC-INVEST, pass B only: sell and use the money to buy more seeds to replace) | Accept INC-INVEST (~70%: returns reinvested in seed; no programme link stated). Naitakwai_02 has copied-text flags elsewhere (L21, L60): John |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L64 (INC-INVEST, pass B only: "Renting land 100,000") | Accept INC-INVEST (~70%: outlay for the first application, F3; source not stated). ADOPT-BARRIER on L64 stays. UGX assumed, period unclear; repeats L53, count once |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L63 (INC-INVEST, both passes: bought seeds, planted, sold for more money) | Accept INC-INVEST (input bought and return). Source of money not stated |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L60 (INC-INVEST, both passes, low: "Nothing." to what it cost to adopt) | Accept INC-INVEST (~70%: nil cost recorded). Pointer L59-L60, Don't quote; speaker untagged |
+| UG_IDI_AtekerFM_Rupa_06_01Sep | L67 (INC-INVEST, both passes: plan together what to sell, for school fees and a balanced diet) | Accept INC-INVEST (returns consumed). GESI-OTHER for the joint decision (F5), add if not coded |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L78 (INC-INVEST, both passes: cooperative members can get a soft loan to transport manure) | Accept INC-INVEST (~70%: financing route for the practice; general, unclear if he took one) |
+| same | L83-L85 (INC-INVEST, pass A only, low: "there was a cost on input") | Accept INC-INVEST (~70%, thin: cost acknowledged, no amount or source). Don't quote |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L72 (INC-INVEST, both passes: mulching and manure "only cost me my own labour") | Accept INC-INVEST (resourced by own labour) |
+| same | L84 (INC-INVEST, both passes: harvest proceeds to a cow, new structure, grass) | Accept INC-INVEST (reinvestment of returns). GESI-OTHER on L84 stays |
