@@ -2470,7 +2470,7 @@ The user confirmed every row is now decided (100% reviewed, both countries; lead
 3. Golinga_04 L40 DIFF-KIN still carries DIFF-INFORMAL as second code (dropped in my verdict; DIFF-INFORMAL has its own row). 4 rows have second code = code.
 4. Quantified field: 20 ECO-COMPARATOR rows "n.a." (BBS EO L81, L95 should be Yes); 6 non-ECO rows carry "No".
 5. Respondent sex "Not recorded" for every Uganda session (41) and all KIIs: breaks the women/men disaggregation commitment unless filled from the register/transcripts.
-6. Uganda transcript status blank (41).
+6. ~~Uganda transcript status blank (41).~~ Not an issue (user, 8 Oct): Uganda has no transcript-status entries to record; blank is expected.
 7. Quant extraction: 238 figures, 0 verified; 14 different currency labels; 10 Ghana rows "USD as transcribed" (cedis); Pacis SM UCC licence "300 USD as transcribed" (Uganda); duplicate figure rows (Radio Savannah EO per diems 590 ×2, 280 ×3).
 8. Double-coding sheet empty; Agreement sheet is engine-vs-reviewer precision, not inter-coder reliability.
 9. Convergence: 97 of 331 code×hub cells meet the two-instrument rule.
