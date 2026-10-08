@@ -2303,3 +2303,13 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | UG_KII_RadioPacis_SM_27Aug | L44 (pass A only: FRI trains the team when something new comes on board; week-long training to programme the show) | Accept COST-BOUNDARY (FRI-paid training, for the FRI cost request; costed statement at L119). FUNC-CONTENT on L44 stays |
 | same | L109 (pass A only, high: four stations, 140 full-salaried staff) | Accept COST-BOUNDARY (station-group payroll overhead, flagged in 15.1) |
 | — | — | COST-BOUNDARY should read 26/26 |
+
+## 53. Session 10 continued (8 Oct 2026): COST-CASH (last 4)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L65-L66 (pass B only, high: FRI contribution reduced to ~2,480,000, "2.4 I think") | Reject as duplicate: SUST-CONTINUE on L64-L65 holds the figure, and what FRI's money buys (transport, airtime) is already COST-CASH via the L68 row; a third row would double count |
+| same | L74 (pass B only: original package "about seven million per quarter? I'm not very sure"; 700,000 × 4 = 2.1, × 3) | Reject as duplicate: already SUST-LAPSE (15.1, the earlier level); hedged arithmetic, not a cash input line |
+| UG_KII_BBSRadio_HC_25Aug | L43-L44 (pass B only: FRI pays the radio a token for broadcasters and coverage; amount unknown) | Reject as duplicate: COST-BOUNDARY on L43-L44 already accepted |
+| UG_KII_RadioPacis_EO_27Aug | L34-L35 (pass A only: presenters facilitated every time with a small token) | Reject (~70%): no amount, payer unknown to him; already CTX-STATUS (21.1), and the 20,000 per guest is on Pacis SM L46 / RC2 L56 |
+| — | — | COST-CASH should read 100/100 |
