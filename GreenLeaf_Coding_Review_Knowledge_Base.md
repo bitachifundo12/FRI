@@ -2421,3 +2421,14 @@ SUST-RESTART: 22 of 36 decided, 14 left.
 | UG_KII_RadioPacis_RC2_27Aug | L42 (both passes: even without FRI the radio can sponsor the farm programme from its budget) | Reject as duplicate: two SUST-CONTINUE rows on L42 accepted (21.1); stated as the current budget, not hypothetical |
 | UG_KII_RadioPacis_SM_27Aug | L70 (both passes, high: if FRI isn't there, farmers come to the studio, radio offers airtime) | Reject as duplicate (~70%): SUST-CONTINUE and SUST-LAPSE on L70 accepted; the same adaptation is SUST-RESTART "Risk:" on L101 (20.1) |
 | — | — | SUST-RESTART: all 14 given verdicts, should read 36/36 |
+
+## 63. Session 10 continued (8 Oct 2026): SUST-REVENUE (last 5)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_HC_01Sep | L75-L76 (pass B only: partner paid guest facilitation, 110,000-120,000 far, 55,000 near) | Accept SUST-REVENUE (~70%: past partner money into the programme; payer Uganda Health Activity per L71, ended = SUST-LAPSE on L71). COST-CASH on L76 holds the figure: enter once |
+| UG_KII_AtekerFM_SM_31Aug | L22-L23 (pass A only: three-month free airtime campaign for death announcements; few responded) | Reject (~70%): free airtime, no money received; station-level promotion, not Green Leaf |
+| same | L167 (pass A only: marketing lacking) | Reject as duplicate: same point as L165 SUST-RESTART "Strategy:" (24.1) |
+| UG_KII_BBSRadio_SM_25Aug | L204 (pass B only, low: financial health "in the middle") | Reject as duplicate: SUST-OTHER on L204 accepted (24.1) |
+| UG_KII_RadioPacis_RC2_27Aug | L36 (pass A only: previously Syova, none now, Buffalo Bicycles starts tomorrow) | Reject as duplicate: SUST-DEMAND-REVEALED + SUST-REVENUE and FUNC-PARTNER on L36 accepted; Syova's money is on SM L24; Buffalo not yet paying |
+| — | — | SUST-REVENUE should read 75/75 |
