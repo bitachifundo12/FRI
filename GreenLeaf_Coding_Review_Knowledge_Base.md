@@ -1470,6 +1470,15 @@ FUNC-OTHER: all 12 remaining rows given verdicts (32.1), should read 21/21. FUNC
 | same | L34 (FUNC-PARTNER, pass B only, medium: through Green Leaf they reached radio stations in 12 sub-regions) | Accept FUNC-PARTNER (~70%: the partner's content carried through the hub stations). REACH-OTHER on L34 stays; no audience figure |
 | same | L35 (FUNC-PARTNER, both passes, medium: GAYO's large online following, database and events) | Accept FUNC-PARTNER (reach the partner brings; no figures, ask GAYO). Keep separate from L34 |
 | same | L42 (FUNC-PARTNER, both passes, medium: a circuit trip across the country featured on Green Leaf-sponsored programmes) | Accept FUNC-PARTNER (partner content on air). Stations, dates and who paid, John |
+| UG_KII_RadioPacis_EO_27Aug | L99 (FUNC-PARTNER, pass B only, low: he helped develop the Buffalo Bicycle content in Lira) | Reject (~70%): his own past work elsewhere (CTX-ROLE material), not a partner contributing to this hub; Buffalo Bicycles at Pacis is on RC2 L36 |
+| UG_KII_RadioPacis_EPC_28Aug | L14 (FUNC-PARTNER, pass B only, medium: the Syova agronomist works with the presenter and sometimes joins field visits) | Accept FUNC-PARTNER (sponsor contributing staff time). How often, John |
+| same | L59 (FUNC-PARTNER, both passes, medium: Syova brings farmers to the studio to speak on the company's behalf) | Accept FUNC-PARTNER (sponsor contributing guests and content). FUNC-CONTENT on the poems/drama part stays. Who pays the farmers' travel, John |
+| UG_KII_RadioPacis_HC_28Aug | L49 (FUNC-PARTNER, both passes, high: West Nile Foresters (seedlings), NARO, Omia, "Abizadi", "I Know Farm" (weather), banks, bottling companies support the hub) | Accept FUNC-PARTNER (named partners and contributions). Spellings "Abizadi" and "I Know Farm", John |
+| same | L51 (FUNC-PARTNER, pass A only, medium: "Syova East African seeds", prompted by "And even Syova…") | Accept FUNC-PARTNER (~70%: confirmed when prompted; contribution is on EPC L14, L59 and SM L24). Don't quote |
+| same | L53-L54 (FUNC-PARTNER, both passes, medium: ARUDIFA vibrant at first, weakened by internal issues; "we shall continue using them") | Accept FUNC-PARTNER (partner status; flagged in 15.1) |
+| same | L80 (FUNC-PARTNER, both passes, high: JICA, promoting rice seed production in West Nile, with its own expectations of the hour) | Accept FUNC-PARTNER (named partner funding a segment). SUST-REVENUE, FUNC-CONTENT and FUNC-GOV on L80 stay. Current or past, John |
+| UG_KII_RadioPacis_RC1_27Aug | L43 (FUNC-PARTNER, both passes, high: Syova seeds, OMIA Agribusiness, Pearl crops, West Nile Foresters) | Accept FUNC-PARTNER (named partners; flagged in 15.1) |
+| same | L49 (FUNC-PARTNER, pass B only, low: another partner "in the pipeline… called Glittered"; "I believe they will fully support us") | Reject (~70%): not yet a partner and no contribution, only his expectation. Name to check, John |
 
 ---
 
