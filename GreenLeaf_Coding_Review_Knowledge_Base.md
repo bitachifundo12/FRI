@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (34, GESI-NORM, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (35, GESI-OTHER, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2002,3 +2002,23 @@ GESI-ACCESS closed (48/48, Pendings closed without audio per the 8 Oct lead deci
 | UG_IDI_RadioPacis_Rondo_02_28Aug | L69 (GESI-NORM, both passes: discusses extra income with husband, mostly decide together) | Recode GESI-OTHER (~70%: intra-household income control, joint; same convention as Kyakamese L92) |
 | UG_KII_BBSRadio_SM_25Aug | L166 (GESI-NORM, pass B only: youth not bothered with agriculture, prefer music and drama; his personal comparison) | Reject (~70%): a stated preference of an age group, his own opinion, not a convention about who may listen; REACH-OTHER on L166 stays. Figure block (IPSOS 10 million) not on this line: don't verify here |
 | UG_KII_RadioPacis_RC2_27Aug | L29 (GESI-NORM, pass B only: always men who call, "I don't know whether it is a mindset") | Reject: the "mindset" is a guess, not a stated norm; already recoded GESI-OTHER on L29 (28.1) |
+
+---
+
+## 35. Session 10 continued (8 Oct 2026): GESI-OTHER
+
+GESI-NORM: all 14 remaining rows given verdicts (34.1). GESI-OTHER: **16 of 46 decided, 30 left**. Conventions: **Uganda women's representation in group/committee leadership → GESI-OTHER** (GESI-ROLE is Ghana-only and hub-level; Frame amendment: extend GESI-ROLE); sex differences in participation or uptake with no mechanism → GESI-OTHER (Pacis RC1 L32); statements of equal access → not coded (11.6); the copied sentence at Nabuin L61 / Naitakwai L60 → Reject.
+
+### 35.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L34 (GESI-OTHER, pass A only: "In our groups men and women get information equally") | Reject: equal access, no difference; not coded until the Frame absence question (11.6) is decided; OTHER is not a parking space |
+| same | L40 (GESI-OTHER, pass A only: "we all benefit equally, but women act on it first") | Accept GESI-OTHER (~70%: a sex difference in acting on advice, no mechanism; same treatment as women calling in less) |
+| same | L60 (GESI-OTHER, both passes: "in this group of ours we have 30 women and 7 men") | Accept GESI-OTHER (group composition by sex, answer to the representation question) |
+| same | L61 (GESI-OTHER, pass A only: "Women are deeply involved in decision making… without any segregation") | Reject: the sentence appears word for word at Naitakwai_02 L60 (integrity flag, John); the representation facts are on L60 and L62-L64 |
+| same | L62-L64 (GESI-OTHER, both passes: chairperson, treasurer and secretary are women) | Accept GESI-OTHER (women hold the group's offices). Separate from L60 (members vs offices). C/P = chairperson |
+| UG_FGD_AtekerFM_Naitakwai_02_31Aug | L55 (GESI-OTHER, both passes: balanced leadership, two men and two women) | Accept GESI-OTHER. Whether this is the RELC or the group's own committee, John |
+| same | L60 (GESI-OTHER, pass A only: "Women are deeply involved in decision making… without any segregation") | Reject: same copied sentence as Nabuin L61 |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L94 (GESI-OTHER, both passes: women's cooperative, few men, chairperson male, rest of committee female) | Accept GESI-OTHER |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L54 (GESI-OTHER, both passes: 80 members, committee of 13, 5 women and 8 men) | Accept GESI-OTHER. RELC or the group's own committee, John |
+| same | L56 (GESI-OTHER, both passes, low: "we exercise our right as committee members to discuss and influence decisions") | Accept GESI-OTHER (~70%: answer to whether women may decide; women's influence, not only presence). Separate from L57 (GESI-NORM, permission). Batebya Oliver's sex, John: if a man speaking of members generally, Reject |
