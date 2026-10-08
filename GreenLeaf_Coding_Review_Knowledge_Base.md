@@ -1297,6 +1297,13 @@ GESI-ACCESS left at about 42 of 47 (4 Pending, see 28.1). FUNC-CONTENT started (
 | same | L174-L178 (FUNC-CONTENT, both passes, medium: coordinators develop own content in trainings; AID Environment brings e.g. biofertilizer knowledge they incorporate) | Accept FUNC-CONTENT. FUNC-PARTNER second code in the note (outside organisation supplying technical content). L175-L177 speaker echoes, fine in span |
 | same | L180-L181 (FUNC-CONTENT, both passes, high: FRI's content design document; partners give feedback; FRI shares it with the Green Leaf platforms) | Accept FUNC-CONTENT (planning asset and review loop). Don't merge into L174-L178 (different statement). Request the document from FRI for the asset file |
 | UG_KII_Ecosystem_EPC_11Sep | L128 (FUNC-CONTENT, pass B only, medium: recommendation to move from awareness radio to practical demonstration) | Reject (~70%): demonstrations are another delivery channel, not how programme content is designed; already accepted as ECO-COMPARATOR on L128 |
+| UG_KII_Ecosystem_EPC_11Sep | L134 (FUNC-CONTENT, pass B only, medium: widen topics beyond agriculture to energy, forestry, then markets) | Accept FUNC-CONTENT (recommendation on the programme's own topic scope, 29.0). The energy/irrigation point at L147 is the same recommendation: count once |
+| UG_KII_RadioPacis_EO_27Aug | L10-L11 (FUNC-CONTENT, pass B only, high: took part in content development of some episodes, reviewed contents technically) | Accept FUNC-CONTENT (technical review of episode content before airing). The CTX-ROLE row on L11 stays (his role vs the process) |
+| same | L28 (FUNC-CONTENT: presentations on enterprise-specific and cross-cutting issues) | Accept FUNC-CONTENT (~70%: the topic range chosen; thin, so weigh lightly) |
+| same | L37 (FUNC-CONTENT, pass B only, low: farm news segment running longer than normal, adjusted) | Accept FUNC-CONTENT (~70%: run-of-show timing inside the programme, not the broadcast slot). Earlier in L37 Uliza paused for technical reasons = CTX-STATUS, add if not coded |
+| same | L67-L68 (FUNC-CONTENT, pass B only, medium: big contents rushed to fit the hour; length vs in-depth understanding) | Accept FUNC-CONTENT (same point as BBS EO L120). L65-L66 4-5pm clash, move to 7 or 8pm = ACC-SCHED, add if not coded |
+| same | L89 (FUNC-CONTENT, both passes, medium: recommend 1.5 hours, some contents long) | Accept FUNC-CONTENT (recommendation driven by content length, flagged in 24.1). Keep separate from L67-L68 (shortfall vs recommendation) |
+| same | L92 (FUNC-CONTENT: broaden the enterprise base to each region's priority enterprises) | Accept FUNC-CONTENT (topic-selection recommendation). Don't merge with L89, L93, L95: separate recommendations, Guide rule 3 |
 
 ---
 
