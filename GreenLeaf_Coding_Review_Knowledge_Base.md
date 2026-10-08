@@ -2264,3 +2264,9 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | UG_KII_AtekerFM_SM_31Aug | L124 (both passes, high: "received only one person… sponsored Digging Deep for one month") | Reject (closing the Pending without John, 8 Oct rule): the RC who made the deal says he went out and convinced them (RC L56-L57), so the conservative reading is station-led, which the rule excludes. Money already SUST-REVENUE on L124. If John finds the company approached first → Accept |
 | UG_KII_RadioPacis_RC2_27Aug | L62-L63 (SUST-DEMAND-REVEALED + SUST-REVENUE, pass B only: district hub coordinator routes paid district talk shows to Radio Pacis) | Reject: ordinary paid talk-show bookings with no stated Green Leaf link → SUST-REVENUE, already accepted on L63; the coordinator is a hub member routing business, not an outside party approaching |
 | — | — | SUST-DEMAND-REVEALED should read 15/15 |
+
+## 50. Session 10 continued (8 Oct 2026): ACC-DIRECT (last row)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L22 (pass A only: "Every morning.") | Reject (closing the 1 Oct Pending, 8 Oct rule): Ateker's Green Leaf slot is Monday 5-6pm, so "every morning" most likely means radio in general. Her direct access is already accepted on L19 (own phone). ACC-DIRECT should read 88/88 |
