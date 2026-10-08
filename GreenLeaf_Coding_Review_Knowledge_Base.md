@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (44, REACH-ENGAGE, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (45, REACH-EPISODE, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2218,3 +2218,13 @@ REACH-ENGAGE: 12 of 14 decided, 2 left.
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L26 (both passes, low: group reached up to 30 from the village listening group) | Reject (closing): word for word Olevu L33, already DIFF-FORMAL; group size is not a count of people calling or responding. Don't verify the 30 |
 | UG_KII_RadioPacis_RC1_27Aug | L76 (pass A only: per 100 Uliza participants, ~54-55 men, ~30 women) | Accept REACH-ENGAGE (recalled shares, not platform data; John to check against the Uliza export). The pending REACH-PLATFORM + GESI-ACCESS row on L76 → Reject (recall, not platform figures; no access mechanism). If the 28.1 GESI-ACCESS→REACH-ENGAGE recode on L76 shows as saved, reject this as duplicate instead |
 | — | — | REACH-ENGAGE should read 14/14 |
+
+## 45. Session 10 continued (8 Oct 2026): REACH-EPISODE
+
+REACH-EPISODE: 30 of 32 decided, 2 left.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_BBSRadio_HC_25Aug | L54 (pass A only, low: "last time… we developed the content for 24 episodes") | Accept REACH-EPISODE (~70%: episodes in the last content round). Period unclear (24 weekly broadcasts? L117 "twenty-four months"), John. FUNC-CONTENT on L54 stays |
+| UG_KII_BBSRadio_RC1_24Aug | L120 (pass A only, low: other farmer programme, Saturday, about 1.5 hours) | Reject: the station's other programme, not Green Leaf output; already ECO-COMPARATOR on L120-L122 |
+| — | — | REACH-EPISODE should read 32/32 |
