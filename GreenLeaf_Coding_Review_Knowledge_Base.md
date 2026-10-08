@@ -2280,3 +2280,4 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | UG_IDI_BBSRadio_Labongo_03_25Aug | L51-L52 (pass A only: "No, I have never called during the talk show") | Accept ACC-OTHER (recorded absence of phone-in participation, Q+A span; no count so not REACH-ENGAGE). If the recoded L52 row already holds this, reject one |
 | UG_IDI_RadioPacis_Rondo_02_28Aug | L17 (both passes, high: heard Otita Agrikicani for some time without attention; mother-in-law followed it) | Accept ACC-OTHER (first-heard answer; she heard it on the radio herself, so not ACC-SHARED). ACC-SCHED and GESI-OTHER on L17 stay |
 | — | — | ACC-OTHER should read 114/114 |
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L15 (ACC-SCHED, both passes: "we even don't know when the program will be held") | Reject as duplicate (~70%): not knowing the airtime is an obstacle to hearing, already accepted as ACC-BARRIER on L15 (same span); no slot, repeat or change stated. ACC-SCHED should read 37/37 |
