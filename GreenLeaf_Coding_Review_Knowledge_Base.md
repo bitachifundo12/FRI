@@ -2114,3 +2114,13 @@ INC-MARKET 20/20. INC-OTHER: **20 of 51 decided, 31 left** (18 accepted before t
 | UG_IDI_BBSRadio_Labongo_02_24Aug | L76 (INC-OTHER, pass A only: more inputs and time than before) | Reject as duplicate: INC-CHANGE on L76 already accepted |
 | UG_IDI_BBSRadio_Labongo_03_25Aug | L113 (INC-OTHER, both passes: "we plan with my family on how we can spend the money") | Recode GESI-OTHER (F5 convention, 35.1) |
 | UG_IDI_RadioPacis_Andifeku_03_28Aug | L75 (INC-OTHER, pass B only: manure, better fertility, less spent on fertiliser, better yields) | Reject as duplicate: INC-CHANGE on L75 already accepted |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L81 (INC-OTHER, both passes: weather affected farming most; first maize gave very little, under two bags, year may not reach 10) | Accept INC-OTHER (weather loss). Check against the 12 bags at L57 (different season?) |
+| UG_IDI_RadioPacis_Andifeku_04_28Aug | L60 (INC-OTHER, pass B only: main cost of line planting was her time) | Recode INC-INVEST (F3 convention, 36.1). ADOPT-OTHER on L60 stays |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L13 (INC-OTHER, pass B only, low: most food and income from farming; 3+ bags beans, 7+ bags maize in a good season) | Accept INC-OTHER (baseline income, A2) |
+| same | L60 (INC-OTHER, pass B only: extra time and inputs for ridges and rows) | Recode INC-INVEST (F3). ADOPT-OTHER on L60 stays |
+| same | L63 (INC-OTHER, both passes, low: weather the main factor in harvests and income) | Accept INC-OTHER (weather confounder) |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L60 (INC-OTHER, pass B only, low: main cost his time, a month to adopt) | Recode INC-INVEST (F3). ADOPT-OTHER on L60 stays |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L13 (INC-OTHER, pass A only: off-farm ~180,000/month; farming ~300,000/month, mainly tree seedlings) | Accept INC-OTHER (baseline income). UGX, monthly as stated |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L14 (INC-OTHER, pass A only, low: over 3 million from farming, most of household income) | Accept INC-OTHER (baseline). Period not stated |
+| same | L66 (INC-OTHER, both passes, low: weather, rainfall amount and timing, affected it most) | Accept INC-OTHER (weather confounder) |
+| — | — | INC-OTHER: all 31 given verdicts, should read 51/51 |
