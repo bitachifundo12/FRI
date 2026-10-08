@@ -2413,3 +2413,11 @@ SUST-RESTART: 22 of 36 decided, 14 left.
 | UG_KII_BBSRadio_EO_25Aug | L150-L152 (pass A only, low: more sponsors would squeeze content; increase airtime) | Reject as duplicate: already FUNC-CONTENT on L150 (15.1); no lapsed element or funding condition |
 | UG_KII_BBSRadio_HC_25Aug | L72-L74 (pass A only: extension will continue without funding, as before; three years) | Reject as duplicate (~70%): SUST-CONTINUE on L72 and L74 accepted (21.1); it's stated as practice, not hypothetical |
 | UG_KII_BBSRadio_RC1_24Aug | L102-L104 (pass A only, high: hard to learn women's and youth's challenges without field work) | Reject as duplicate: the GESI-ACCESS row on L102-L104 was recoded SUST-RESTART "Risk:" (28.1) |
+| UG_KII_BBSRadio_SM_25Aug | L225-L227 (pass A only, high: government may drop off; NGOs continue while interested; private-sector facilitators could stand in) | Accept SUST-RESTART, "Risk:" (partners at risk if funding stops; the row 33.1 pointed to) |
+| UG_KII_Ecosystem_EPC2_21Aug | L230 (both passes: traders contributing maybe 10% to the radio platform) | Reject as duplicate: already recoded SUST-RESTART "Strategy:" from SUST-DEMAND-STATED (22.1) |
+| UG_KII_Ecosystem_EPC_11Sep | L97-L100 (both passes: own programmes would carry the conversations; radio expensive without fundraising) | Reject as duplicate: SUST-RESTART on L96, SUST-DEMAND-STATED on L99-L100 already decided |
+| UG_KII_RadioPacis_RC1_27Aug | L32 (quality and reach remain; equality inclusion will be affected) | Reject as duplicate (~70%): CTX-STATUS on L31-L32 and SUST-RESTART "Risk:" on L33 already hold both halves |
+| same | L58 (both passes, low: partners won't leave even if Green Leaf is not there) | Accept SUST-RESTART, "Risk:" (what would survive FRI's exit: partner relationships) |
+| UG_KII_RadioPacis_RC2_27Aug | L42 (both passes: even without FRI the radio can sponsor the farm programme from its budget) | Reject as duplicate: two SUST-CONTINUE rows on L42 accepted (21.1); stated as the current budget, not hypothetical |
+| UG_KII_RadioPacis_SM_27Aug | L70 (both passes, high: if FRI isn't there, farmers come to the studio, radio offers airtime) | Reject as duplicate (~70%): SUST-CONTINUE and SUST-LAPSE on L70 accepted; the same adaptation is SUST-RESTART "Risk:" on L101 (20.1) |
+| — | — | SUST-RESTART: all 14 given verdicts, should read 36/36 |
