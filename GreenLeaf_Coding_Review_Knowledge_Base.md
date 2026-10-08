@@ -2313,3 +2313,13 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | UG_KII_BBSRadio_HC_25Aug | L43-L44 (pass B only: FRI pays the radio a token for broadcasters and coverage; amount unknown) | Reject as duplicate: COST-BOUNDARY on L43-L44 already accepted |
 | UG_KII_RadioPacis_EO_27Aug | L34-L35 (pass A only: presenters facilitated every time with a small token) | Reject (~70%): no amount, payer unknown to him; already CTX-STATUS (21.1), and the 20,000 per guest is on Pacis SM L46 / RC2 L56 |
 | — | — | COST-CASH should read 100/100 |
+
+## 54. Session 10 continued (8 Oct 2026): COST-INKIND (last 4)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L75-L76 (pass A only: district offers nothing "apart from the Agric officers") | Accept COST-INKIND (government staff time; the row left on L72-L76 in 33.1). Q+A, Don't quote |
+| UG_KII_AtekerFM_SM_31Aug | L8 (pass B only: programmes run on a voluntary basis, no direct sponsor, "the radio is offering that program") | Reject (~70%): general, Green Leaf not named; station-borne Green Leaf airtime is the accepted COST-INKIND on L108 |
+| same | L83 (pass A only: last charged 700,000 facilitation per hour) | Reject as duplicate: already SUST-DEMAND-STATED (22.1); the 700,000 is the replacement basis already on the L108 COST-INKIND row |
+| UG_KII_BBSRadio_SM_25Aug | L173-L174 (both passes, low: the Green Leaf hour is the station's talk-show time) | Accept COST-INKIND (~70%: station gives saleable prime airtime; realised talk-show prices, L177-L179, are the replacement basis). Count the airtime in-kind once with L78 |
+| — | — | COST-INKIND should read 47/47 |
