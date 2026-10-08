@@ -2388,3 +2388,14 @@ Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortn
 | UG_KII_Ecosystem_EPC_11Sep | L96 (budget pathways hybrid: grants and contracts, e.g. the FRI contract) | Reject as duplicate: SUST-CONTINUE on L96 accepted (21.1); describes money GAYO receives, not an interest in paying |
 | UG_KII_RadioPacis_RC1_27Aug | L51 (pass A only, low: Syova and Omia like to make sales; mentions on air make them money) | Reject as duplicate (~70%): FUNC-PARTNER on L51 accepted (33.1); the RC's view of sponsors' motive, not their stated interest. Syova's own stated conditions are on Pacis EPC L25-L53 |
 | — | — | SUST-DEMAND-STATED should read 51/51 |
+
+## 61. Session 10 continued (8 Oct 2026): SUST-LAPSE (last 5)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L142 (pass A only, low: presenter goes unpaid, so the programme suffers, quality affected) | Accept SUST-LAPSE (~70%: programme quality shrunk; flagged in 24.1). Cause is station finances, say so. COST-BOUNDARY on L142 stays |
+| UG_KII_BBSRadio_HC_25Aug | L72 (pass A only: "these people have been downscaling since the time we started") | Accept SUST-LAPSE (~70%: the second code named on the L72 SUST-CONTINUE row). Who is downscaling and what, John |
+| UG_KII_RadioPacis_HC_28Aug | L82 (pass A only: stipend 200,000 UGX unchanged since 2020; fuel from 3-4,000 to 7,000) | Accept SUST-LAPSE (real value eroded, 23.0; flagged in 15.1). COST-CASH for the stipend, add if not coded |
+| UG_KII_RadioPacis_RC2_27Aug | L58 (pass B only: Saturday programme was fully sponsored by ARUDIFA, NURI and DANIDA) | Accept SUST-LAPSE (~70%: past sponsorship ended; SUST-REVENUE on L58 accepted in 15.1). Whether the Saturday show was Green Leaf, John |
+| same | L66 (pass B only: Palm Cops previously sponsored the commodity prizes) | Accept SUST-LAPSE (~70%: sponsor gone). SUST-REVENUE and FUNC-PARTNER on L66 stay |
+| — | — | SUST-LAPSE should read 57/57 |
