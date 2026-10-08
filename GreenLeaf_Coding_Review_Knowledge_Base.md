@@ -1278,6 +1278,11 @@ DIFF-FORMAL left part-way (21 verdicts in 27.1; Tilevu_02 rows on hold). GESI-AC
 | UG_KII_BBSRadio_RC1_24Aug | L102-L104 (GESI-ACCESS, pass B only, low: without funding it would be hard to learn women's and youth's challenges in the field) | Recode SUST-RESTART, "Risk:" (hypothetical loss if field work stops; same call as Pacis RC1 L33) |
 | UG_KII_RadioPacis_EO_27Aug | L65-L66 (GESI-ACCESS + REACH-EPISODE, both passes, low: 4-5pm slot misses farmers at work, market or business; suggests 7 or 8pm) | Recode ACC-SCHED (~70%: a slot clash with working farmers and a request to move it; occupation is not a GESI group; the ACC-SCHED flagged in 29.1) |
 | UG_KII_RadioPacis_RC2_27Aug | L29 (GESI-ACCESS, pass A only, medium: always men who call on the shows; women take part through Uliza when encouraged) | Recode GESI-OTHER (~70%: sex difference in call-in participation, "mindset" only guessed; same call as Pacis RC1 L32, L74). The pending GESI-NORM row on L29 is hedged ("I don't know whether it is a mindset"): likely Reject |
+| — | — | **Lead decision (8 Oct, out of time before the draft):** close Pending rows without audio by taking the conservative reading (the one that does not claim a group difference or a finding the line can't carry), mark Don't quote, and note "decided without audio; revisit if checked" |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L29 | Reject (closing Pending): transcript integrity unresolved; the same finding (women hear late, garden and market) is already accepted at Olevu_01 L36, so no evidence is lost |
+| UG_KII_BBSRadio_HC_25Aug | L62 | Recode ACC-OTHER (closing Pending): read as people without phones not calling in; no sex difference stated, so not GESI-ACCESS. Don't quote |
+| GH_FGD_VoltaStar_AdakluAgblefe_01_25Aug | L125 | Reject (closing Pending): women say they listen; no difference stated |
+| same | L499-L507 | Recode ADOPT-BARRIER (closing Pending): land not available to "them"; who and why unclear, so no stated group difference. Don't quote |
 
 ---
 
