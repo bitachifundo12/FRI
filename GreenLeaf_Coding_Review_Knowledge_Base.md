@@ -2343,3 +2343,17 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | UG_KII_BBSRadio_SM_25Aug | L151 (pass A only, low: Charity the Uliza manager, Moses the co-host) | Accept CTX-HUB (named roles; flagged in 15.1). REACH-ABSENT on L151 stays |
 | UG_KII_RadioPacis_EO_27Aug | L11 (pass B only, high: has represented the hub coordinator at meetings when absent) | Accept CTX-HUB (~70%: stand-in arrangement, in apply-when). CTX-ROLE on L11 stays (his own role) |
 | — | — | CTX-HUB should read 67/67 |
+
+## 57. Session 10 continued (8 Oct 2026): CTX-OTHER (last 6)
+
+Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortnightly review; candidate for a rule, as station financial-health ratings in SUST-OTHER).
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L11 (both passes, low: performance "quite good. Though not to that expectation") | Accept CTX-OTHER (hub self-rating; reasons on L13, SUST-LAPSE) |
+| UG_KII_BBSRadio_EO_25Aug | L24-L27 (pass A only: progress very positive; contacts and linkages; "I think it's good") | Accept CTX-OTHER. FUNC-FEEDBACK on L24 stays |
+| UG_KII_BBSRadio_HC_25Aug | L29 (CTX-OTHER + CTX-STATUS, pass A only: excellent, rarely miss programmes unless the radio is faulty; guests don't miss) | Accept CTX-OTHER + CTX-STATUS. "Steven" identity, John |
+| UG_KII_BBSRadio_SM_25Aug | L32-L33 (CTX-OTHER + CTX-STATUS, pass A only: "It is good. I can say excellent"; don't miss programmes, upload, get guests) | Recode CTX-OTHER, CTX-STATUS dropped (already accepted on L33) |
+| UG_KII_RadioPacis_EO_27Aug | L22 (pass A only: this hub performed the best in the country, reasons follow) | Accept CTX-OTHER. Reasons (calls, contacts on air) are FUNC-FEEDBACK, already accepted |
+| UG_KII_RadioPacis_HC_28Aug | L17 (pass A only, high: "We are above 8" to the 1-10 rating; partners and funders should weigh in) | Accept CTX-OTHER (the respondent's answer; the question at the end is his own aside) |
+| — | — | CTX-OTHER should read 30/30 |
