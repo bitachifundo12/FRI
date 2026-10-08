@@ -1415,6 +1415,10 @@ FUNC-GOV: all 28 remaining rows given verdicts (31.1), should read 46/46. FUNC-O
 | same | L275 (FUNC-OTHER, both passes, low: Farm Radio t-shirts for farmers, for visibility) | Reject (~70%): a branding suggestion, no functioning fact; same call as the SUST-OTHER row on L275-L277 (24.1) |
 | UG_KII_Ecosystem_EPC2_21Aug | L242 (FUNC-OTHER, pass A only, low: district farmer associations not reached; one-day trainings too short; longer training next phase) | Reject (~70%): the same span is pending as FUNC-PARTNER, which holds the partner-engagement point; OTHER would park it |
 | UG_KII_Ecosystem_EPC_11Sep | L130 (FUNC-OTHER, both passes, low: strengthen entrepreneurial support for those doing the work on the ground) | Reject (~70%): an off-air intervention recommendation, not how the platform functions; same treatment as L128 (demonstrations, 29.1) |
+| UG_KII_RadioPacis_HC_28Aug | L78 (FUNC-OTHER, pass A only, medium: referral of callers to guests' numbers and the sub-county office) | Reject as duplicate: the same span is already accepted as FUNC-FEEDBACK (30.1) |
+| UG_KII_RadioPacis_RC1_27Aug | L18 (FUNC-OTHER, both passes, low: station colleagues promote Green Leaf in their own shows; listeners know it's coming) | Accept FUNC-OTHER (~70%: in-station cross-promotion; no FUNC code holds programme promotion, and with no airtime value it isn't COST-INKIND). Fortnightly review: promotion recurs (RC2 L28 promos; Uliza promotion went to FUNC-FEEDBACK, EO L82) |
+| same | L94 (FUNC-OTHER, both passes, low: FRI to train the radio monitors face to face so they understand how the programme runs) | Recode FUNC-GOV (~70%: the monitors are FRI's episode scorers (Pacis HC L71, RC2 L81), so this is about the accountability mechanism working). The SUST-RESTART row on L94 stays |
+| same | L100 (FUNC-OTHER, both passes, low: FRI to give hub awards, e.g. to Arua this year, to encourage people) | Accept FUNC-OTHER (~70%: a recognition mechanism for hub performance, no FUNC code holds it). Volta HC L880-L888 says FRI already runs station and programme awards: carry both to the fortnightly review |
 
 ---
 
