@@ -2334,3 +2334,12 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | UG_KII_BBSRadio_EO_25Aug | L129-L137 (COST-VOLUNTEER + FUNC-CONTENT, pass A only: ~15 minutes rehearsing guiding questions with the presenter before the show) | Accept COST-VOLUNTEER (~70%: extra unbudgeted time he frames as his own, L144; 15 min per show). FUNC-CONTENT on L130-L131 stays |
 | UG_KII_RadioPacis_RC1_27Aug | L27 (pass A only: guests' morale drops when airtime or transport isn't facilitated) | Reject (~70%): the loss is already the second SUST-LAPSE row on L27 (guest participation); no individual is said to pay their own way |
 | — | — | COST-VOLUNTEER should read 42/42 |
+
+## 56. Session 10 continued (8 Oct 2026): CTX-HUB (last 3)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L13 (pass B only: hub coordinators, extension workers and experts don't turn up; the programme flops) | Recode SUST-LAPSE (~70%: their participation has fallen, reason at L15, no facilitation; flagged in 19.1). Not roster composition. Conflicts with Ateker HC L41 (activities unaffected): record both |
+| UG_KII_BBSRadio_SM_25Aug | L151 (pass A only, low: Charity the Uliza manager, Moses the co-host) | Accept CTX-HUB (named roles; flagged in 15.1). REACH-ABSENT on L151 stays |
+| UG_KII_RadioPacis_EO_27Aug | L11 (pass B only, high: has represented the hub coordinator at meetings when absent) | Accept CTX-HUB (~70%: stand-in arrangement, in apply-when). CTX-ROLE on L11 stays (his own role) |
+| — | — | CTX-HUB should read 67/67 |
