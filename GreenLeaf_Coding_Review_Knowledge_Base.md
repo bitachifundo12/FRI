@@ -2459,3 +2459,16 @@ The user confirmed every row is now decided (100% reviewed, both countries; lead
 | GH_IDI_VoltaStar_AdakluAgblefe_01_25Aug | L36-L37 (INC-OTHER, pass A only, low, lead queue: "Distilling is where he makes the most money from") | Accept INC-OTHER (household income composition, baseline for Lens 3; the 38.0 convention adopted for Uganda). **Lead ruling (make a rule):** answers to the A2 income-sources probe (farm vs other work, amounts, main source) → INC-OTHER as baseline context, in both countries; never INC-CHANGE without the programme as reason. Interpreter relay, fragment: Don't quote |
 
 **Final Progress page (8 Oct, after the lead queue):** Ghana 35 sessions, 1,092 rows, 0 pending, 33 closed, 100%; Uganda 41 sessions, 1,852 rows, 0 pending, 41 closed, 100%. Every family 100% in both countries. Two Ghana sessions not closed (likely the sealed calibration sessions or sessions with open lead-queue rows; check which before the draft).
+## 66. Export check (Green_Leaf_Coding_Output_2026-10-08.xlsx, exported 15:47 UTC)
+
+2,512 accepted rows (Ghana 975, Uganda 1,537), 74 sessions with rows (2 Ghana field observations have no transcript by design, which explains 33/35 closed). Codes all valid; charting matrix and session register reconcile with the log; today's lead-queue decisions are included. Problems found:
+1. **Tilevu_02:** 11 accepted rows still in the log (copied transcript); register flag only "Verify figures".
+2. **24 exact duplicate rows** (same session, pointer, code, passage), e.g. Jamasi L34 ECO-COMPARATOR ×3 (2 by ASI), Ateker SM L62-L63 SUST-DEMAND-STATED ×2, Ateker RC L13 SUST-LAPSE ×2, Garden City EPC L302 FUNC-GOV ×2.
+3. Golinga_04 L40 DIFF-KIN still carries DIFF-INFORMAL as second code (dropped in my verdict; DIFF-INFORMAL has its own row). 4 rows have second code = code.
+4. Quantified field: 20 ECO-COMPARATOR rows "n.a." (BBS EO L81, L95 should be Yes); 6 non-ECO rows carry "No".
+5. Respondent sex "Not recorded" for every Uganda session (41) and all KIIs: breaks the women/men disaggregation commitment unless filled from the register/transcripts.
+6. Uganda transcript status blank (41).
+7. Quant extraction: 238 figures, 0 verified; 14 different currency labels; 10 Ghana rows "USD as transcribed" (cedis); Pacis SM UCC licence "300 USD as transcribed" (Uganda); duplicate figure rows (Radio Savannah EO per diems 590 ×2, 280 ×3).
+8. Double-coding sheet empty; Agreement sheet is engine-vs-reviewer precision, not inter-coder reliability.
+9. Convergence: 97 of 331 code×hub cells meet the two-instrument rule.
+10. Frame amendments: only SUST-DEMAND-REVEALED and SUST-OTHER recorded; the "make this a rule" rulings from 8 Oct are missing.
