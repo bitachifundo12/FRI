@@ -2357,3 +2357,12 @@ Team pattern on the code page: hub performance self-ratings → CTX-OTHER (fortn
 | UG_KII_RadioPacis_EO_27Aug | L22 (pass A only: this hub performed the best in the country, reasons follow) | Accept CTX-OTHER. Reasons (calls, contacts on air) are FUNC-FEEDBACK, already accepted |
 | UG_KII_RadioPacis_HC_28Aug | L17 (pass A only, high: "We are above 8" to the 1-10 rating; partners and funders should weigh in) | Accept CTX-OTHER (the respondent's answer; the question at the end is his own aside) |
 | — | — | CTX-OTHER should read 30/30 |
+
+## 58. Session 10 continued (8 Oct 2026): CTX-ROLE (last 3)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L153-L154 (pass A only: has never interacted with farmer groups; Kodet goes to the field) | Accept CTX-ROLE (~70%: limit of his own remit). Kodet's field role is CTX-HUB, already on L6 |
+| UG_KII_BBSRadio_HC_25Aug | L29-L30 (pass A only: handles it himself in most cases; a crop person; steps in when coordination fails) | Accept CTX-ROLE (his own remit). Keep separate from CTX-HUB on L30-L32 (others' roles) |
+| UG_KII_RadioPacis_EPC_28Aug | L14 (pass A only: works with the presenter; sometimes joins field visits) | Reject as duplicate (~70%): FUNC-PARTNER on EPC L14 already accepted (33.1); a sponsor's staff contribution, not a hub role |
+| — | — | CTX-ROLE should read 73/73 |
