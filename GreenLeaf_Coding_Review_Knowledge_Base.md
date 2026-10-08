@@ -1484,6 +1484,11 @@ FUNC-OTHER: all 12 remaining rows given verdicts (32.1), should read 21/21. FUNC
 | same | L36 (FUNC-PARTNER, pass B only, high: partners' corner: previously Syova, none now; Buffalo Bicycles Uganda starting tomorrow, bicycle financing) | Accept FUNC-PARTNER (past and incoming partners of the segment). Whether Buffalo Bicycles pays, John. "None now" vs L58 Syova "not left": record both |
 | same | L58 (FUNC-PARTNER, pass B only, medium: Syova "have not left", expanding to Moyo and Gulu) | Accept FUNC-PARTNER (~70%: Syova still a partner; the span is already SUST-CONTINUE, 15.1). Same tension with L36 |
 | same | L60 (FUNC-PARTNER, both passes, medium: JICA via FRI on rice, one of the biggest partners; Syova supplied rice seedlings and sponsored shows) | Accept FUNC-PARTNER (named partners and contributions). SUST-REVENUE on L60 stays; "Jika" = JICA (Pacis HC L80) |
+| same | L65 (FUNC-PARTNER: ARUDIFA points the station to farmer groups such as Sinamakosa) | Accept FUNC-PARTNER (flagged in 15.1). COST-INKIND and COST-SETUP on L65 (FRI radios to groups) stay |
+| same | L66 (FUNC-PARTNER, pass A only, medium: Palm Cops, an NGO, initiated and sponsored the commodity prizes) | Accept FUNC-PARTNER (past partner; SUST-REVENUE already on L66, 15.1). Name, John |
+| UG_KII_RadioPacis_SM_27Aug | L97 (FUNC-PARTNER, pass B only, medium: partners like ARUDIFA fitted into the farmers' programme long before FRI) | Accept FUNC-PARTNER. CTX-HIST on L97 stays |
+| same | L99 (FUNC-PARTNER, pass B only, medium: a partner takes charge of the design and content of the show it pays for) | Accept FUNC-PARTNER (how paying partners contribute) |
+| — | — | FUNC-PARTNER: 54 verdicts in 33.1 against 55 left at the start; one row unseen or not saved, check the pending filter |
 
 ---
 
