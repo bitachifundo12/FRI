@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (36, INC-INVEST, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (37, INC-MARKET, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2077,3 +2077,11 @@ GESI-OTHER: all 30 given verdicts (35.1), 46/46. INC-INVEST: **19 of 41 decided,
 | UG_IDI_RadioPacis_Andifeku_07_28Aug | L57 (INC-INVEST, pass B only, high: bought a goat with proceeds from early land preparation and manure) | Accept INC-INVEST (practice named, returns reinvested) |
 | UG_IDI_RadioPacis_Rondo_01_28Aug | L60 (INC-INVEST: over 150,000 shillings, mostly seeds, manure and labour) | Accept INC-INVEST (F3 outlay). Source of the money and period not stated |
 | — | — | INC-INVEST: all 22 given verdicts, should read 41/41 |
+
+## 37. Session 10 continued (8 Oct 2026): INC-MARKET
+
+INC-MARKET: 19 of 20 decided, 1 left.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L89 (INC-MARKET, both passes: "the biggest effect is storage facility which is small for the cooperative") | Accept INC-MARKET (storage is in the definition; a constraint on turning harvest into income). The second sentence (farmers not seeing the benefit of cooperative membership) is the pending INC-OTHER row: likely Reject, not about converting harvest to money |
