@@ -2163,3 +2163,7 @@ KNOW-RECALL: 50 of 75 decided, 25 left. Test: a specific practice, variety, timi
 | UG_IDI_RadioPacis_Andifeku_05_28Aug | L25 (KNOW-RECALL + ADOPT-TRIAL, both passes, high: plant vegetables in the valley during the off-season) | Accept KNOW-RECALL + ADOPT-TRIAL (specific timing and place; flagged in 12.5) |
 | UG_IDI_RadioPacis_Andifeku_07_28Aug | L25 (KNOW-RECALL: coffee and banana planting, spacing, crop management) | Recode KNOW-VALUE (~70%: crops named, practices general) |
 | UG_IDI_RadioPacis_Rondo_01_28Aug | L25 (KNOW-RECALL, both passes, high: short-term crops like tomatoes, eggplants, cabbages for quick income) | Accept KNOW-RECALL (~70%: named crops with the rationale) |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L26 (KNOW-RECALL, both passes: in "Let's Get Farming" a lady talked about poultry farming) | Recode KNOW-VALUE (~70%: segment and topic, no technique). DIFF-KIN on L26 stays |
+| same | L39 (KNOW-RECALL, both passes: learned to make organic manure and organic sprays from locally available plants) | Accept KNOW-RECALL (named techniques attributed). ADOPT-TRIAL also fits (answer to "have you tried", L36 shows she acts): add if not coded |
+| same | L45 (KNOW-RECALL, both passes: sandy soil; learned soil fertility management and using local manure) | Recode KNOW-VALUE (~70%: topic level; the practice is on L46). INC-CHANGE on L45 stays |
+| — | — | KNOW-RECALL: all 25 given verdicts, should read 75/75 |
