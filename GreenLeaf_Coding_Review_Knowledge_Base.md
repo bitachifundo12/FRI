@@ -2270,3 +2270,13 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | Session | Line | Verdict |
 |---|---|---|
 | UG_IDI_AtekerFM_Rupa_05_01Sep | L22 (pass A only: "Every morning.") | Reject (closing the 1 Oct Pending, 8 Oct rule): Ateker's Green Leaf slot is Monday 5-6pm, so "every morning" most likely means radio in general. Her direct access is already accepted on L19 (own phone). ACC-DIRECT should read 88/88 |
+
+## 51. Session 10 continued (8 Oct 2026): ACC-OTHER (last 4)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L57-L58 (pass A only, low: youth "yes, I have the control") | Reject as duplicate: ACC-DIRECT on L58 already accepted (12.4) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L114 (pass B only, low: "yes, I have heard about something like that" after the facilitator described Uliza) | Reject (~70%): prompted, qualifies the accepted L112 ACC-OTHER ("no, it sounds new"); extend that span rather than count twice |
+| UG_IDI_BBSRadio_Labongo_03_25Aug | L51-L52 (pass A only: "No, I have never called during the talk show") | Accept ACC-OTHER (recorded absence of phone-in participation, Q+A span; no count so not REACH-ENGAGE). If the recoded L52 row already holds this, reject one |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L17 (both passes, high: heard Otita Agrikicani for some time without attention; mother-in-law followed it) | Accept ACC-OTHER (first-heard answer; she heard it on the radio herself, so not ACC-SHARED). ACC-SCHED and GESI-OTHER on L17 stay |
+| — | — | ACC-OTHER should read 114/114 |
