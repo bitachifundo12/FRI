@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (29, FUNC-CONTENT, as of 8 Oct)**; conventions also in 18.0-29.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (30, FUNC-FEEDBACK, as of 8 Oct)**; conventions also in 18.0-30.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1315,6 +1315,30 @@ GESI-ACCESS left at about 42 of 47 (4 Pending, see 28.1). FUNC-CONTENT started (
 | UG_KII_RadioPacis_RC2_27Aug | L11 (FUNC-CONTENT, pass B only, medium: coordinates the markets/weather specialist and the farmer groups to record for the enterprise) | Accept FUNC-CONTENT (resource-person selection and field planning around the enterprise; phrased as his duty, but it says how the show is assembled) |
 | same | L24-L25 (FUNC-CONTENT, pass A only, medium: "every enterprise that we undertake… content development training… with farm radio") | Accept FUNC-CONTENT (~70%: a content development training with FRI for each enterprise). L24 is filler; frequency and who attends not stated |
 | same | L33 (FUNC-CONTENT, pass B only, medium: station's 9-9:30 "commodity prizes" [prices] programme; presenter gathers prices from Pakwach to Adjumani, used in the market segment) | Accept FUNC-CONTENT (~70%: how the Green Leaf market segment is sourced, per L34). The separate station programme itself is not coded |
+
+---
+
+## 30. Session 10 continued (8 Oct 2026): FUNC-FEEDBACK
+
+FUNC-CONTENT left part-way (27 verdicts in 29.1; check the remaining count). FUNC-FEEDBACK: **25 of 50 decided, 25 left** (accepted 17, recoded 1, rejected 7). Bulk accept off for Ghana (68% of 25 kept their code).
+
+### 30.0 Checks for FUNC-FEEDBACK
+- How farmer responses are collected, recorded and acted on: call-in logs, Uliza voice notes and menus, listener visits, street encounters, feedback-driven changes. No counts needed.
+- Counts of people who did something → REACH-ENGAGE; Uliza figures → REACH-PLATFORM (Uganda). Uliza material selected for air can also carry FUNC-CONTENT.
+- A slot moved at farmers' request → ACC-SCHED (frame example), not this code (Pacis HC L10, 29.1).
+
+### 30.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L91-L94 (FUNC-FEEDBACK, pass B only, high: download Uliza content, listen, air only what is worth it) | Accept FUNC-FEEDBACK (farmer responses screened and used on air). FUNC-CONTENT on L92-L94 stays, different code. Q+A fragments: Don't quote alone |
+| UG_KII_AtekerFM_SM_31Aug | L53-L54 (FUNC-FEEDBACK, both passes, high: when the programme is missed, listeners call complaining "where is our program tonight") | Accept FUNC-FEEDBACK (~70%: unsolicited calls reaching the station; no count, so not REACH-ENGAGE). Useful as evidence of audience attachment |
+| same | L62 (FUNC-FEEDBACK, pass B only, high: Napak listener called asking for their own technical people on air; transport the obstacle) | Accept FUNC-FEEDBACK (listener request received; acting on it blocked by guest transport, the L58-L62 lapse) |
+| same | L128 (FUNC-FEEDBACK, both passes, high: relies on community feedback in the street; many listeners never call; Mzee Kidon) | Accept FUNC-FEEDBACK (informal feedback channel, flagged in 15.1). REACH-OTHER on L128 stays |
+| UG_KII_BBSRadio_EO_25Aug | L24 (FUNC-FEEDBACK, pass B only, medium: farmers in the field say they listened; farmers call him on air almost every Monday) | Accept FUNC-FEEDBACK (~70%: verbal feedback on field visits and on-air calls; no count, so not REACH-ENGAGE) |
+| same | L65 (FUNC-FEEDBACK + CTX-STATUS, pass B only, medium: Uliza participation increased; farmers beep and are called back; most voice notes not played for lack of time) | Accept FUNC-FEEDBACK + CTX-STATUS (~70%: capture mechanism and what is done with it; Uliza participation increased). L146-L147 he doesn't know beep counts, which fits: he knows the mechanism, not the numbers |
+| UG_KII_BBSRadio_HC_25Aug | L18-L19 (FUNC-FEEDBACK, pass A only, medium: opens Uliza recordings, comments for partners, "quality assurance") | Accept FUNC-FEEDBACK (coordinator reviews and responds to farmer responses). Not FUNC-GOV: no decision rights or accountability described |
+| same | L119-L122 (FUNC-FEEDBACK, both passes, high: calls recorded into the system; Uliza voices played on air and questions answered) | Accept FUNC-FEEDBACK (captured and acted on). The figure block (750,000-1m UGX per extension worker) belongs to L105-L107, not these lines: don't verify here |
+| UG_KII_BBSRadio_RC1_24Aug | L161-L167 (FUNC-FEEDBACK, both passes, high: Uliza menu by sex and age; how many men, women, youth interacted) | Accept FUNC-FEEDBACK (disaggregated capture design; no figures, so not REACH-PLATFORM). Keep separate from the L170-L171 FUNC-FEEDBACK row (recorded voices). L158 IKEA Foundation funded Uliza = CTX-HIST, add if not coded |
 
 ---
 
