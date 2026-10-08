@@ -2323,3 +2323,14 @@ COST-BOUNDARY: 15 of 26 decided, 11 left. Test: a cost the respondent knows of b
 | same | L83 (pass A only: last charged 700,000 facilitation per hour) | Reject as duplicate: already SUST-DEMAND-STATED (22.1); the 700,000 is the replacement basis already on the L108 COST-INKIND row |
 | UG_KII_BBSRadio_SM_25Aug | L173-L174 (both passes, low: the Green Leaf hour is the station's talk-show time) | Accept COST-INKIND (~70%: station gives saleable prime airtime; realised talk-show prices, L177-L179, are the replacement basis). Count the airtime in-kind once with L78 |
 | — | — | COST-INKIND should read 47/47 |
+
+## 55. Session 10 continued (8 Oct 2026): COST-VOLUNTEER (last 5)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_EO_01Sep | L52-L54 (pass B only, low: "It is just one hour" per week) | Accept COST-VOLUNTEER (~70%: his weekly time; unpaid per L58 "we go voluntarily"). Q+A span, Don't quote. Whether the hour is prep or airtime, John |
+| UG_KII_AtekerFM_RC_31Aug | L15 (pass B only, low: hub people need motivation, transport, time compensated) | Reject (~70%): a stated need, already SUST-RESTART on L15; the absorbed cost is the COST-VOLUNTEER row on L16-L19 |
+| UG_KII_AtekerFM_SM_31Aug | L110 (pass A only, low: guests now come and walk back) | Reject as duplicate: SUST-LAPSE + COST-VOLUNTEER on L110 already accepted |
+| UG_KII_BBSRadio_EO_25Aug | L129-L137 (COST-VOLUNTEER + FUNC-CONTENT, pass A only: ~15 minutes rehearsing guiding questions with the presenter before the show) | Accept COST-VOLUNTEER (~70%: extra unbudgeted time he frames as his own, L144; 15 min per show). FUNC-CONTENT on L130-L131 stays |
+| UG_KII_RadioPacis_RC1_27Aug | L27 (pass A only: guests' morale drops when airtime or transport isn't facilitated) | Reject (~70%): the loss is already the second SUST-LAPSE row on L27 (guest participation); no individual is said to pay their own way |
+| — | — | COST-VOLUNTEER should read 42/42 |
