@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (62, SUST-RESTART, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (65, review at 100%, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2438,3 +2438,17 @@ SUST-RESTART: 22 of 36 decided, 14 left.
 | Session | Line | Decision |
 |---|---|---|
 | GH_FGD_GardenCityRadio_Jamasi_01_19Aug | L32 (ECO-COMPARATOR, Quantified No, pass A only; Ahmed asked: ECO-COMPARATOR or uncoded? associations give boots, cutlasses, tools) | Reject. **Lead ruling (make a rule):** material or input support (tools, boots, inputs) from groups or associations is not ECO-COMPARATOR, which needs another source of agricultural information or advice; not ECO-OTHER either (OTHER is not a parking space). Leave uncoded; the associations as a route for programme content are DIFF-FORMAL on L36. RA reconstruction, programme-identity check applies |
+
+---
+
+## 65. Status 8 Oct 2026 (evening): review at 100%
+
+The user confirmed every row is now decided (100% reviewed, both countries; lead queue cleared). Rows closed today without audio or transcript checks follow the 8 Oct lead decision (conservative reading, Don't quote, note "decided without audio").
+
+**Still open after 100% (not row decisions):**
+- **Close sessions** so the report writer can quote (Uganda had 0 of 41 closed; Ghana 28 of 35).
+- **Tilevu_02 sweep:** reject accepted rows on copied lines (matches Olevu_01 and Naitakwai_02); add missing Olevu L30 and L50 KNOW-VALUE rows if absent. Nabuin L61 = Naitakwai L60 also copied. John to check the transcripts.
+- **Decisions that did not save** (tell Ahmed): BBS SM L212 Naseco SUST-REVENUE, L215 SUST-LAPSE; Ateker SM L65-L66; Pacis RC2 L58 SUST-CONTINUE; Pacis RC2 L85 SUST-OTHER; Pacis RC1 L76 GESI→REACH-ENGAGE.
+- **Figures:** none verified against audio/records; John's list in 17.3 and the per-row notes.
+- **Frame amendments to propose:** engagement-barrier and awareness codes (ACC-OTHER); GESI-ROLE extended to Uganda; SUST-RESTART widened / SUST-RISK; SUST-OTHER rewrite; household income-decision rule (GESI-OTHER); baseline-income rule (INC-OTHER); hub self-rating rule (CTX-OTHER); absence-of-difference question (GESI-ACCESS); material support ≠ ECO-COMPARATOR (64).
+- **Open identity checks:** Akuafo Mrre vs Akuafo Shefa (Ahmed); sealed sessions; double-coding sample was never drawn, so no inter-coder reliability figure can be reported from this round.
