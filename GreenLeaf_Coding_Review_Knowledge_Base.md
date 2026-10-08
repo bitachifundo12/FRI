@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (28, GESI-ACCESS, as of 2 Oct)**; conventions also in 18.0-28.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (29, FUNC-CONTENT, as of 8 Oct)**; conventions also in 18.0-29.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -1271,6 +1271,32 @@ DIFF-FORMAL left part-way (21 verdicts in 27.1; Tilevu_02 rows on hold). GESI-AC
 | same | L74 (GESI-ACCESS, both passes, medium: "Yes top to bottom, men are leading, followed by women.") | Recode GESI-OTHER (~70%: more men than women take part on Uliza, L76; a participation difference with no mechanism, same call as L32). L77's follow-up ("now… a bit clearly… hierarchy of leadership") shows L70-L76 was about participation, not leadership. Span L72-L74, Don't quote alone. L76 recalled Uliza shares (about 54 men, 30 women per 100, rest youth) = REACH-ENGAGE (recall, not platform data, so not REACH-PLATFORM), add if not coded |
 | same | L76 (GESI-ACCESS, both passes, medium: "On a scale of about a hundred, you'll find that about 54 or five there are for men. Then women can be around 30.") | Recode REACH-ENGAGE (the row flagged on L74: recalled shares of Uliza participants by sex; a count of people doing something, not access). Figure block: ~54-55 men, ~30 women per 100 participants per episode upload, confidence Recalled ("I can't now tell exactly"), not recorded; John to get the real sex split from Uliza/FRI records (then REACH-PLATFORM). Never an audience measure |
 | same | L76 (GESI-ACCESS, pass B only, medium: "most times, you'll see more men 34 below. They participate, that means this is more of youth.") | Recode GESI-OTHER (~70%: an age difference in Uliza participation, younger men more active; no mechanism, same call as L74 for sex). The 35 cut-off talk before it is muddled: John to get the age split from Uliza records with the sex split |
+
+---
+
+## 29. Session 10 (8 Oct 2026): FUNC-CONTENT
+
+GESI-ACCESS left at about 42 of 47 (4 Pending, see 28.1). FUNC-CONTENT started (count not shown). FUNC is a Hub-set code.
+
+### 29.0 Checks for FUNC-CONTENT
+- How topics are chosen, scripted, scheduled and prepared, and planning assets (topic calendars, synopses, content design documents, work plans), including resource-person briefing and matching.
+- Not the broadcast slot (ACC-SCHED); not who sits on the hub (CTX-HUB, which can sit beside it on the same span: roster vs briefing); not how farmer responses are collected and acted on (FUNC-FEEDBACK, which can sit beside it when Uliza material is selected for air).
+- Time for content inside the hour and the format's needs (farmer voices, success stories) → FUNC-CONTENT (BBS EO L150, 15.1).
+- **Recommendations for a different delivery channel** (practical demonstrations, field days) are not content design: ECO-COMPARATOR holds them. Recommendations about the programme's own content or segment length stay FUNC-CONTENT (Pacis EO L89-L90).
+- Outside organisations supplying content or training → FUNC-PARTNER as second code.
+
+### 29.1 Verdicts given (session, line → verdict)
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_RC_31Aug | L18 (FUNC-CONTENT, pass B only, medium: "I have my work plan… submit, they have it… I have my groups already prepared and ready") | Accept FUNC-CONTENT (~70%: field-recording preparation, a submitted work plan and farmer groups lined up; not FUNC-GOV, nothing about who decides). The facilitation gap after it is the COST-VOLUNTEER L18-L19 row |
+| same | L20 (FUNC-CONTENT, medium: "this program needs voice for the farmers… not only my voice… not only experts… success stories") | Accept FUNC-CONTENT (~70%: the format's content needs, farmer voices and success stories beside presenter and experts). Keep separate from L18 (preparation vs format) |
+| same | L92-L94 (FUNC-CONTENT, pass A only, high: downloads Uliza content, listens, airs only what is worth it, not every week) | Accept FUNC-CONTENT (selection of Uliza material for air). The FUNC-FEEDBACK row on L91-L94 can stay (farmer responses used on air), different code |
+| UG_KII_BBSRadio_EO_25Aug | L120 (FUNC-CONTENT: with 15 minutes, an enterprise runs over months, delaying farmers; broiler six weeks vs six months) | Accept FUNC-CONTENT (how the short officer slot spreads enterprise content over weeks; same as L150). The 15 minutes is the interviewer's, confirmed "Exactly" (L118). The accepted ECO-COMPARATOR row on L120 has no other source in view: worth reopening |
+| UG_KII_BBSRadio_HC_25Aug | L26-L27 (FUNC-CONTENT, pass A only, high: mobilise non-radio staff, tell them the content, pick vet/fisheries/crop person to host) | Accept FUNC-CONTENT (resource-person matching and briefing, apply-when). CTX-HUB on the same span stays (roster) |
+| UG_KII_Ecosystem_EPC2_21Aug | L167-L168 (FUNC-CONTENT, both passes, high: farmer-voices segment; coordinators develop content, select topic, invite DFOs for agroforestry) | Accept FUNC-CONTENT (segments, topic choice, resource persons). Outsider (AID Environment) describing the hubs generally, no hub named |
+| same | L174-L178 (FUNC-CONTENT, both passes, medium: coordinators develop own content in trainings; AID Environment brings e.g. biofertilizer knowledge they incorporate) | Accept FUNC-CONTENT. FUNC-PARTNER second code in the note (outside organisation supplying technical content). L175-L177 speaker echoes, fine in span |
+| same | L180-L181 (FUNC-CONTENT, both passes, high: FRI's content design document; partners give feedback; FRI shares it with the Green Leaf platforms) | Accept FUNC-CONTENT (planning asset and review loop). Don't merge into L174-L178 (different statement). Request the document from FRI for the asset file |
+| UG_KII_Ecosystem_EPC_11Sep | L128 (FUNC-CONTENT, pass B only, medium: recommendation to move from awareness radio to practical demonstration) | Reject (~70%): demonstrations are another delivery channel, not how programme content is designed; already accepted as ECO-COMPARATOR on L128 |
 
 ---
 
