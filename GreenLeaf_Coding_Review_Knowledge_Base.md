@@ -2247,3 +2247,12 @@ REACH-OTHER: 28 of 33 decided, 5 left.
 | Session | Line | Verdict |
 |---|---|---|
 | UG_KII_RadioPacis_RC1_27Aug | L76 (REACH-PLATFORM + GESI-ACCESS, pass B only: ~54-55 men, ~30 women per 100 Uliza participants; age bands) | Reject: his recall ("I can't now tell exactly"), not figures from the platform; no access mechanism for GESI-ACCESS. Already REACH-ENGAGE on L76 (44) and GESI-OTHER (28.1). REACH-PLATFORM should read 18/18 |
+
+## 48. Session 10 continued (8 Oct 2026): SUST-CONTINUE (last 3)
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_KII_AtekerFM_SM_31Aug | L111-L116 (pass A only, low: remaining cost is field transport, 40,000-50,000 nearest, 125,000 farthest) | Reject as duplicate (~70%): that FRI money still covers transport is the accepted L68 SUST-CONTINUE row; the amounts are already COST-CASH on L111-L112 and L116 |
+| UG_KII_RadioPacis_EPC_28Aug | L38-L39 (SUST-CONTINUE + SUST-REVENUE, pass B only: "Yes." to sponsored recently / currently) | Reject as duplicate: SUST-REVENUE on L39 accepted (15.1) and Syova's continuing sponsorship is the SUST-CONTINUE recode on EPC L36 |
+| UG_KII_RadioPacis_RC2_27Aug | L58 (pass A only, high: Syova "have really come on board, they've not left") | Reject as duplicate: the SUST-REVENUE row on this span was recoded SUST-CONTINUE (15.1). The panel shows no SUST-CONTINUE on L58, so if that recode didn't save, Accept this one instead |
+| — | — | SUST-CONTINUE should read 60/60 |
