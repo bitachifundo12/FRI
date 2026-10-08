@@ -2022,3 +2022,15 @@ GESI-NORM: all 14 remaining rows given verdicts (34.1). GESI-OTHER: **16 of 46 d
 | UG_FGD_BBSRadio_Kahaara_01_24Aug | L94 (GESI-OTHER, both passes: women's cooperative, few men, chairperson male, rest of committee female) | Accept GESI-OTHER |
 | UG_FGD_BBSRadio_Kiyuya_02_26Aug | L54 (GESI-OTHER, both passes: 80 members, committee of 13, 5 women and 8 men) | Accept GESI-OTHER. RELC or the group's own committee, John |
 | same | L56 (GESI-OTHER, both passes, low: "we exercise our right as committee members to discuss and influence decisions") | Accept GESI-OTHER (~70%: answer to whether women may decide; women's influence, not only presence). Separate from L57 (GESI-NORM, permission). Batebya Oliver's sex, John: if a man speaking of members generally, Reject |
+| — | — | **Convention (8 Oct):** every answer to the F5 probe "who in the household decides how extra income is used" → GESI-OTHER, whoever decides (alone, husband, wife, jointly, with children), so the sex split can be reported from one code; the money itself stays in INC rows. Joint labour with no decision or control content → not coded |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L62 (GESI-OTHER, both passes: five women in the group's leadership, incl. vice chair, secretary, two advisers, project officer) | Accept GESI-OTHER (women's leadership). RELC or the group's own, John |
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L53 (GESI-OTHER, both passes: Ayelembe Farmers Group led by women) | Reject (closing under the Tilevu_02 integrity hold): women-led groups are already accepted at Olevu L62 and Nabuin L62-L64 |
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L70 (GESI-OTHER: "I make my own decisions since I am alone") | Accept GESI-OTHER (F5 convention; woman alone decides). INC-OTHER on L70 stays for the income |
+| UG_IDI_AtekerFM_Komaret_02_01Sep | L68 (GESI-OTHER: decides personally, by most pressing needs; no husband per L10) | Accept GESI-OTHER (F5 convention) |
+| UG_IDI_AtekerFM_Komaret_03_01Sep | L10 (GESI-OTHER: sorghum goes into the granary "and the woman takes over") | Accept GESI-OTHER (~70%: wife controls the stored harvest, a control-of-produce point like F5) |
+| same | L11 (GESI-OTHER, pass B only: works hand in hand with his wife during planting) | Reject (~70%): joint labour, no difference or control stated |
+| same | L69 (GESI-OTHER, both passes: gives his wife the money to keep, they plan together) | Accept GESI-OTHER (F5). INC-CHANGE on L69 stays |
+| UG_IDI_AtekerFM_Rupa_04_01Sep | L65-L66 (GESI-OTHER: "I decide with my children at home") | Accept GESI-OTHER (F5). Don't quote alone |
+| UG_IDI_AtekerFM_Rupa_05_01Sep | L66 (GESI-OTHER: plans with her husband at the end of each business day) | Accept GESI-OTHER (F5). Speaker untagged |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L84 (GESI-OTHER: "I sit with my wife and allocate the money") | Accept GESI-OTHER (F5). INC-INVEST on L84 (cow) stays |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L85 (GESI-OTHER: wife does the selling and brings the money home; family decides together) | Accept GESI-OTHER (F5) |
