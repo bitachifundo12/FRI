@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (40, KNOW-RECALL, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (41, KNOW-TRUST-OUTCOME, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2167,3 +2167,19 @@ KNOW-RECALL: 50 of 75 decided, 25 left. Test: a specific practice, variety, timi
 | same | L39 (KNOW-RECALL, both passes: learned to make organic manure and organic sprays from locally available plants) | Accept KNOW-RECALL (named techniques attributed). ADOPT-TRIAL also fits (answer to "have you tried", L36 shows she acts): add if not coded |
 | same | L45 (KNOW-RECALL, both passes: sandy soil; learned soil fertility management and using local manure) | Recode KNOW-VALUE (~70%: topic level; the practice is on L46). INC-CHANGE on L45 stays |
 | — | — | KNOW-RECALL: all 25 given verdicts, should read 75/75 |
+
+## 41. Session 10 continued (8 Oct 2026): KNOW-TRUST-OUTCOME
+
+KNOW-TRUST-OUTCOME: 8 of 16 decided, 8 left. Test: trust justified by the advice having worked (own or others' results) or schedule reliability. General "useful, practical" with no result → KNOW-VALUE.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_IDI_AtekerFM_Komaret_01_01Sep | L32 (both passes, high: radio more trusted because it once helped her out of hopelessness) | Accept KNOW-TRUST-OUTCOME. ECO-COMPARATOR and KNOW-CONFUSE on L32 stay |
+| UG_IDI_BBSRadio_Kyakamese_05_25Aug | L43 (both passes, high: advice crucial, high yields from pest control, fertiliser, group selling) | Accept KNOW-TRUST-OUTCOME (~70%). He doesn't listen himself (L39): advice reached him via the chairperson, say so |
+| UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L50 (both passes: still uses manure "because of the good results") | Recode ADOPT-SUSTAIN (~70%: answer to why he still uses the practice, L47-L49; retention with reason, not a trust statement) |
+| UG_IDI_BBSRadio_Kyamugweri_06_25Aug | L53 (KNOW-TRUST-OUTCOME + ECO-COMPARATOR No: trusts it because it raises living standards; trusts it most of advisory programmes) | Accept KNOW-TRUST-OUTCOME + ECO-COMPARATOR (Quantified No). Other programmes unnamed |
+| UG_IDI_BBSRadio_Labongo_02_24Aug | L35 (both passes, high: "highly trust it because it has really brought me from afar… greatly benefited") | Accept KNOW-TRUST-OUTCOME |
+| UG_IDI_RadioPacis_Andifeku_03_28Aug | L35 (pass A only: ideas very useful, practical; following it "can help improve") | Reject (~70%): general appraisal and a conditional, no result; KNOW-VALUE on L35 already holds it |
+| UG_IDI_RadioPacis_Andifeku_06_28Aug | L28 (pass A only: useful and beneficial, practical, helps farmers improve) | Reject (~70%): same, KNOW-VALUE on L28 already accepted |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L28 (both passes: trusts it because farmers on air shared success stories with coffee and banana) | Accept KNOW-TRUST-OUTCOME (trust from the advice having worked for other farmers). ADOPT-TRIAL on L28 stays |
+| — | — | KNOW-TRUST-OUTCOME: all 8 given verdicts, should read 16/16 |
