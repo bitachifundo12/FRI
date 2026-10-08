@@ -2034,3 +2034,13 @@ GESI-NORM: all 14 remaining rows given verdicts (34.1). GESI-OTHER: **16 of 46 d
 | UG_IDI_AtekerFM_Rupa_05_01Sep | L66 (GESI-OTHER: plans with her husband at the end of each business day) | Accept GESI-OTHER (F5). Speaker untagged |
 | UG_IDI_BBSRadio_Kyamugweri_01_24Aug | L84 (GESI-OTHER: "I sit with my wife and allocate the money") | Accept GESI-OTHER (F5). INC-INVEST on L84 (cow) stays |
 | UG_IDI_RadioPacis_Andifeku_03_28Aug | L85 (GESI-OTHER: wife does the selling and brings the money home; family decides together) | Accept GESI-OTHER (F5) |
+| UG_IDI_RadioPacis_Andifeku_05_28Aug | L66 (GESI-OTHER, both passes: discusses income with his wives; divides farming activities between two wives) | Accept GESI-OTHER (F5) |
+| UG_IDI_RadioPacis_Andifeku_07_28Aug | L66 (GESI-OTHER, pass A only: wife decides, makes the budget) | Reject as duplicate: the GESI-NORM row on L66 was already recoded GESI-OTHER (34.1) |
+| UG_IDI_RadioPacis_Rondo_01_28Aug | L66 (GESI-OTHER, both passes: he and his wife decide together, discussing both their needs) | Accept GESI-OTHER (F5) |
+| UG_IDI_RadioPacis_Rondo_02_28Aug | L17 (GESI-OTHER, pass B only: "the testimony given by women on radio encouraged me") | Accept GESI-OTHER (~70%: women's voices on air drawing a woman to listen; on-air representation, as Ateker HC L22). The pending ACC-OTHER on L17 (awareness) stays |
+| UG_KII_BBSRadio_RC1_24Aug | L179-L182 (GESI-OTHER, both passes: broadcaster and manager women, production officer and others men) | Reject as duplicate: CTX-HUB + GESI-OTHER on L179 already accepted. Uliza figures not on these lines |
+| UG_KII_BBSRadio_SM_25Aug | L253 (GESI-OTHER, both passes, low: "The morale is low" to commitment to women and youth farmers) | Reject (~70%): no gender or inclusion content in the answer; Don't quote |
+| UG_KII_RadioPacis_RC1_27Aug | L84 (GESI-OTHER, both passes: "In our hub, specifically, we don't have any lady") | Accept GESI-OTHER (no women in hub leadership; Brenda is at FRI, L85-L86). Uliza figures not on this line |
+| UG_KII_RadioPacis_RC2_27Aug | L32 (GESI-OTHER, both passes: a female reads the farmers' news to balance the male presenter) | Accept GESI-OTHER (deliberate women's presence on air) |
+| same | L83 (GESI-OTHER, both passes: FRI digital lead and producer male; content developer and monitor female) | Accept GESI-OTHER (sex of those running Uliza, answer to L82) |
+| — | — | GESI-OTHER: all 30 given verdicts, should read 46/46 |
