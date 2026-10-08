@@ -2432,3 +2432,9 @@ SUST-RESTART: 22 of 36 decided, 14 left.
 | UG_KII_BBSRadio_SM_25Aug | L204 (pass B only, low: financial health "in the middle") | Reject as duplicate: SUST-OTHER on L204 accepted (24.1) |
 | UG_KII_RadioPacis_RC2_27Aug | L36 (pass A only: previously Syova, none now, Buffalo Bicycles starts tomorrow) | Reject as duplicate: SUST-DEMAND-REVEALED + SUST-REVENUE and FUNC-PARTNER on L36 accepted; Syova's money is on SM L24; Buffalo not yet paying |
 | — | — | SUST-REVENUE should read 75/75 |
+
+## 64. Lead queue (8 Oct 2026)
+
+| Session | Line | Decision |
+|---|---|---|
+| GH_FGD_GardenCityRadio_Jamasi_01_19Aug | L32 (ECO-COMPARATOR, Quantified No, pass A only; Ahmed asked: ECO-COMPARATOR or uncoded? associations give boots, cutlasses, tools) | Reject. **Lead ruling (make a rule):** material or input support (tools, boots, inputs) from groups or associations is not ECO-COMPARATOR, which needs another source of agricultural information or advice; not ECO-OTHER either (OTHER is not a parking space). Leave uncoded; the associations as a route for programme content are DIFF-FORMAL on L36. RA reconstruction, programme-identity check applies |
