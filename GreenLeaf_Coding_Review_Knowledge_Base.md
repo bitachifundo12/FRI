@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (39, KNOW-CONFUSE, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (40, KNOW-RECALL, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2134,3 +2134,19 @@ KNOW-CONFUSE: 47 of 49 decided, 2 left, both Tilevu_02 rows Pending since 5 Oct.
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L13 (KNOW-CONFUSE, both passes: "we do not know whether we are doing things correctly… confidence at 50 out of 100") | Reject (closing without the transcript check): Tilevu_02 has several lines copied from other transcripts, so none of its rows is counted until John clears it. If he confirms the line is genuine → Accept KNOW-CONFUSE |
 | same | L22 (KNOW-CONFUSE, both passes, high: dealers push chemical inputs on radio, Green Leaf promotes organic, farmers unsure which to follow) | Reject (closing): word for word Olevu L29 by the same speaker; accepting would count one statement twice. ECO-COMPARATOR on L22 is on the same copied text: reject it too in a sweep |
 | UG_FGD_RadioPacis_Tilevu_02_28Aug | L23 (KNOW-OTHER, pass A only: Green Leaf doesn't integrate agroforestry enough; more emphasis on trees with crops and livestock) | Reject (closing): word for word Olevu L30 by the same speaker; code the Olevu original as KNOW-VALUE (user's 5 Oct note). The pending KNOW-VALUE on Tilevu L23 is also Reject. KNOW-OTHER now 10/10 |
+
+## 40. Session 10 continued (8 Oct 2026): KNOW-RECALL
+
+KNOW-RECALL: 50 of 75 decided, 25 left. Test: a specific practice, variety, timing or technique reproduced with enough detail to check against a broadcast, attributed to the programme. Topic names or segment names alone → KNOW-VALUE (11.3).
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_AtekerFM_Nabuin_01_31Aug | L11 (KNOW-RECALL, pass B only: Ateker FM guides when and how to plant, cover crops, crop rotation) | Recode KNOW-VALUE (~70%: topic list, no checkable detail; attributed to the station generally). ECO-COMPARATOR on L11 stays |
+| UG_FGD_BBSRadio_Kahaara_01_24Aug | L16 (KNOW-RECALL, both passes, high: fertiliser from local biodegradable materials, chicken droppings, goat manure, leaves) | Accept KNOW-RECALL |
+| same | L20 (KNOW-RECALL, both passes, high: good seed, local fertiliser, mulching; zero grazing so cow dung becomes garden manure) | Accept KNOW-RECALL (zero-grazing manure is specific; the rest is topic-level) |
+| same | L28 (KNOW-RECALL, both passes, high: free-range chicken with locally made feed; chicken manure for bananas) | Accept KNOW-RECALL |
+| UG_FGD_BBSRadio_Kiyuya_02_26Aug | L18 (KNOW-RECALL, both passes, high: try another crop; women grow Nakati on small plots and integrate chicken rearing) | Accept KNOW-RECALL (~70%: named crop and combination). ACC-OTHER on L18 stays |
+| same | L24 (KNOW-RECALL, both passes, low: "they talked about how easy growing water melons is") | Recode KNOW-VALUE (~70%: topic only). ADOPT-BARRIER on L24 stays |
+| UG_FGD_RadioPacis_Olevu_01_27Aug | L15 (KNOW-RECALL, both passes: "I learnt how to make organic fertilizers through the Otita Agrikicani program") | Accept KNOW-RECALL (~70%: named technique attributed; no method detail) |
+| same | L21 (KNOW-RECALL: "Digging Deep" encouraged soil and water conservation; "Let's Get Farming" circular and regenerative practices) | Reject (~70%): segment names and topics, no technique; KNOW-VALUE and ADOPT-TRIAL on L21 already hold it |
+| same | L26 (KNOW-RECALL, both passes, high: 30 cm spacing measured with both hands, marked on a stick, for soybeans) | Accept KNOW-RECALL (clear, checkable technique) |
