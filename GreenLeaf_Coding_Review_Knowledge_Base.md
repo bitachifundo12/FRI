@@ -2,7 +2,7 @@
 
 Written 30 September 2026 from a working session with the user. Last updated the evening of 30 Sept after session 6 (SUST-REVENUE, Uganda hub KIIs).
 
-**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (42, KNOW-TRUST-PROCESS, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
+**Start here next session:** read 11.1 (row procedure and strict reply format), then the conventions in 11.3, 12.2, 13.0, 15 (SUST checks), 16 (Ahmed's adopted rules) and 17.1. **Where to resume: the latest session section (43, KNOW-VALUE, as of 8 Oct)**; conventions also in 18.0-31.0. Unfinished: ~13 ACC-DIRECT, all ACC-SHARED, unflagged ACC-SCHED, rest of ACC-OTHER, SUST-REVENUE, SUST-DEMAND-REVEALED, SUST-OTHER, SUST-CONTINUE. Log verdicts in the table of the current session section before replying. Appendix A holds the full Coding frame sheet verbatim, so the source docx and xlsx do not need re-reading. Purpose: let a fresh Claude session pick up the work with full context and without re-reading the source files.
 
 Everything here comes from four sources: the user's Gmail (read-only), the two files the user attached (`GL Coding Framework_v0.3-10.docx` and `Green_Leaf_Coding_Frame.xlsx`, both in `C:\Users\bitac\OneDrive\Desktop\qwerty\`), the Guide page pasted by the user, and screenshots the user shared of the review app. Where something is inferred rather than seen, it says so.
 
@@ -2197,3 +2197,14 @@ KNOW-TRUST-PROCESS: 6 of 12 decided, 6 left. Test: trust from how the programme 
 | UG_IDI_RadioPacis_Andifeku_05_28Aug | L28 (both passes, high: trusts it because a variety of experts come on) | Accept KNOW-TRUST-PROCESS |
 | UG_IDI_RadioPacis_Rondo_01_28Aug | L28 (both passes: different experts teach on radio; many farmers share their experiences) | Accept KNOW-TRUST-PROCESS (~70%: experts and farmer voices as the format; the encouragement from other farmers applying it leans OUTCOME, note only) |
 | — | — | KNOW-TRUST-PROCESS: all 6 given verdicts, should read 12/12 |
+
+## 43. Session 10 continued (8 Oct 2026): KNOW-VALUE
+
+KNOW-VALUE: 63 of 66 decided, 3 left, all Tilevu_02. Closed under the 8 Oct out-of-time rule.
+
+| Session | Line | Verdict |
+|---|---|---|
+| UG_FGD_RadioPacis_Tilevu_02_28Aug | L10 (pass A only, high: "This encourages us a lot, and we feel proud when we hear them on the Program") | Reject (closing, Tilevu_02 integrity hold). If John clears the transcript → Accept KNOW-VALUE |
+| same | L23 (pass B only: advice doesn't integrate agroforestry enough) | Reject: word for word Olevu L30; code the Olevu original as KNOW-VALUE (add a missing row if not coded) |
+| same | L41 (both passes: no concerns or disagreements, general view positive) | Reject: matches Olevu L50; code there if not already |
+| — | — | KNOW-VALUE should read 66/66 |
